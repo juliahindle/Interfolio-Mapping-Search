@@ -1,5 +1,11 @@
 # Test Title
+Blah *blah* **blah** 
 
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
 
 ```python
 s = "Python syntax highlighting"
@@ -17,3 +23,6 @@ Markdown | Less | Pretty
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 
+* List item
+...continuing
+* :)
