@@ -6,8 +6,8 @@ OUT_FORMATS = ['dc', 'cip']
 SEARCH_FORMATS = ['id', 'name']
 
 # general function defs
-def clean_string(str):
-	return re.sub(r'\W+', ' ', str.lower())
+def clean_string(words):
+	return re.sub(r'\W+', ' ', words.lower())
 
 def clean_id(num):
 	return num
