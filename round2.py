@@ -25,20 +25,20 @@ class DC:
 		print("The third level DC classification of this object is " + self.Tlvl_name)
 
 
-with open ('trail.csv', 'r') as file:
+with open ('dc_mapping/cip.csv', 'r') as file:
 	CIP_reader = csv.reader(file)
 
 	next(CIP_reader)
 	next(CIP_reader)
-	next(CIP_reader)
+	
 	
 	CIPlist = []
 
 	for line in CIP_reader:
-		CIPlist.append(generic_obj(line[1], line[2], line[3]))
+		CIPlist.append(generic_obj(line[0], line[1], line[4]))
 
 
-with open ('DC.csv', 'r') as file:
+with open ('dc_mapping/REFERENCE.csv', 'r') as file:
 	DC_reader = csv.reader(file)
 
 	next(DC_reader)
@@ -46,13 +46,13 @@ with open ('DC.csv', 'r') as file:
 	DClist = []
 
 	for line in DC_reader:
-		DClist.append(DC(line[4], line[1], line[3], line[5]))
+		DClist.append(DC(line[0], line[1], line[3], line[5]))
 
 
 inpt = raw_input("Please enter the CIPid that you would like to query ")
 
 Gcount = 0
-while(inpt != CIPlist[Gcount].DC_id):	
+while(inpt != CIPlist[Gcount].local_id):	
 	Gcount +=1
 
 temp_id = CIPlist[Gcount].DC_id
