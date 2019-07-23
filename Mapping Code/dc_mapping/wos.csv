@@ -1,0 +1,265 @@
+ID,Low Level Name,Mid Level Name,High Level Name,DC Number,DC Group Name
+0,Acoustics,Science Citation Index,N/A,5.14.01,"Acoustics, Dynamics, and Controls"
+0,Agricultural Economics & Policy,Science Citation Index,N/A,7.01.01,Agricultural Economics
+0,Agricultural Engineering,Science Citation Index,N/A,5.05.01,Bioresource and Agricultural Engineering
+0,"Agriculture, Dairy & Animal Science",Science Citation Index,N/A,7.02.02,Dairy Science
+0,"Agriculture, Multidisciplinary",Science Citation Index,N/A,7.01.00,Agriculture
+0,Agronomy,Science Citation Index,N/A,7.23.02,Agronomy and Crop Sciences
+0,Allergy,Science Citation Index,N/A,8.15.01,Allergy and Immunology
+0,Anatomy & Morphology,Science Citation Index,N/A,8.03.00,Anatomy
+0,Andrology,Science Citation Index,N/A,8.15.40,Urology
+0,Anesthesiology,Science Citation Index,N/A,8.15.02,Anesthesiology
+0,Astronomy & Astrophysics,Science Citation Index,N/A,9.02.00,Astrophysics and Astronomy
+0,Audiology & Speech-Language Pathology,Science Citation Index,N/A,8.06.02,Speech Pathology and Audiology
+0,Automation & Control Systems,Science Citation Index,N/A,5.18.00,"Operations Research, Systems Engineering and Industrial Engineering"
+0,Behavioral Sciences,Science Citation Index,N/A,10.00.00,Social and Behavioral Sciences
+0,Biochemical Research Methods,Science Citation Index,N/A,7.03.01,Biochemistry
+0,Molecular Biology & Molecular Biology,Science Citation Index,N/A,7.03.03,Molecular Biology
+0,Biodiversity Conservation,Science Citation Index,N/A,7.04.01,Biodiversity
+0,Biology,Science Citation Index,N/A,7.06.00,Biology
+0,Biophysics,Science Citation Index,N/A,7.03.02,Biophysics
+0,Biotechnology & Applied Microbiology,Science Citation Index,N/A,7.07.01,Biotechnology
+0,Cardiac & Cardiovascular Systems,Science Citation Index,N/A,8.03.03,Cardiovascular System
+0,Cell Biology,Science Citation Index,N/A,7.08.03,Cell Biology
+0,Cell & Tissue Engineering,Science Citation Index,N/A,5.04.07,"Molecular, Cellular, and Tissue Engineering"
+0,"Chemistry, Analytical",Science Citation Index,N/A,9.03.01,Analytical Chemistry
+0,"Chemistry, Applied",Science Citation Index,N/A,9.03.10,Other Chemistry
+0,"Chemistry, Inorganic & Nuclear",Science Citation Index,N/A,9.03.03,Inorganic Chemistry
+0,"Chemistry, Medicinal",Science Citation Index,N/A,9.03.05,Medicinal-Pharmaceutical Chemistry
+0,"Chemistry, Multidisciplinary",Science Citation Index,N/A,9.03.00,Chemistry
+0,"Chemistry, Organic",Science Citation Index,N/A,9.03.06,Organic Chemistry
+0,"Chemistry, Physical",Science Citation Index,N/A,9.03.07,Physical Chemistry
+0,Clinical Neurology,Science Citation Index,N/A,8.15.17,Neurology
+0,"Computer Science, Artificial Intelligence",Science Citation Index,N/A,9.04.01,Artificial Intelligence and Robotics
+0,"Computer Science, Cybernetics",Science Citation Index,N/A,9.04.01,Artificial Intelligence and Robotics
+0,"Computer Science, Hardware & Architecture",Science Citation Index,N/A,5.09.05,Hardware Systems
+0,"Computer Science, Information Systems",Science Citation Index,N/A,9.04.03,Databases and Information Systems
+0,"Computer Science, Interdisciplinary Applications",Science Citation Index,N/A,9.04.11,Other Computer Sciences
+0,"Computer Science, Software Engineering",Science Citation Index,N/A,9.04.08,Software Engineering
+0,"Computer Science, Theory & Methods",Science Citation Index,N/A,9.04.10,Theory and Algorithms
+0,Construction & Building Technology,Science Citation Index,N/A,1.04.01,Construction Engineering
+0,Critical Care Medicine,Science Citation Index,N/A,8.15.04,Critical Care
+0,Crystallography,Science Citation Index,N/A,7.03.05,"Other Biochemistry, Biophysics, and Structural Biology"
+0,"Dentistry, Oral Surgery & Medicine",Science Citation Index,N/A,8.07.00,Dentistry
+0,Dermatology,Science Citation Index,N/A,8.15.05,Dermatology
+0,Developmental Biology,Science Citation Index,N/A,7.08.04,Developmental Biology
+0,Ecology,Science Citation Index,N/A,7.09.00,Ecology and Evolutionary Biology
+0,"Education, Scientific Disciplines",Science Citation Index,N/A,4.28.01,Science and Mathematics Education
+0,Electrochemistry,Science Citation Index,N/A,9.03.10,Other Chemistry
+0,Emergency Medicine,Science Citation Index,N/A,8.15.06,Emergency Medicine
+0,Endocrinology & Metabolism,Science Citation Index,N/A,8.15.07,"Endocrinology, Diabetes, and Metabolism"
+0,Energy & Fuels,Science Citation Index,N/A,9.06.08,"Oil, Gas, and Energy"
+0,"Engineering, Aerospace",Science Citation Index,N/A,5.01.00,Aerospace Engineering
+0,"Engineering, Biomedical",Science Citation Index,N/A,5.04.00,Biomedical Engineering and Bioengineering
+0,"Engineering, Chemical",Science Citation Index,N/A,5.06.00,Chemical Engineering
+0,"Engineering, Civil",Science Citation Index,N/A,5.07.01,Civil Engineering
+0,"Engineering, Electrical & Electronic",Science Citation Index,N/A,5.10.03,Electrical and Electronics
+0,"Engineering, Environmental",Science Citation Index,N/A,5.07.03,Environmental Engineering
+0,"Engineering, Geological",Science Citation Index,N/A,5.07.04,Geotechnical Engineering
+0,"Engineering, Industrial",Science Citation Index,N/A,5.18.02,Industrial Engineering
+0,"Engineering, Manufacturing",Science Citation Index,N/A,5.14.08,Manufacturing
+0,"Engineering, Marine",Science Citation Index,N/A,5.14.09,Ocean Engineering
+0,"Engineering, Mechanical",Science Citation Index,N/A,5.14.00,Mechanical Engineering
+0,"Engineering, Multidisciplinary",Science Citation Index,N/A,5.00.00,Engineering
+0,"Engineering, Ocean",Science Citation Index,N/A,5.14.09,Ocean Engineering
+0,"Engineering, Petroleum",Science Citation Index,N/A,5.06.05,Petroleum Engineering
+0,Entomology,Science Citation Index,N/A,7.10.01,Entomology
+0,Environmental Sciences,Science Citation Index,N/A,9.06.00,Environmental Sciences
+0,Evolutionary Biology,Science Citation Index,N/A,7.09.00,Ecology and Evolutionary Biology
+0,Fisheries,Science Citation Index,N/A,7.02.01,Aquaculture and Fisheries
+0,Food Science & Technology,Science Citation Index,N/A,7.11.01,Food Biotechnology
+0,Forestry,Science Citation Index,N/A,7.12.02,Forest Management
+0,Gastroenterology & Hepatology,Science Citation Index,N/A,8.15.09,Gastroenterology
+0,Genetics & Heredity,Science Citation Index,N/A,7.13.02,Genetics
+0,Geochemistry & Geophysics,Science Citation Index,N/A,9.05.03,Geochemistry
+0,"Geography, Physical",Science Citation Index,N/A,10.09.04,Physical and Environmental Geography
+0,Geology,Science Citation Index,N/A,9.05.04,Geology
+0,"Geosciences, Multidisciplinary",Science Citation Index,N/A,9.05.04,Geology
+0,Geriatrics & Gerontology,Science Citation Index,N/A,8.15.10,Geriatrics
+0,Green & Sustainable Science & Technology,Science Citation Index,N/A,9.06.09,Sustainability
+0,Health Care Sciences & Services,Science Citation Index,N/A,8.14.00,Medical Sciences
+0,Hematology,Science Citation Index,N/A,8.15.11,Hematology
+0,History & Philosophy of Science,Science Citation Index,N/A,2.35.12,Philosophy of Science
+0,Horticulture,Science Citation Index,N/A,7.23.06,Horticulture
+0,Imaging Science & Photographic Technology,Science Citation Index,N/A,5.00.00,Engineering
+0,Immunology,Science Citation Index,N/A,7.14.00,Immunology and Infectious Disease
+0,Infectious Diseases,Science Citation Index,N/A,7.14.02,Immunology of Infectious Disease
+0,Instruments & Instrumentation,Science Citation Index,N/A,9.02.03,Instrumentation
+0,Integrative & Complementary Medicine,Science Citation Index,N/A,8.01.01,Alternative and Complementary Medicine
+0,Limnology,Science Citation Index,N/A,9.08.03,Fresh Water Studies
+0,Logic,Science Citation Index,N/A,9.07.08,Logic and Foundations
+0,Marine & Freshwater Biology,Science Citation Index,N/A,7.17.01,Marine Biology
+0,"Materials Science, Biomaterials",Science Citation Index,N/A,5.13.01,Biology and Biomimetic Materials
+0,"Materials Science, Ceramics",Science Citation Index,N/A,5.13.02,Ceramic Materials
+0,"Materials Science, Characterization & Testing",Science Citation Index,N/A,5.13.07,Other Materials Science and Engineering
+0,"Materials Science, Coatings & Films",Science Citation Index,N/A,5.13.07,Other Materials Science and Engineering
+0,"Materials Science, Composites",Science Citation Index,N/A,5.13.07,Other Materials Science and Engineering
+0,"Materials Science, Multidisciplinary",Science Citation Index,N/A,5.13.00,Materials Science and Engineering
+0,"Materials Science, Paper & Wood",Science Citation Index,N/A,7.12.03,"Wood Science and Pulp, Paper Technology"
+0,"Materials Science, Textiles",Science Citation Index,N/A,5.13.07,Other Materials Science and Engineering
+0,Mathematical & Computational Biology,Science Citation Index,N/A,7.13.01,Computational Biology
+0,Mathematics,Science Citation Index,N/A,9.07.00,Mathematics
+0,"Mathematics, Applied",Science Citation Index,N/A,9.01.00,Applied Mathematics
+0,"Mathematics, Interdisciplinary Applications",Science Citation Index,N/A,9.01.00,Applied Mathematics
+0,Mechanics,Science Citation Index,N/A,5.12.02,Engineering Mechanics
+0,Medical Ethics,Science Citation Index,N/A,8.04.01,Bioethics and Medical Ethics
+0,Medical Informatics,Science Citation Index,N/A,8.10.00,Health Information Technology
+0,Medical Laboratory Technology,Science Citation Index,N/A,8.02.00,"Analytical, Diagnostic and Therapeutic Techniques and Equipment"
+0,"Medicine, General & Internal",Science Citation Index,N/A,8.00.00,Medicine and Health Sciences
+0,"Medicine, Legal",Science Citation Index,N/A,6.48.01,Health Law and Policy
+0,"Medicine, Research & Experimental",Science Citation Index,N/A,8.14.29,Other Medical Sciences
+0,Metallurgy & Metallurgical Engineering,Science Citation Index,N/A,5.13.03,Metallurgy
+0,Meteorology & Atmospheric Sciences,Science Citation Index,N/A,9.08.00,Oceanography and Atmospheric Sciences and Meteorology
+0,Microbiology,Science Citation Index,N/A,7.18.00,Microbiology
+0,Microscopy,Science Citation Index,N/A,7.24.00,Research Methods in Life Sciences
+0,Mineralogy,Science Citation Index,N/A,9.05.09,Mineral Physics
+0,Mining & Mineral Processing,Science Citation Index,N/A,5.15.01,Mining Engineering
+0,Multidisciplinary Sciences,Science Citation Index,N/A,7.26.01,Other Life Sciences
+0,Mycology,Science Citation Index,N/A,8.20.05,Fungi
+0,Nanoscience & Nanotechnology,Science Citation Index,N/A,5.16.01,Nanoscience and Nanotechnology
+0,Neuroimaging,Science Citation Index,N/A,7.19.07,Other Neuroscience and Neurobiology
+0,Neurosciences,Science Citation Index,N/A,8.14.26,Neurosciences
+0,Nuclear Science & Technology,Science Citation Index,N/A,5.17.01,Nuclear Engineering
+0,Nursing,Science Citation Index,N/A,8.18.00,Nursing
+0,Nutrition & Dietetics,Science Citation Index,N/A,8.08.01,Dietetics and Clinical Nutrition
+0,Obstetrics & Gynecology,Science Citation Index,N/A,8.15.18,Obstetrics and Gynecology
+0,Oceanography,Science Citation Index,N/A,9.08.05,Oceanography
+0,Oncology,Science Citation Index,N/A,8.15.19,Oncology
+0,Operations Research & Management Science,Science Citation Index,N/A,5.18.04,Operational Research
+0,Ophthalmology,Science Citation Index,N/A,8.15.20,Ophthalmology
+0,Optics,Science Citation Index,N/A,9.09.08,Optics
+0,Ornithology,Science Citation Index,N/A,7.02.04,Ornithology
+0,Orthopedics,Science Citation Index,N/A,8.15.21,Orthopedics
+0,Otorhinolaryngology,Science Citation Index,N/A,8.15.41,Other Medical Specialties
+0,Paleontology,Science Citation Index,N/A,9.05.11,Paleontology
+0,Parasitology,Science Citation Index,N/A,7.14.05,Parasitology
+0,Pathology,Science Citation Index,N/A,8.15.25,Pathology
+0,Pediatrics,Science Citation Index,N/A,8.15.26,Pediatrics
+0,Peripheral Vascular Disease,Science Citation Index,N/A,8.09.03,Cardiovascular Diseases
+0,Pharmacology & Pharmacy,Science Citation Index,N/A,7.21.03,Pharmacology
+0,"Physics, Applied",Science Citation Index,N/A,9.09.12,Other Physics
+0,"Physics, Atomic, Molecular & Chemical",Science Citation Index,N/A,9.09.01,"Atomic, Molecular and Optical Physics"
+0,"Physics, Condensed Matter",Science Citation Index,N/A,9.09.03,Condensed Matter Physics
+0,"Physics, Fluids & Plasmas",Science Citation Index,N/A,9.09.09,Plasma and Beam Physics
+0,"Physics, Mathematical",Science Citation Index,N/A,9.09.12,Other Physics
+0,"Physics, Multidisciplinary",Science Citation Index,N/A,9.09.00,Physics
+0,"Physics, Nuclear",Science Citation Index,N/A,9.09.07,Nuclear
+0,"Physics, Particles & Fields",Science Citation Index,N/A,9.09.04,Elementary Particles and Fields and String Theory
+0,Physiology,Science Citation Index,N/A,7.22.00,Physiology
+0,Plant Sciences,Science Citation Index,N/A,7.23.00,Plant Sciences
+0,Polymer Science,Science Citation Index,N/A,5.06.06,Polymer Science
+0,Primary Health Care,Science Citation Index,N/A,8.15.30,Primary Care
+0,Psychiatry,Science Citation Index,N/A,8.15.31,Psychiatry
+0,Psychology,Science Citation Index,N/A,10.18.00,Psychology
+0,"Public, Environmental & Occupational Health",Science Citation Index,N/A,8.23.03,Environmental Public Health
+0,"Radiology, Nuclear Medicine & Medical Imaging",Science Citation Index,N/A,8.15.33,Radiology
+0,Rehabilitation,Science Citation Index,N/A,8.24.00,Rehabilitation and Therapy
+0,Remote Sensing,Science Citation Index,N/A,10.09.05,Remote Sensing
+0,Reproductive Biology,Science Citation Index,N/A,8.14.28,Reproductive and Urinary Physiology
+0,Respiratory System,Science Citation Index,N/A,8.03.13,Respiratory System
+0,Rheumatology,Science Citation Index,N/A,8.15.34,Rheumatology
+0,Robotics,Science Citation Index,N/A,5.09.06,Robotics
+0,Soil Science,Science Citation Index,N/A,9.05.13,Soil Science
+0,Spectroscopy,Science Citation Index,N/A,9.03.10,Other Chemistry
+0,Sport Sciences,Science Citation Index,N/A,8.25.01,Sports Sciences
+0,Statistics & Probability,Science Citation Index,N/A,9.10.00,Statistics and Probability
+0,Substance Abuse,Science Citation Index,N/A,8.16.09,Substance Abuse and Addiction
+0,Surgery,Science Citation Index,N/A,8.15.37,Surgery
+0,Telecommunications,Science Citation Index,N/A,10.04.02,Communication Technology and New Media
+0,Thermodynamics,Science Citation Index,N/A,5.06.08,Thermodynamics
+0,Toxicology,Science Citation Index,N/A,7.21.04,Toxicology
+0,Transplantation,Science Citation Index,N/A,8.15.37,Surgery
+0,Transportation Science & Technology,Science Citation Index,N/A,10.19.21,Transportation
+0,Tropical Medicine,Science Citation Index,N/A,8.15.39,Tropical Medicine
+0,Urology & Nephrology,Science Citation Index,N/A,8.15.40,Urology
+0,Veterinary Sciences,Science Citation Index,N/A,8.27.00,Veterinary Medicine
+0,Virology,Science Citation Index,N/A,7.18.06,Virology
+0,Water Resources,Science Citation Index,N/A,9.06.10,Water Resource Management
+0,Zoology,Science Citation Index,N/A,7.02.07,Zoology
+0,,Social Science Citation Index,N/A,,#N/A
+0,Anthropology,Social Science Citation Index,N/A,10.03.00,Anthropology
+0,Area Studies,Social Science Citation Index,N/A,10.10.00,International and Area Studies
+0,Business,Social Science Citation Index,N/A,3.00.00,Business
+0,"Business, Finance",Social Science Citation Index,N/A,3.13.01,Finance and Financial Management
+0,Cultural Studies,Social Science Citation Index,N/A,10.04.03,Critical and Cultural Studies
+0,Communication,Social Science Citation Index,N/A,10.04.00,Communication
+0,Criminology & Penology,Social Science Citation Index,N/A,10.12.01,Criminology and Criminal Justice
+0,Demography,Social Science Citation Index,N/A,10.23.05,"Demography, Population, and Ecology"
+0,Economics,Social Science Citation Index,N/A,10.06.00,Economics
+0,Education & Educational Research,Social Science Citation Index,N/A,4.00.00,Education
+0,"Education, Special",Social Science Citation Index,N/A,4.31.01,Special Education and Teaching
+0,Environmental Studies,Social Science Citation Index,N/A,10.07.01,Environmental Studies
+0,Ergonomics,Social Science Citation Index,N/A,5.18.01,Ergonomics
+0,Ethics,Social Science Citation Index,N/A,2.35.05,Ethics and Political Philosophy
+0,Ethnic Studies,Social Science Citation Index,N/A,2.37.04,Ethnic Studies
+0,Family Studies,Social Science Citation Index,N/A,10.23.08,"Family, Life Course, and Society"
+0,Geography,Social Science Citation Index,N/A,10.09.00,Geography
+0,Gerontology,Social Science Citation Index,N/A,10.23.10,Gerontology
+0,Green & Sustainable Science & Technology,Social Science Citation Index,N/A,9.06.09,Sustainability
+0,Health Policy & Services,Social Science Citation Index,N/A,10.19.07,Health Policy
+0,History,Social Science Citation Index,N/A,2.23.00,History
+0,History & Philosophy Of Science,Social Science Citation Index,N/A,2.35.12,Philosophy of Science
+0,History of Social Sciences,Social Science Citation Index,N/A,2.23.22,Social History
+0,"Hospitality, Leisure, Sport & Tourism",Social Science Citation Index,N/A,3.14.00,Hospitality Administration and Management
+0,Industrial Relations & Labor,Social Science Citation Index,N/A,10.06.09,Industrial Organization
+0,Information Science & Library Science,Social Science Citation Index,N/A,10.14.00,Library and Information Science
+0,International Relations,Social Science Citation Index,N/A,10.17.03,International Relations
+0,Law,Social Science Citation Index,N/A,6.00.00,Law
+0,Linguistics,Social Science Citation Index,N/A,10.15.00,Linguistics
+0,Management,Social Science Citation Index,N/A,3.05.01,"Business Administration, Management, and Operations"
+0,Nursing,Social Science Citation Index,N/A,8.18.00,Nursing
+0,Planning & Development,Social Science Citation Index,N/A,1.10.01,"Urban, Community and Regional Planning"
+0,Political Science,Social Science Citation Index,N/A,10.17.00,Political Science
+0,Psychiatry,Social Science Citation Index,N/A,8.15.31,Psychiatry
+0,"Psychology, Applied",Social Science Citation Index,N/A,10.18.01,Applied Behavior Analysis
+0,"Psychology, Biological",Social Science Citation Index,N/A,10.18.02,Biological Psychology
+0,"Psychology, Clinical",Social Science Citation Index,N/A,10.18.04,Clinical Psychology
+0,"Psychology, Developmental",Social Science Citation Index,N/A,10.18.10,Developmental Psychology
+0,"Psychology, Educational",Social Science Citation Index,N/A,10.18.18,School Psychology
+0,"Psychology, Experimental",Social Science Citation Index,N/A,10.18.11,Experimental Analysis of Behavior
+0,"Psychology, Mathematical",Social Science Citation Index,N/A,10.18.17,Quantitative Psychology
+0,"Psychology, Multidisciplinary",Social Science Citation Index,N/A,10.18.00,Psychology
+0,"Psychology, Psychoanalysis",Social Science Citation Index,N/A,8.16.08,Psychoanalysis and Psychotherapy
+0,"Psychology, Social",Social Science Citation Index,N/A,10.18.19,Social Psychology
+0,Public Administration,Social Science Citation Index,N/A,10.19.13,Public Administration
+0,"Public, Environmental & Occupational Health",Social Science Citation Index,N/A,8.23.03,Environmental Public Health
+0,Rehabilitation,Social Science Citation Index,N/A,8.24.00,Rehabilitation and Therapy
+0,Social Issues,Social Science Citation Index,N/A,10.23.28,Other Sociology
+0,"Social Sciences, Biomedical",Social Science Citation Index,N/A,10.23.13,Medicine and Health
+0,"Social Sciences, Interdisciplinary",Social Science Citation Index,N/A,10.23.28,Other Sociology
+0,"Social Sciences, Mathematical Methods",Social Science Citation Index,N/A,10.23.16,"Quantitative, Qualitative, Comparative, and Historical Methodologies"
+0,Social Work,Social Science Citation Index,N/A,10.22.01,Social Work
+0,Sociology,Social Science Citation Index,N/A,10.23.00,Sociology
+0,Substance Abuse,Social Science Citation Index,N/A,8.16.09,Substance Abuse and Addiction
+0,Transportation,Social Science Citation Index,N/A,10.19.21,Transportation
+0,Urban Studies,Social Science Citation Index,N/A,10.19.22,Urban Studies
+0,Women's Studies,Social Science Citation Index,N/A,2.18.02,Women's Studies
+0,,Arts and Humanities Citation Index,N/A,,#N/A
+0,Archaeology,Arts and Humanities Citation Index,N/A,2.24.00,"History of Art, Architecture, and Archaeology"
+0,Architecture,Arts and Humanities Citation Index,N/A,1.00.00,Architecture
+0,Art,Arts and Humanities Citation Index,N/A,2.00.00,Arts and Humanities
+0,Asian Studies,Arts and Humanities Citation Index,N/A,10.10.02,Asian Studies
+0,Classics,Arts and Humanities Citation Index,N/A,2.10.00,Classics
+0,Cultural studies,Arts and Humanities Citation Index,N/A,10.04.03,Critical and Cultural Studies
+0,Dance,Arts and Humanities Citation Index,N/A,2.48.02,Dance
+0,"Film, Radio, Television",Arts and Humanities Citation Index,N/A,2.19.00,Film and Media Studies
+0,Folklore,Arts and Humanities Citation Index,N/A,10.03.03,Folklore
+0,History,Arts and Humanities Citation Index,N/A,2.23.00,History
+0,History & Philosophy Of Science,Arts and Humanities Citation Index,N/A,2.35.12,Philosophy of Science
+0,"Humanities, Multidisciplinary",Arts and Humanities Citation Index,N/A,2.00.00,Arts and Humanities
+0,Language & Linguistics,Arts and Humanities Citation Index,N/A,10.15.00,Linguistics
+0,Literary Reviews,Arts and Humanities Citation Index,N/A,2.16.06,Other English Language and Literature
+0,Literary Theory & Criticism,Arts and Humanities Citation Index,N/A,2.48.03,"Dramatic Literature, Criticism and Theory"
+0,Literature,Arts and Humanities Citation Index,N/A,2.16.06,Other English Language and Literature
+0,"Literature, African, Australian, Canadian",Arts and Humanities Citation Index,N/A,2.16.06,Other English Language and Literature
+0,"Literature, American",Arts and Humanities Citation Index,N/A,2.02.02,American Literature
+0,"Literature, British Isles",Arts and Humanities Citation Index,N/A,2.16.03,"Literature in English, British Isles"
+0,"Literature, German, Dutch, Scandinavian",Arts and Humanities Citation Index,N/A,2.22.02,German Literature
+0,"Literature, Romance",Arts and Humanities Citation Index,N/A,2.16.00,English Language and Literature
+0,"Literature, Slavic",Arts and Humanities Citation Index,N/A,2.43.02,Russian Literature
+0,Medieval & Renaissance Studies,Arts and Humanities Citation Index,N/A,2.28.01,Medieval Studies
+0,Music,Arts and Humanities Citation Index,N/A,2.32.00,Music
+0,Philosophy,Arts and Humanities Citation Index,N/A,2.35.00,Philosophy
+0,Poetry,Arts and Humanities Citation Index,N/A,2.12.03,Poetry
+0,Religion,Arts and Humanities Citation Index,N/A,2.40.00,Religion
+0,Theater,Arts and Humanities Citation Index,N/A,2.48.00,Theatre and Performance Studies

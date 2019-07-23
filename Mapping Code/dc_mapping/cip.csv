@@ -1,0 +1,2319 @@
+ID,Low Level Name,Mid Level Name,High Level Name,DC Number,DC Group Name
+01,"AGRICULTURE, AGRICULTURE OPERATIONS, AND RELATED SCIENCES.",,,,#N/A
+01.01,"Agriculture, General.",,,7.01.00,Agriculture
+01.00,"Agriculture, General.",,,7.01.00,Agriculture
+1.01,Agricultural Business and Management.,,,3,#N/A
+01.01.01,"Agricultural Business and Management, General.",,,3.03.01,Agribusiness
+01.01.02,Agribusiness/Agricultural Business Operations.,,,3.03.01,Agribusiness
+01.01.03,Agricultural Economics.,,,7.01.01,Agricultural Economics
+01.01.04,Farm/Farm and Ranch Management.,,,3.03.01,Agribusiness
+01.01.05,Agricultural/Farm Supplies Retailing and Wholesaling.,,,3.03.01,Agribusiness
+01.01.06,Agricultural Business Technology.,,,3.03.01,Agribusiness
+01.01.99,"Agricultural Business and Management, Other.",,,3.03.01,Agribusiness
+1.02,Agricultural Mechanization.,,,,#N/A
+01.02.01,"Agricultural Mechanization, General.",,,5.05.01,Bioresource and Agricultural Engineering
+01.02.04,Agricultural Power Machinery Operation.,,,5.05.01,Bioresource and Agricultural Engineering
+01.02.05,Agricultural Mechanics and Equipment/Machine Technology.,,,5.05.01,Bioresource and Agricultural Engineering
+01.02.99,"Agricultural Mechanization, Other.",,,5.05.01,Bioresource and Agricultural Engineering
+01.03,Agricultural Production Operations.,,,,#N/A
+01.03.01,"Agricultural Production Operations, General.",,,7.01.00,Agriculture
+01.03.02,Animal/Livestock Husbandry and Production.,,,7.02.08,Other Animal Sciences
+01.03.03,Aquaculture.,,,7.02.01,Aquaculture and Fisheries
+01.03.04,Crop Production.,,,7.23.02,Agronomy and Crop Sciences
+01.03.06,Dairy Husbandry and Production.,,,7.02.02,Dairy Science
+01.03.07,Horse Husbandry/Equine Science and Management.,,,7.02.08,Other Animal Sciences
+01.03.08,Agroecology and Sustainable Agriculture.,,,7.23.01,Agricultural Science
+01.03.09,Viticulture and Enology.,,,7.01.05,Viticulture and Oenology
+01.03.99,"Agricultural Production Operations, Other.",,,3.03.01,Agribusiness
+1.04,Agricultural and Food Products Processing.,,,,#N/A
+01.04.01,Agricultural and Food Products Processing.,,,7.11.04,Food Processing
+1.05,Agricultural and Domestic Animal Services.,,,,#N/A
+01.05.04,Dog/Pet/Animal Grooming.,,,10.02.01,Animal Studies
+01.05.05,Animal Training.,,,10.02.01,Animal Studies
+01.05.07,Equestrian/Equine Studies.,,,10.02.01,Animal Studies
+01.05.08,Taxidermy/Taxidermist.,,,10.02.01,Animal Studies
+01.05.99,"Agricultural and Domestic Animal Services, Other.",,,10.02.01,Animal Studies
+1.06,Applied Horticulture and Horticultural Business Services.,,,,#N/A
+01.06.01,"Applied Horticulture/Horticulture Operations, General.",,,7.23.06,Horticulture
+01.06.03,Ornamental Horticulture.,,,7.23.06,Horticulture
+01.06.04,Greenhouse Operations and Management.,,,7.23.06,Horticulture
+01.06.05,Landscaping and Groundskeeping.,,,1.09.01,Landscape Architecture
+01.06.06,Plant Nursery Operations and Management.,,,7.23.08,Plant Breeding and Genetics
+01.06.07,Turf and Turfgrass Management.,,,7.23.11,Other Plant Sciences
+01.06.08,Floriculture/Floristry Operations and Management.,,,7.23.06,Horticulture
+01.06.99,"Applied Horticulture/Horticultural Business Services, Other.",,,7.23.06,Horticulture
+1.07,International Agriculture.,,,,#N/A
+01.07.01,International Agriculture.,,,7.01.02,Agricultural Education
+1.08,Agricultural Public Services.,,,,#N/A
+01.08.01,Agricultural and Extension Education Services.,,,7.01.02,Agricultural Education
+01.08.02,Agricultural Communication/Journalism.,,,7.01.02,Agricultural Education
+01.08.99,"Agricultural Public Services, Other.",,,7.01.02,Agricultural Education
+1.09,Animal Sciences.,,,7.02.00,Animal Sciences
+01.09.01,"Animal Sciences, General.",,,7.02.00,Animal Sciences
+01.09.02,Agricultural Animal Breeding.,,,7.02.08,Other Animal Sciences
+01.09.03,Animal Health.,,,7.02.08,Other Animal Sciences
+01.09.04,Animal Nutrition.,,,7.02.08,Other Animal Sciences
+01.09.05,Dairy Science.,,,7.02.02,Dairy Science
+01.09.06,Livestock Management.,,,7.02.00,Animal Sciences
+01.09.07,Poultry Science.,,,7.02.05,Poultry or Avian Science
+01.09.99,"Animal Sciences, Other.",,,7.02.08,Other Animal Sciences
+1.1,Food Science and Technology.,,,7.11.00,Food Science
+01.10.01,Food Science.,,,7.11.00,Food Science
+01.10.02,Food Technology and Processing.,,,7.11.04,Food Processing
+01.10.99,"Food Science and Technology, Other.",,,7.11.05,Other Food Science
+1.11,Plant Sciences.,,,7.23.00,Plant Sciences
+01.11.01,"Plant Sciences, General.",,,7.23.00,Plant Sciences
+01.11.02,Agronomy and Crop Science.,,,7.23.02,Agronomy and Crop Sciences
+01.11.03,Horticultural Science.,,,7.23.06,Horticulture
+01.11.04,Agricultural and Horticultural Plant Breeding.,,,7.23.06,Horticulture
+01.11.05,Plant Protection and Integrated Pest Management.,,,7.23.11,Other Plant Sciences
+01.11.06,Range Science and Management.,,,9.06.07,Natural Resources Management and Policy
+01.11.99,"Plant Sciences, Other.",,,7.23.11,Other Plant Sciences
+1.12,Soil Sciences.,,,9.05.13,Soil Science
+01.12.01,"Soil Science and Agronomy, General.",,,9.05.13,Soil Science
+01.12.02,Soil Chemistry and Physics.,,,9.05.13,Soil Science
+01.12.03,Soil Microbiology.,,,9.05.13,Soil Science
+01.12.99,"Soil Sciences, Other.",,,9.05.13,Soil Science
+1.99,"Agriculture, Agriculture Operations, and Related Sciences, Other.",,,7.01.00,Agriculture
+01.99.99,"Agriculture, Agriculture Operations, and Related Sciences, Other.",,,7.01.00,Agriculture
+03.00.00,NATURAL RESOURCES AND CONSERVATION.,,,,#N/A
+03.01.00,Natural Resources Conservation and Research.,,,9.06.06,Natural Resources and Conservation
+03.01.01,"Natural Resources/Conservation, General.",,,9.06.06,Natural Resources and Conservation
+03.01.03,Environmental Studies.,,,10.07.01,Environmental Studies
+03.01.04,Environmental Science.,,,9.06.00,Environmental Sciences
+03.01.99,"Natural Resources Conservation and Research, Other.",,,9.06.06,Natural Resources and Conservation
+3.02,Natural Resources Management and Policy.,,,9.06.07,Natural Resources Management and Policy
+03.02.01,Natural Resources Management and Policy.,,,9.06.07,Natural Resources Management and Policy
+03.02.04,Natural Resource Economics.,,,9.06.05,Natural Resource Economics
+03.02.05,"Water, Wetlands, and Marine Resources Management.",,,9.06.10,Water Resource Management
+03.02.06,Land Use Planning and Management/Development.,,,6.64.01,Land Use Law
+03.02.07,Natural Resource Recreation and Tourism.,,,9.06.07,Natural Resources Management and Policy
+03.02.08,Natural Resources Law Enforcement and Protective Services.,,,6.37.01,Environmental Law
+03.02.99,"Natural Resources Management and Policy, Other.",,,9.06.07,Natural Resources Management and Policy
+3.03,Fishing and Fisheries Sciences and Management.,,,,#N/A
+03.03.01,Fishing and Fisheries Sciences and Management.,,,7.02.01,Aquaculture and Fisheries
+3.05,Forestry.,,,7.12.04,Other Forestry and Forest Sciences
+03.05.01,"Forestry, General.",,,7.12.04,Other Forestry and Forest Sciences
+03.05.02,Forest Sciences and Biology.,,,7.12.00,Forest Sciences
+03.05.06,Forest Management/Forest Resources Management.,,,7.12.02,Forest Management
+03.05.08,Urban Forestry.,,,7.12.04,Other Forestry and Forest Sciences
+03.05.09,Wood Science and Wood Products/Pulp and Paper Technology.,,,7.12.03,"Wood Science and Pulp, Paper Technology"
+03.05.10,Forest Resources Production and Management.,,,7.12.02,Forest Management
+03.05.11,Forest Technology/Technician.,,,7.12.04,Other Forestry and Forest Sciences
+03.05.99,"Forestry, Other.",,,7.12.04,Other Forestry and Forest Sciences
+3.06,Wildlife and Wildlands Science and Management.,,,,#N/A
+03.06.01,"Wildlife, Fish and Wildlands Science and Management.",,,9.06.06,Natural Resources and Conservation
+3.99,"Natural Resources and Conservation, Other.",,,9.06.06,Natural Resources and Conservation
+03.99.99,"Natural Resources and Conservation, Other.",,,9.06.06,Natural Resources and Conservation
+04.00.00,ARCHITECTURE AND RELATED SERVICES.,,,,#N/A
+04.02.00,Architecture.,,,1.00.00,Architecture
+04.02.01,Architecture.,,,1.00.00,Architecture
+4.03,"City/Urban, Community and Regional Planning.",,,,#N/A
+04.03.01,"City/Urban, Community and Regional Planning.",,,1.10.01,"Urban, Community and Regional Planning"
+4.04,Environmental Design.,,,1.06.01,Environmental Design
+04.04.01,Environmental Design/Architecture.,,,1.06.01,Environmental Design
+4.05,Interior Architecture.,,,1.08.01,Interior Architecture
+04.05.01,Interior Architecture.,,,1.08.01,Interior Architecture
+4.06,Landscape Architecture.,,,1.09.01,Landscape Architecture
+04.06.01,Landscape Architecture.,,,1.09.01,Landscape Architecture
+4.08,Architectural History and Criticism.,,,1.02.01,Architectural History and Criticism
+04.08.01,"Architectural History and Criticism, General.",,,1.02.01,Architectural History and Criticism
+4.09,Architectural Sciences and Technology.,,,,#N/A
+04.09.01,Architectural Technology/Technician.,,,1.03.01,Architectural Technology
+04.09.02,Architectural and Building Sciences/Technology.,,,1.03.01,Architectural Technology
+04.09.99,"Architectural Sciences and Technology, Other.",,,1.03.01,Architectural Technology
+4.1,Real Estate Development.,,,,#N/A
+04.10.01,Real Estate Development.,,,6.94.01,Property Law and Real Estate
+4.99,"Architecture and Related Services, Other.",,,1.11.01,Other Architecture
+04.99.99,"Architecture and Related Services, Other.",,,1.11.01,Other Architecture
+,"AREA, ETHNIC, CULTURAL, GENDER, AND GROUP STUDIES.",,,,#N/A
+5.01,Area Studies.,,,,#N/A
+05.01.01,African Studies.,,,10.10.01,African Studies
+05.01.02,American/United States Studies/Civilization.,,,2.02.00,American Studies
+05.01.03,Asian Studies/Civilization.,,,10.10.02,Asian Studies
+05.01.04,East Asian Studies.,,,10.10.02,Asian Studies
+05.01.05,"Russian, Central European, East European and Eurasian Studies.",,,10.10.03,Eastern European Studies
+05.01.06,European Studies/Civilization.,,,10.10.00,International and Area Studies
+05.01.07,Latin American Studies.,,,10.10.04,Latin American Studies
+05.01.08,Near and Middle Eastern Studies.,,,10.10.05,Near and Middle Eastern Studies
+05.01.09,Pacific Area/Pacific Rim Studies.,,,10.10.00,International and Area Studies
+05.01.10,Russian Studies.,,,10.10.07,Other International and Area Studies
+05.01.11,Scandinavian Studies.,,,2.42.01,Scandinavian Studies
+05.01.12,South Asian Studies.,,,10.10.02,Asian Studies
+05.01.13,Southeast Asian Studies.,,,10.10.02,Asian Studies
+05.01.14,Western European Studies.,,,10.10.07,Other International and Area Studies
+05.01.15,Canadian Studies.,,,10.10.07,Other International and Area Studies
+05.01.16,Balkans Studies.,,,10.10.07,Other International and Area Studies
+05.01.17,Baltic Studies.,,,10.10.07,Other International and Area Studies
+05.01.18,Slavic Studies.,,,10.10.00,International and Area Studies
+05.01.19,Caribbean Studies.,,,2.27.01,Caribbean Languages and Societies
+05.01.20,Ural-Altaic and Central Asian Studies.,,,10.10.02,Asian Studies
+05.01.21,Commonwealth Studies.,,,10.10.07,Other International and Area Studies
+05.01.22,"Regional Studies (U.S., Canadian, Foreign)",,,10.10.07,Other International and Area Studies
+05.01.23,Chinese Studies.,,,2.15.01,Chinese Studies
+05.01.24,French Studies.,,,10.10.00,International and Area Studies
+05.01.25,German Studies.,,,10.10.00,International and Area Studies
+05.01.26,Italian Studies.,,,10.10.00,International and Area Studies
+05.01.27,Japanese Studies.,,,2.15.02,Japanese Studies
+05.01.28,Korean Studies.,,,2.15.03,Korean Studies
+05.01.29,Polish Studies.,,,10.10.07,Other International and Area Studies
+05.01.30,Spanish and Iberian Studies.,,,10.10.00,International and Area Studies
+05.01.31,Tibetan Studies.,,,10.10.07,Other International and Area Studies
+05.01.32,Ukraine Studies.,,,10.10.07,Other International and Area Studies
+05.01.33,Irish Studies.,,,10.10.07,Other International and Area Studies
+05.01.34,Latin American and Caribbean Studies.,,,10.10.04,Latin American Studies
+05.01.99,"Area Studies, Other.",,,10.10.07,Other International and Area Studies
+5.02,"Ethnic, Cultural Minority, Gender, and Group Studies.",,,,#N/A
+05.02.00,Ethnic Studies.,,,2.37.04,Ethnic Studies
+05.02.01,African-American/Black Studies.,,,2.37.01,African American Studies
+05.02.02,American Indian/Native American Studies.,,,2.02.00,American Studies
+05.02.03,"Hispanic-American, Puerto Rican, and Mexican-American/Chicano Studies.",,,2.37.03,Chicana/o Studies
+05.02.06,Asian-American Studies.,,,2.37.02,Asian American Studies
+05.02.07,Women's Studies.,,,2.18.02,Women's Studies
+05.02.08,Gay/Lesbian Studies.,,,2.18.01,"Lesbian, Gay, Bisexual, and Transgender Studies"
+05.02.09,Folklore Studies.,,,10.03.03,Folklore
+05.02.10,Disability Studies.,,,10.26.01,Other Social and Behavioral Sciences
+05.02.11,Deaf Studies.,,,4.07.00,Disability and Equity in Education
+05.02.99,"Ethnic, Cultural Minority, Gender, and Group Studies, Other.",,,2.50.01,"Other Languages, Societies, and Cultures"
+5.99,"Area, Ethnic, Cultural, and Gender Studies, Other.",,,,#N/A
+05.99.99,"Area, Ethnic, Cultural, and Gender Studies, Other.",,,2.50.01,"Other Languages, Societies, and Cultures"
+,"COMMUNICATION, JOURNALISM, AND RELATED PROGRAMS.",,,,#N/A
+9.01,Communication and Media Studies.,,,,#N/A
+09.01.00,"Communication, General.",,,10.04.00,Communication
+09.01.01,Speech Communication and Rhetoric.,,,10.04.16,Speech and Rhetorical Studies
+09.01.02,Mass Communication/Media Studies.,,,10.04.10,Mass Communication
+09.01.99,"Communication and Media Studies, Other.",,,10.04.17,Other Communication
+9.04,Journalism.,,,,#N/A
+09.04.01,Journalism.,,,10.04.09,Journalism Studies
+09.04.02,Broadcast Journalism.,,,10.04.01,Broadcast and Video Studies
+09.04.04,Photojournalism.,,,2.36.01,Photography
+09.04.99,"Journalism, Other.",,,10.04.09,Journalism Studies
+9.07,"Radio, Television, and Digital Communication.",,,,#N/A
+09.07.01,Radio and Television.,,,10.04.01,Broadcast and Video Studies
+09.07.02,Digital Communication and Media/Multimedia.,,,10.04.02,Communication Technology and New Media
+09.07.99,"Radio, Television, and Digital Communication, Other.",,,10.04.17,Other Communication
+9.09,"Public Relations, Advertising, and Applied Communication.",,,,#N/A
+09.09.00,"Public Relations, Advertising, and Applied Communication.",,,10.04.12,Public Relations and Advertising
+09.09.01,"Organizational Communication, General.",,,10.04.11,Organizational Communication
+09.09.02,Public Relations/Image Management.,,,10.04.12,Public Relations and Advertising
+09.09.03,Advertising.,,,10.04.12,Public Relations and Advertising
+09.09.04,Political Communication.,,,10.04.14,Social Influence and Political Communication
+09.09.05,Health Communication.,,,10.04.06,Health Communication
+09.09.06,Sports Communication.,,,10.04.17,Other Communication
+09.09.07,International and Intercultural Communication.,,,10.04.07,International and Intercultural Communication
+09.09.08,Technical and Scientific Communication.,,,10.04.17,Other Communication
+09.09.99,"Public Relations, Advertising, and Applied Communication, Other",,,10.04.12,Public Relations and Advertising
+9.1,Publishing.,,,10.04.13,Publishing
+09.10.01,Publishing.,,,10.04.13,Publishing
+9.99,"Communication, Journalism, and Related Programs, Other.",,,10.04.17,Other Communication
+09.99.99,"Communication, Journalism, and Related Programs, Other.",,,10.04.17,Other Communication
+,COMMUNICATIONS TECHNOLOGIES/TECHNICIANS AND SUPPORT SERVICES.,,,,#N/A
+10.01,Communications Technology/Technician.,,,,#N/A
+10.01.05,Communications Technology/Technician.,,,10.04.02,Communication Technology and New Media
+10.02,Audiovisual Communications Technologies/Technicians.,,,,#N/A
+10.02.01,Photographic and Film/Video Technology/Technician and Assistant.,,,10.04.01,Broadcast and Video Studies
+10.02.02,Radio and Television Broadcasting Technology/Technician.,,,10.04.01,Broadcast and Video Studies
+10.02.03,Recording Arts Technology/Technician.,,,10.04.17,Other Communication
+10.02.99,"Audiovisual Communications Technologies/Technicians, Other.",,,10.04.01,Broadcast and Video Studies
+10.03,Graphic Communications.,,,10.04.05,Graphic Communications
+10.03.01,"Graphic Communications, General.",,,10.04.05,Graphic Communications
+10.03.02,Printing Management.,,,2.04.07,Graphic Design
+10.03.03,Prepress/Desktop Publishing and Digital Imaging Design.,,,10.04.13,Publishing
+10.03.04,"Animation, Interactive Technology, Video Graphics and Special Effects.",,,2.04.11,Interdisciplinary Arts and Media
+10.03.05,"Graphic and Printing Equipment Operator, General Production.",,,2.04.07,Graphic Design
+10.03.06,Platemaker/Imager.,,,2.04.11,Interdisciplinary Arts and Media
+10.03.07,Printing Press Operator.,,,2.04.11,Interdisciplinary Arts and Media
+10.03.08,Computer Typography and Composition Equipment Operator.,,,2.04.11,Interdisciplinary Arts and Media
+10.03.99,"Graphic Communications, Other.",,,10.04.05,Graphic Communications
+10.99,"Communications Technologies/Technicians and Support Services, Other.",,,5.10.09,Systems and Communications
+10.99.99,"Communications Technologies/Technicians and Support Services, Other.",,,5.10.09,Systems and Communications
+,COMPUTER AND INFORMATION SCIENCES AND SUPPORT SERVICES.,,,,#N/A
+11.01,"Computer and Information Sciences, General.",,,,#N/A
+11.01.01,"Computer and Information Sciences, General.",,,9.04.00,Computer Sciences
+11.01.02,Artificial Intelligence.,,,9.04.01,Artificial Intelligence and Robotics
+11.01.03,Information Technology.,,,9.04.11,Other Computer Sciences
+11.01.04,Informatics.,,,3.19.01,Management Information Systems
+11.01.99,"Computer and Information Sciences,  Other.",,,9.04.11,Other Computer Sciences
+11.02,Computer Programming.,,,,#N/A
+11.02.01,"Computer Programming/Programmer, General.",,,9.04.07,Programming Languages and Compilers
+11.02.02,"Computer Programming, Specific Applications.",,,9.04.07,Programming Languages and Compilers
+11.02.03,"Computer Programming, Vendor/Product Certification.",,,9.04.07,Programming Languages and Compilers
+11.02.99,"Computer Programming, Other.",,,9.04.07,Programming Languages and Compilers
+11.03,Data Processing.,,,,#N/A
+11.03.01,Data Processing and Data Processing Technology/Technician.,,,9.04.03,Databases and Information Systems
+11.04,Information Science/Studies.,,,,#N/A
+11.04.01,Information Science/Studies.,,,10.14.00,Library and Information Science
+11.05,Computer Systems Analysis.,,,,#N/A
+11.05.01,Computer Systems Analysis/Analyst.,,,5.09.01,Computer and Systems Architecture
+11.06,Data Entry/Microcomputer Applications.,,,,#N/A
+11.06.01,"Data Entry/Microcomputer Applications, General.",,,9.04.03,Databases and Information Systems
+11.06.02,Word Processing.,,,5.09.02,Data Storage Systems
+11.06.99,"Data Entry/Microcomputer Applications, Other.",,,9.04.03,Databases and Information Systems
+11.07,Computer Science.,,,9.04.00,Computer Sciences
+11.07.01,Computer Science.,,,9.04.00,Computer Sciences
+11.08,Computer Software and Media Applications.,,,,#N/A
+11.08.01,"Web Page, Digital/Multimedia and Information Resources Design.",,,2.04.11,Interdisciplinary Arts and Media
+11.08.02,Data Modeling/Warehousing and Database Administration.,,,9.04.03,Databases and Information Systems
+11.08.03,Computer Graphics.,,,9.04.04,Graphics and Human Computer Interfaces
+11.08.04,"Modeling, Virtual Environments and Simulation.",,,9.04.04,Graphics and Human Computer Interfaces
+11.08.99,"Computer Software and Media Applications, Other.",,,9.04.08,Software Engineering
+11.09,Computer Systems Networking and Telecommunications.,,,,#N/A
+11.09.01,Computer Systems Networking and Telecommunications.,,,5.10.09,Systems and Communications
+11.1,Computer/Information Technology Administration and Management.,,,,#N/A
+11.10.01,Network and System Administration/Administrator.,,,9.04.06,OS and Networks
+11.10.02,"System, Networking, and LAN/WAN Management/Manager.",,,5.09.04,Digital Communications and Networking
+11.10.03,Computer and Information Systems Security/Information Assurance.,,,9.04.02,Information Security
+11.10.04,Web/Multimedia Management and Webmaster.,,,9.04.11,Other Computer Sciences
+11.10.05,Information Technology Project Management.,,,9.04.03,Databases and Information Systems
+11.10.06,Computer Support Specialist.,,,9.04.11,Other Computer Sciences
+11.10.99,"Computer/Information Technology Services Administration and Management, Other.",,,3.19.01,Management Information Systems
+11.99,"Computer and Information Sciences and Support Services, Other.",,,,#N/A
+11.99.99,"Computer and Information Sciences and Support Services, Other.",,,3.19.01,Management Information Systems
+,PERSONAL AND CULINARY SERVICES.,,,,#N/A
+12.03,Funeral Service and Mortuary Science.,,,,#N/A
+12.03.01,"Funeral Service and Mortuary Science, General.",,,8.28.01,Other Medicine and Health Sciences
+12.03.02,Funeral Direction/Service.,,,8.28.01,Other Medicine and Health Sciences
+12.03.03,Mortuary Science and Embalming/Embalmer.,,,8.28.01,Other Medicine and Health Sciences
+12.03.99,"Funeral Service and Mortuary Science, Other.",,,8.28.01,Other Medicine and Health Sciences
+12.04,Cosmetology and Related Personal Grooming Services.,,,,#N/A
+12.04.01,"Cosmetology/Cosmetologist, General.",,,,#N/A
+12.04.02,Barbering/Barber.,,,,#N/A
+12.04.04,Electrolysis/Electrology and Electrolysis Technician.,,,,#N/A
+12.04.06,Make-Up Artist/Specialist.,,,,#N/A
+12.04.07,Hair Styling/Stylist and Hair Design.,,,,#N/A
+12.04.08,Facial Treatment Specialist/Facialist.,,,,#N/A
+12.04.09,Aesthetician/Esthetician and Skin Care Specialist.,,,,#N/A
+12.04.10,Nail Technician/Specialist and Manicurist.,,,,#N/A
+12.04.11,Permanent Cosmetics/Makeup and Tattooing.,,,,#N/A
+12.04.12,Salon/Beauty Salon Management/Manager.,,,,#N/A
+12.04.13,"Cosmetology, Barber/Styling, and Nail Instructor.",,,,#N/A
+12.04.14,Master Aesthetician/Esthetician.,,,,#N/A
+12.04.99,"Cosmetology and Related Personal Grooming Arts, Other.",,,,#N/A
+12.05,Culinary Arts and Related Services.,,,,#N/A
+12.05.00,"Cooking and Related Culinary Arts, General.",,,3.14.01,Food and Beverage Management
+12.05.01,Baking and Pastry Arts/Baker/Pastry Chef.,,,3.14.01,Food and Beverage Management
+12.05.02,Bartending/Bartender.,,,3.14.01,Food and Beverage Management
+12.05.03,Culinary Arts/Chef Training.,,,3.14.01,Food and Beverage Management
+12.05.04,"Restaurant, Culinary, and Catering Management/Manager.",,,3.14.01,Food and Beverage Management
+12.05.05,Food Preparation/Professional Cooking/Kitchen Assistant.,,,3.14.01,Food and Beverage Management
+12.05.06,Meat Cutting/Meat Cutter.,,,3.14.01,Food and Beverage Management
+12.05.07,"Food Service, Waiter/Waitress, and Dining Room Management/Manager.",,,3.14.01,Food and Beverage Management
+12.05.08,Institutional Food Workers.,,,3.14.01,Food and Beverage Management
+12.05.09,Culinary Science/Culinology.,,,3.14.01,Food and Beverage Management
+12.05.10,Wine Steward/Sommelier.,,,3.14.01,Food and Beverage Management
+12.05.99,"Culinary Arts and Related Services, Other.",,,3.14.01,Food and Beverage Management
+12.99,"Personal and Culinary Services, Other.",,,,#N/A
+12.99.99,"Personal and Culinary Services, Other.",,,3.14.01,Food and Beverage Management
+,EDUCATION.,,,,#N/A
+13.01,"Education, General.",,,,#N/A
+13.01.01,"Education, General.",,,4.00.00,Education
+13.02,"Bilingual, Multilingual, and Multicultural Education.",,,4.03.01,"Bilingual, Multilingual, and Multicultural Education"
+13.02.01,Bilingual and Multilingual Education.,,,4.03.01,"Bilingual, Multilingual, and Multicultural Education"
+13.02.02,Multicultural Education.,,,4.03.01,"Bilingual, Multilingual, and Multicultural Education"
+13.02.03,Indian/Native American Education.,,,4.21.01,Indigenous Education
+13.02.99,"Bilingual, Multilingual, and Multicultural Education, Other.",,,4.03.01,"Bilingual, Multilingual, and Multicultural Education"
+13.03,Curriculum and Instruction.,,,4.05.01,Curriculum and Instruction
+13.03.01,Curriculum and Instruction.,,,4.05.01,Curriculum and Instruction
+13.04,Educational Administration and Supervision.,,,4.10.00,Educational Administration and Supervision
+13.04.01,"Educational Leadership and Administration, General.",,,4.12.01,Educational Leadership
+13.04.02,Administration of Special Education.,,,4.31.01,Special Education and Teaching
+13.04.03,Adult and Continuing Education Administration.,,,4.01.01,Adult and Continuing Education
+13.04.04,"Educational, Instructional, and Curriculum Supervision.",,,4.05.01,Curriculum and Instruction
+13.04.06,Higher Education/Higher Education Administration.,,,4.10.04,Higher Education Administration
+13.04.07,Community College Education.,,,4.10.02,Community College Education Administration
+13.04.08,Elementary and Middle School Administration/Principalship.,,,4.10.03,Elementary and Middle and Secondary Education Administration
+13.04.09,Secondary School Administration/Principalship.,,,4.29.01,Secondary Education
+13.04.10,Urban Education and Leadership.,,,4.10.06,Urban Education
+13.04.11,Superintendency and Educational System Administration.,,,4.10.07,Other Educational Administration and Supervision
+13.04.99,"Educational Administration and Supervision, Other.",,,4.10.07,Other Educational Administration and Supervision
+13.05,Educational/Instructional Media Design.,,,,#N/A
+13.05.01,Educational/Instructional Technology.,,,4.13.01,Educational Methods
+13.06,"Educational Assessment, Evaluation, and Research.",,,4.11.01,"Educational Assessment, Evaluation, and Research"
+13.06.01,Educational Evaluation and Research.,,,4.11.01,"Educational Assessment, Evaluation, and Research"
+13.06.03,Educational Statistics and Research Methods.,,,4.11.01,"Educational Assessment, Evaluation, and Research"
+13.06.04,"Educational Assessment, Testing, and Measurement.",,,4.11.01,"Educational Assessment, Evaluation, and Research"
+13.06.07,Learning Sciences.,,,4.33.07,Other Teacher Education and Professional Development
+13.06.99,"Educational Assessment, Evaluation, and Research, Other.",,,4.11.01,"Educational Assessment, Evaluation, and Research"
+13.07,International and Comparative Education.,,,4.23.01,International and Comparative Education
+13.07.01,International and Comparative Education.,,,4.23.01,International and Comparative Education
+13.09,Social and Philosophical Foundations of Education.,,,4.30.01,Social and Philosophical Foundations of Education
+13.09.01,Social and Philosophical Foundations of Education.,,,4.30.01,Social and Philosophical Foundations of Education
+13.1,Special Education and Teaching.,,,4.31.01,Special Education and Teaching
+13.10.01,"Special Education and Teaching, General.",,,4.31.01,Special Education and Teaching
+13.10.03,Education/Teaching of Individuals with Hearing Impairments Including Deafness.,,,4.31.01,Special Education and Teaching
+13.10.04,Education/Teaching of the Gifted and Talented.,,,4.31.01,Special Education and Teaching
+13.10.05,Education/Teaching of Individuals with Emotional Disturbances.,,,4.31.01,Special Education and Teaching
+13.10.06,Education/Teaching of Individuals with Mental Retardation.,,,4.31.01,Special Education and Teaching
+13.10.07,Education/Teaching of Individuals with Multiple Disabilities.,,,4.31.01,Special Education and Teaching
+13.10.08,Education/Teaching of Individuals with Orthopedic and Other Physical Health Impairments.,,,4.31.01,Special Education and Teaching
+13.10.09,Education/Teaching of Individuals with Vision Impairments Including Blindness.,,,4.31.01,Special Education and Teaching
+13.10.11,Education/Teaching of Individuals with Specific Learning Disabilities.,,,4.31.01,Special Education and Teaching
+13.10.12,Education/Teaching of Individuals with Speech or Language Impairments.,,,4.31.01,Special Education and Teaching
+13.10.13,Education/Teaching of Individuals with Autism.,,,4.31.01,Special Education and Teaching
+13.10.14,Education/Teaching of Individuals Who are Developmentally Delayed.,,,4.31.01,Special Education and Teaching
+13.10.15,Education/Teaching of Individuals in Early Childhood Special Education Programs.,,,4.31.01,Special Education and Teaching
+13.10.16,Education/Teaching of Individuals with Traumatic Brain Injuries.,,,4.31.01,Special Education and Teaching
+13.10.17,Education/Teaching of Individuals in Elementary Special Education Programs.,,,4.31.01,Special Education and Teaching
+13.10.18,Education/Teaching of Individuals in Junior High/Middle School Special Education Programs.,,,4.31.01,Special Education and Teaching
+13.10.19,Education/Teaching of Individuals in Secondary Special Education Programs.,,,4.31.01,Special Education and Teaching
+13.10.99,"Special Education and Teaching, Other.",,,4.31.01,Special Education and Teaching
+13.11,Student Counseling and Personnel Services.,,,4.32.01,Student Counseling and Personnel Services
+13.11.01,Counselor Education/School Counseling and Guidance Services.,,,10.05.01,Counselor Education
+13.11.02,College Student Counseling and Personnel Services.,,,4.32.01,Student Counseling and Personnel Services
+13.11.99,"Student Counseling and Personnel Services, Other.",,,4.32.01,Student Counseling and Personnel Services
+13.12,"Teacher Education and Professional Development, Specific Levels and Methods.",,,,#N/A
+13.12.01,Adult and Continuing Education and Teaching.,,,4.33.01,Adult and Continuing Education and Teaching
+13.12.02,Elementary Education and Teaching.,,,4.33.02,Elementary Education and Teaching
+13.12.03,Junior High/Intermediate/Middle School Education and Teaching.,,,4.33.04,"Junior High, Intermediate, Middle School Education and Teaching"
+13.12.05,Secondary Education and Teaching.,,,4.33.06,Secondary Education and Teaching
+13.12.06,"Teacher Education, Multiple Levels.",,,4.33.07,Other Teacher Education and Professional Development
+13.12.07,Montessori Teacher Education.,,,4.33.07,Other Teacher Education and Professional Development
+13.12.08,Waldorf/Steiner Teacher Education.,,,4.33.07,Other Teacher Education and Professional Development
+13.12.09,Kindergarten/Preschool Education and Teaching.,,,4.33.05,"Pre-Elementary, Early Childhood, Kindergarten Teacher Education"
+13.12.10,Early Childhood Education and Teaching.,,,4.33.05,"Pre-Elementary, Early Childhood, Kindergarten Teacher Education"
+13.12.99,"Teacher Education and Professional Development, Specific Levels and Methods, Other.",,,4.33.07,Other Teacher Education and Professional Development
+13.13,"Teacher Education and Professional Development, Specific Subject Areas.",,,,#N/A
+13.13.01,Agricultural Teacher Education.,,,7.01.02,Agricultural Education
+13.13.02,Art Teacher Education.,,,4.02.01,Art Education
+13.13.03,Business Teacher Education.,,,4.34.01,Other Education
+13.13.04,Driver and Safety Teacher Education.,,,4.34.01,Other Education
+13.13.05,English/Language Arts Teacher Education.,,,4.24.01,Language and Literacy Education
+13.13.06,Foreign Language Teacher  Education.,,,4.03.01,"Bilingual, Multilingual, and Multicultural Education"
+13.13.07,Health Teacher Education.,,,4.17.01,Health and Physical Education
+13.13.08,Family and Consumer Sciences/Home Economics Teacher Education.,,,4.19.01,Home Economics
+13.13.09,Technology Teacher Education/Industrial Arts Teacher Education.,,,4.33.07,Other Teacher Education and Professional Development
+13.13.10,Sales and Marketing Operations/Marketing and Distribution   Teacher Education.,,,4.33.07,Other Teacher Education and Professional Development
+13.13.11,Mathematics Teacher Education.,,,4.28.01,Science and Mathematics Education
+13.13.12,Music Teacher Education.,,,2.32.03,Music Education
+13.13.14,Physical Education Teaching and Coaching.,,,4.17.01,Health and Physical Education
+13.13.15,Reading Teacher Education.,,,4.34.01,Other Education
+13.13.16,Science Teacher Education/General Science Teacher Education.,,,4.28.01,Science and Mathematics Education
+13.13.17,Social Science Teacher Education.,,,4.30.01,Social and Philosophical Foundations of Education
+13.13.18,Social Studies Teacher Education.,,,4.30.01,Social and Philosophical Foundations of Education
+13.13.19,Technical Teacher Education.,,,4.34.01,Other Education
+13.13.20,Trade and Industrial Teacher Education.,,,4.09.01,Education Economics
+13.13.21,Computer Teacher Education.,,,4.34.01,Other Education
+13.13.22,Biology Teacher Education.,,,4.28.01,Science and Mathematics Education
+13.13.23,Chemistry Teacher Education.,,,4.28.01,Science and Mathematics Education
+13.13.24,Drama and Dance Teacher Education.,,,2.48.03,"Dramatic Literature, Criticism and Theory"
+13.13.25,French Language Teacher Education.,,,4.03.01,"Bilingual, Multilingual, and Multicultural Education"
+13.13.26,German Language Teacher Education.,,,4.03.01,"Bilingual, Multilingual, and Multicultural Education"
+13.13.27,Health Occupations Teacher Education.,,,4.34.01,Other Education
+13.13.28,History Teacher Education.,,,4.34.01,Other Education
+13.13.29,Physics Teacher Education.,,,4.28.01,Science and Mathematics Education
+13.13.30,Spanish Language Teacher Education.,,,4.03.01,"Bilingual, Multilingual, and Multicultural Education"
+13.13.31,Speech Teacher Education.,,,4.24.01,Language and Literacy Education
+13.13.32,Geography Teacher Education.,,,4.28.01,Science and Mathematics Education
+13.13.33,Latin Teacher Education.,,,4.03.01,"Bilingual, Multilingual, and Multicultural Education"
+13.13.34,School Librarian/School Library Media Specialist.,,,10.14.00,Library and Information Science
+13.13.35,Psychology Teacher Education.,,,10.18.18,School Psychology
+13.13.37,Earth Science Teacher Education.,,,4.28.01,Science and Mathematics Education
+13.13.38,Environmental Education.,,,9.06.01,Environmental Education
+13.13.99,"Teacher Education and Professional Development, Specific Subject Areas, Other.",,,4.34.01,Other Education
+13.14,Teaching English or French as a Second or Foreign Language.,,,,#N/A
+13.14.01,Teaching English as a Second or Foreign Language/ESL Language Instructor.,,,4.03.01,"Bilingual, Multilingual, and Multicultural Education"
+13.14.02,Teaching French as a Second or Foreign Language.,,,4.03.01,"Bilingual, Multilingual, and Multicultural Education"
+13.14.99,"Teaching English or French as a Second or Foreign Language, Other.",,,4.03.01,"Bilingual, Multilingual, and Multicultural Education"
+13.15,Teaching Assistants/Aides.,,,,#N/A
+13.15.01,Teacher Assistant/Aide.,,,4.34.01,Other Education
+13.15.02,Adult Literacy Tutor/Instructor.,,,4.34.01,Other Education
+13.15.99,"Teaching Assistants/Aides, Other.",,,4.34.01,Other Education
+13.99,"Education, Other.",,,4.34.01,Other Education
+13.99.99,"Education, Other.",,,4.34.01,Other Education
+,ENGINEERING.,,,,#N/A
+14.01,"Engineering, General.",,,,#N/A
+14.01.01,"Engineering, General.",,,5.20.01,Other Engineering
+14.01.02,Pre-Engineering.,,,5.00.00,Engineering
+14.02,"Aerospace, Aeronautical and Astronautical Engineering.",,,,#N/A
+14.02.01,"Aerospace, Aeronautical and Astronautical/Space Engineering.",,,5.01.10,Other Aerospace Engineering
+14.03,Agricultural Engineering.,,,,#N/A
+14.03.01,Agricultural Engineering.,,,5.05.01,Bioresource and Agricultural Engineering
+14.04,Architectural Engineering.,,,1.01.01,Architectural Engineering
+14.04.01,Architectural Engineering.,,,1.01.01,Architectural Engineering
+14.05,Biomedical/Medical Engineering.,,,,#N/A
+14.05.01,Bioengineering and Biomedical Engineering.,,,5.04.10,Other Biomedical Engineering and Bioengineering
+14.06,Ceramic Sciences and Engineering.,,,,#N/A
+14.06.01,Ceramic Sciences and Engineering.,,,5.13.02,Ceramic Materials
+14.07,Chemical Engineering.,,,5.06.00,Chemical Engineering
+14.07.01,Chemical Engineering.,,,5.06.00,Chemical Engineering
+14.07.02,Chemical and Biomolecular Engineering.,,,5.06.01,Biochemical and Biomolecular Engineering
+14.07.99,"Chemical Engineering, Other.",,,5.06.10,Other Chemical Engineering
+14.08,Civil Engineering.,,,5.07.01,Civil Engineering
+14.08.01,"Civil Engineering, General.",,,5.07.01,Civil Engineering
+14.08.02,Geotechnical and Geoenvironmental Engineering.,,,5.07.04,Geotechnical Engineering
+14.08.03,Structural Engineering.,,,5.07.06,Structural Engineering
+14.08.04,Transportation and Highway Engineering.,,,5.07.07,Transportation Engineering
+14.08.05,Water Resources Engineering.,,,5.07.03,Environmental Engineering
+14.08.99,"Civil Engineering, Other.",,,5.07.01,Civil Engineering
+14.09,Computer Engineering.,,,5.09.00,Computer Engineering
+14.09.01,"Computer Engineering, General.",,,5.09.07,Other Computer Engineering
+14.09.02,Computer Hardware Engineering.,,,5.09.05,Hardware Systems
+14.09.03,Computer Software Engineering.,,,9.04.08,Software Engineering
+14.09.99,"Computer Engineering, Other.",,,5.09.07,Other Computer Engineering
+14.1,"Electrical, Electronics and Communications Engineering.",,,,#N/A
+14.10.01,Electrical and Electronics Engineering,,,5.10.03,Electrical and Electronics
+14.10.03,Laser and Optical Engineering.,,,5.10.04,Electromagnetics and Photonics
+14.10.04,Telecommunications Engineering.,,,5.10.09,Systems and Communications
+14.10.99,"Electrical, Electronics and Communications Engineering, Other.",,,5.10.11,Other Electrical and Computer Engineering
+14.11,Engineering Mechanics.,,,5.12.02,Engineering Mechanics
+14.11.01,Engineering Mechanics.,,,5.12.02,Engineering Mechanics
+14.12,Engineering Physics.,,,9.09.05,Engineering Physics
+14.12.01,Engineering Physics/Applied Physics.,,,9.09.05,Engineering Physics
+14.13,Engineering Science.,,,5.12.00,Engineering Science and Materials
+14.13.01,Engineering Science.,,,5.12.00,Engineering Science and Materials
+14.14,Environmental/Environmental Health Engineering.,,,,#N/A
+14.14.01,Environmental/Environmental Health Engineering.,,,5.07.03,Environmental Engineering
+14.18,Materials Engineering,,,,#N/A
+14.18.01,Materials Engineering.,,,5.13.07,Other Materials Science and Engineering
+14.19,Mechanical Engineering.,,,5.14.00,Mechanical Engineering
+14.19.01,Mechanical Engineering.,,,5.14.00,Mechanical Engineering
+14.2,Metallurgical Engineering.,,,,#N/A
+14.20.01,Metallurgical Engineering.,,,5.13.03,Metallurgy
+14.21,Mining and Mineral Engineering.,,,,#N/A
+14.21.01,Mining and Mineral Engineering.,,,5.15.01,Mining Engineering
+14.22,Naval Architecture and Marine Engineering.,,,,#N/A
+14.22.01,Naval Architecture and Marine Engineering.,,,5.14.09,Ocean Engineering
+14.23,Nuclear Engineering.,,,5.17.01,Nuclear Engineering
+14.23.01,Nuclear Engineering.,,,5.17.01,Nuclear Engineering
+14.24,Ocean Engineering.,,,5.14.09,Ocean Engineering
+14.24.01,Ocean Engineering.,,,5.14.09,Ocean Engineering
+14.25,Petroleum Engineering.,,,5.06.05,Petroleum Engineering
+14.25.01,Petroleum Engineering.,,,5.06.05,Petroleum Engineering
+14.27,Systems Engineering.,,,5.18.05,Systems Engineering
+14.27.01,Systems Engineering.,,,5.18.05,Systems Engineering
+14.28,Textile Sciences and Engineering.,,,,#N/A
+14.28.01,Textile Sciences and Engineering.,,,5.12.04,Other Engineering Science and Materials
+14.31,Materials Science.,,,,#N/A
+14.31.01,Materials Science.,,,5.13.00,Materials Science and Engineering
+14.32,Polymer/Plastics Engineering.,,,,#N/A
+14.32.01,Polymer/Plastics Engineering.,,,5.13.04,Polymer and Organic Materials
+14.33,Construction Engineering.,,,1.04.01,Construction Engineering
+14.33.01,Construction Engineering.,,,1.04.01,Construction Engineering
+14.34,Forest Engineering.,,,,#N/A
+14.34.01,Forest Engineering.,,,5.12.04,Other Engineering Science and Materials
+14.35,Industrial Engineering.,,,5.18.02,Industrial Engineering
+14.35.01,Industrial Engineering.,,,5.18.02,Industrial Engineering
+14.36,Manufacturing Engineering.,,,,#N/A
+14.36.01,Manufacturing Engineering.,,,5.14.08,Manufacturing
+14.37,Operations Research.,,,,#N/A
+14.37.01,Operations Research.,,,5.18.04,Operational Research
+14.38,Surveying Engineering.,,,,#N/A
+14.38.01,Surveying Engineering.,,,5.07.08,Other Civil and Environmental Engineering
+14.39,Geological/Geophysical Engineering.,,,,#N/A
+14.39.01,Geological/Geophysical Engineering.,,,5.07.04,Geotechnical Engineering
+14.4,Paper Science and Engineering.,,,,#N/A
+14.40.01,Paper Science and Engineering.,,,5.13.07,Other Materials Science and Engineering
+14.41,Electromechanical Engineering.,,,,#N/A
+14.41.01,Electromechanical Engineering.,,,5.14.05,Electro-Mechanical Systems
+14.42,"Mechatronics, Robotics, and Automation Engineering.",,,,#N/A
+14.42.01,"Mechatronics, Robotics, and Automation Engineering.",,,5.09.06,Robotics
+14.43,Biochemical Engineering.,,,,#N/A
+14.43.01,Biochemical Engineering.,,,5.06.01,Biochemical and Biomolecular Engineering
+14.44,Engineering Chemistry.,,,,#N/A
+14.44.01,Engineering Chemistry.,,,5.06.00,Chemical Engineering
+14.45,Biological/Biosystems Engineering.,,,,#N/A
+14.45.01,Biological/Biosystems Engineering.,,,5.04.03,Biological Engineering
+14.99,"Engineering, Other.",,,,#N/A
+14.99.99,"Engineering, Other.",,,5.20.01,Other Engineering
+,ENGINEERING TECHNOLOGIES AND ENGINEERING-RELATED FIELDS.,,,,#N/A
+15,"Engineering Technology, General.",,,,#N/A
+15.00.00,"Engineering Technology, General.",,,5.20.01,Other Engineering
+15.01,Architectural Engineering Technologies/Technicians.,,,,#N/A
+15.01.01,Architectural Engineering Technology/Technician.,,,1.01.01,Architectural Engineering
+15.02,Civil Engineering Technologies/Technicians.,,,,#N/A
+15.02.01,Civil Engineering Technology/Technician.,,,5.07.01,Civil Engineering
+15.03,Electrical Engineering Technologies/Technicians.,,,,#N/A
+15.03.03,"Electrical, Electronic and Communications Engineering Technology/Technician.",,,5.10.00,Electrical and Computer Engineering
+15.03.04,Laser and Optical Technology/Technician.,,,5.10.04,Electromagnetics and Photonics
+15.03.05,Telecommunications Technology/Technician.,,,5.10.09,Systems and Communications
+15.03.06,Integrated Circuit Design.,,,5.10.10,"VLSI and Circuits, Embedded and Hardware Systems"
+15.03.99,"Electrical and Electronic Engineering Technologies/Technicians, Other.",,,5.10.11,Other Electrical and Computer Engineering
+15.04,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,,,,#N/A
+15.04.01,Biomedical Technology/Technician.,,,5.04.06,Biomedical Devices and Instrumentation
+15.04.03,Electromechanical Technology/Electromechanical Engineering Technology.,,,5.14.05,Electro-Mechanical Systems
+15.04.04,Instrumentation Technology/Technician.,,,9.02.03,Instrumentation
+15.04.05,Robotics Technology/Technician.,,,9.04.01,Artificial Intelligence and Robotics
+15.04.06,Automation Engineer Technology/Technician.,,,5.20.01,Other Engineering
+15.04.99,"Electromechanical and Instrumentation and Maintenance Technologies/Technicians, Other.",,,5.14.05,Electro-Mechanical Systems
+15.05,Environmental Control Technologies/Technicians.,,,,#N/A
+15.05.01,"Heating, Ventilation, Air Conditioning and Refrigeration Engineering Technology/Technician.",,,5.14.11,Other Mechanical Engineering
+15.05.03,Energy Management and Systems Technology/Technician.,,,5.10.07,Power and Energy
+15.05.05,Solar Energy Technology/Technician.,,,5.10.07,Power and Energy
+15.05.06,Water Quality and Wastewater Treatment Management and Recycling Technology/Technician.,,,5.07.03,Environmental Engineering
+15.05.07,Environmental Engineering Technology/Environmental Technology.,,,5.07.03,Environmental Engineering
+15.05.08,Hazardous Materials Management and Waste Technology/Technician.,,,5.07.03,Environmental Engineering
+15.05.99,"Environmental Control Technologies/Technicians, Other.",,,5.07.03,Environmental Engineering
+15.06,Industrial Production Technologies/Technicians.,,,,#N/A
+15.06.07,Plastics and Polymer Engineering Technology/Technician.,,,5.18.03,Industrial Technology
+15.06.11,Metallurgical Technology/Technician.,,,5.18.03,Industrial Technology
+15.06.12,Industrial Technology/Technician.,,,5.18.03,Industrial Technology
+15.06.13,Manufacturing Engineering Technology/Technician.,,,5.14.08,Manufacturing
+15.06.14,Welding Engineering Technology/Technician.,,,5.18.03,Industrial Technology
+15.06.15,Chemical Engineering Technology/Technician.,,,5.06.00,Chemical Engineering
+15.06.16,Semiconductor Manufacturing Technology.,,,5.10.05,Electronic Devices and Semiconductor Manufacturing
+15.06.99,"Industrial Production Technologies/Technicians, Other.",,,5.18.03,Industrial Technology
+15.07,Quality Control and Safety Technologies/Technicians.,,,,#N/A
+15.07.01,Occupational Safety and Health Technology/Technician.,,,5.18.06,"Other Operations Research, Systems Engineering and Industrial Engineering"
+15.07.02,Quality Control Technology/Technician.,,,5.18.06,"Other Operations Research, Systems Engineering and Industrial Engineering"
+15.07.03,Industrial Safety Technology/Technician.,,,5.18.03,Industrial Technology
+15.07.04,Hazardous Materials Information Systems Technology/Technician.,,,5.18.06,"Other Operations Research, Systems Engineering and Industrial Engineering"
+15.07.99,"Quality Control and Safety Technologies/Technicians, Other.",,,5.18.06,"Other Operations Research, Systems Engineering and Industrial Engineering"
+15.08,Mechanical Engineering Related Technologies/Technicians.,,,,#N/A
+15.08.01,Aeronautical/Aerospace Engineering Technology/Technician.,,,5.01.00,Aerospace Engineering
+15.08.03,Automotive Engineering Technology/Technician.,,,5.02.01,Automotive Engineering
+15.08.05,Mechanical Engineering/Mechanical Technology/Technician.,,,5.14.00,Mechanical Engineering
+15.08.99,"Mechanical Engineering Related Technologies/Technicians, Other.",,,5.14.11,Other Mechanical Engineering
+15.09,Mining and Petroleum Technologies/Technicians.,,,,#N/A
+15.09.01,Mining Technology/Technician.,,,5.15.01,Mining Engineering
+15.09.03,Petroleum Technology/Technician.,,,5.06.05,Petroleum Engineering
+15.09.99,"Mining and Petroleum Technologies/Technicians, Other.",,,5.15.01,Mining Engineering
+15.1,Construction Engineering Technologies.,,,,#N/A
+15.10.01,Construction Engineering Technology/Technician.,,,1.04.01,Construction Engineering
+15.11,Engineering-Related Technologies.,,,,#N/A
+15.11.02,Surveying Technology/Surveying.,,,5.07.08,Other Civil and Environmental Engineering
+15.11.03,Hydraulics and Fluid Power Technology/Technician.,,,5.07.05,Hydraulic Engineering
+15.11.99,"Engineering-Related Technologies, Other.",,,5.20.01,Other Engineering
+15.12,Computer Engineering Technologies/Technicians.,,,,#N/A
+15.12.01,Computer Engineering Technology/Technician.,,,5.09.00,Computer Engineering
+15.12.02,Computer Technology/Computer Systems Technology.,,,5.09.01,Computer and Systems Architecture
+15.12.03,Computer Hardware Technology/Technician.,,,5.09.05,Hardware Systems
+15.12.04,Computer Software Technology/Technician.,,,9.04.08,Software Engineering
+15.12.99,"Computer Engineering Technologies/Technicians, Other.",,,5.09.07,Other Computer Engineering
+15.13,Drafting/Design Engineering Technologies/Technicians.,,,,#N/A
+15.13.01,"Drafting and Design Technology/Technician, General.",,,5.14.04,Computer-Aided Engineering and Design
+15.13.02,CAD/CADD Drafting and/or Design Technology/Technician.,,,5.14.04,Computer-Aided Engineering and Design
+15.13.03,Architectural Drafting and Architectural CAD/CADD.,,,5.14.04,Computer-Aided Engineering and Design
+15.13.04,Civil Drafting and Civil Engineering CAD/CADD.,,,5.14.04,Computer-Aided Engineering and Design
+15.13.05,Electrical/Electronics Drafting and Electrical/Electronics CAD/CADD.,,,5.14.04,Computer-Aided Engineering and Design
+15.13.06,Mechanical Drafting and Mechanical Drafting CAD/CADD.,,,5.14.04,Computer-Aided Engineering and Design
+15.13.99,"Drafting/Design Engineering Technologies/Technicians, Other.",,,5.20.01,Other Engineering
+15.14,Nuclear Engineering Technologies/Technicians.,,,5.17.01,Nuclear Engineering
+15.14.01,Nuclear Engineering Technology/Technician.,,,5.17.01,Nuclear Engineering
+15.15,Engineering-Related Fields.,,,,#N/A
+15.15.01,Engineering/Industrial Management.,,,5.18.02,Industrial Engineering
+15.15.02,Engineering Design.,,,5.20.01,Other Engineering
+15.15.03,Packaging Science.,,,5.20.01,Other Engineering
+15.15.99,"Engineering-Related Fields, Other.",,,5.20.01,Other Engineering
+15.16,Nanotechnology.,,,5.16.01,Nanoscience and Nanotechnology
+15.16.01,Nanotechnology.,,,5.16.01,Nanoscience and Nanotechnology
+15.99,"Engineering Technologies/Technicians, Other.",,,5.20.01,Other Engineering
+15.99.99,"Engineering Technologies and Engineering-Related Fields, Other.",,,5.20.01,Other Engineering
+,"FOREIGN LANGUAGES, LITERATURES, AND LINGUISTICS.",,,,#N/A
+16.01,"Linguistic, Comparative, and Related Language Studies and Services.",,,,#N/A
+16.01.01,"Foreign Languages and Literatures, General.",,,2.50.01,"Other Languages, Societies, and Cultures"
+16.01.02,Linguistics.,,,10.15.00,Linguistics
+16.01.03,Language Interpretation and Translation.,,,2.11.01,Translation Studies
+16.01.04,Comparative Literature.,,,2.11.00,Comparative Literature
+16.01.05,Applied Linguistics.,,,10.15.02,Applied Linguistics
+16.01.99,"Linguistic, Comparative, and Related Language Studies and Services, Other.",,,10.15.14,Other Linguistics
+16.02,"African Languages, Literatures, and Linguistics.",,,,#N/A
+16.02.01,"African Languages, Literatures, and Linguistics.",,,2.01.01,African Languages and Societies
+16.03,"East Asian Languages, Literatures, and Linguistics.",,,,#N/A
+16.03.00,"East Asian Languages, Literatures, and Linguistics, General.",,,2.15.00,East Asian Languages and Societies
+16.03.01,Chinese Language and Literature.,,,2.15.01,Chinese Studies
+16.03.02,Japanese Language and Literature.,,,2.15.02,Japanese Studies
+16.03.03,Korean Language and Literature.,,,2.15.03,Korean Studies
+16.03.04,Tibetan Language and Literature.,,,2.15.00,East Asian Languages and Societies
+16.03.99,"East Asian Languages, Literatures, and Linguistics, Other.",,,2.15.00,East Asian Languages and Societies
+16.04,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",,,,#N/A
+16.04.00,"Slavic Languages, Literatures, and Linguistics, General.",,,2.43.00,Slavic Languages and Societies
+16.04.01,"Baltic Languages, Literatures, and Linguistics.",,,2.17.01,European Languages and Societies
+16.04.02,Russian Language and Literature.,,,2.43.02,Russian Literature
+16.04.04,Albanian Language and Literature.,,,2.17.01,European Languages and Societies
+16.04.05,Bulgarian Language and Literature.,,,2.17.01,European Languages and Societies
+16.04.06,Czech Language and Literature.,,,2.17.01,European Languages and Societies
+16.04.07,Polish Language and Literature.,,,2.17.01,European Languages and Societies
+16.04.08,"Bosnian, Serbian, and Croatian Languages and Literatures.",,,2.17.01,European Languages and Societies
+16.04.09,Slovak Language and Literature.,,,2.17.01,European Languages and Societies
+16.04.10,Ukrainian Language and Literature.,,,2.17.01,European Languages and Societies
+16.04.99,"Slavic, Baltic, and Albanian Languages, Literatures, and Linguistics, Other.",,,2.17.01,European Languages and Societies
+16.05,"Germanic Languages, Literatures, and Linguistics.",,,,#N/A
+16.05.00,"Germanic Languages, Literatures, and Linguistics, General.",,,2.22.00,German Language and Literature
+16.05.01,German Language and Literature.,,,2.22.00,German Language and Literature
+16.05.02,"Scandinavian Languages, Literatures, and Linguistics.",,,2.42.01,Scandinavian Studies
+16.05.03,Danish Language and Literature.,,,2.42.01,Scandinavian Studies
+16.05.04,Dutch/Flemish Language and Literature.,,,2.14.01,Dutch Studies
+16.05.05,Norwegian Language and Literature.,,,2.42.01,Scandinavian Studies
+16.05.06,Swedish Language and Literature.,,,2.42.01,Scandinavian Studies
+16.05.99,"Germanic Languages, Literatures, and Linguistics, Other.",,,2.22.03,Other German Language and Literature
+16.06,Modern Greek Language and Literature.,,,,#N/A
+16.06.01,Modern Greek Language and Literature.,,,2.10.03,Byzantine and Modern Greek
+16.07,"South Asian Languages, Literatures, and Linguistics.",,,,#N/A
+16.07.00,"South Asian Languages, Literatures, and Linguistics, General.",,,2.44.01,South and Southeast Asian Languages and Societies
+16.07.01,Hindi Language and Literature.,,,2.44.01,South and Southeast Asian Languages and Societies
+16.07.02,"Sanskrit and Classical Indian Languages, Literatures, and Linguistics.",,,2.44.01,South and Southeast Asian Languages and Societies
+16.07.04,Bengali Language and Literature.,,,2.44.01,South and Southeast Asian Languages and Societies
+16.07.05,Punjabi Language and Literature.,,,2.44.01,South and Southeast Asian Languages and Societies
+16.07.06,Tamil Language and Literature.,,,2.44.01,South and Southeast Asian Languages and Societies
+16.07.07,Urdu Language and Literature.,,,2.44.01,South and Southeast Asian Languages and Societies
+16.07.99,"South Asian Languages, Literatures, and Linguistics, Other.",,,2.44.01,South and Southeast Asian Languages and Societies
+16.08,"Iranian/Persian Languages, Literatures, and Linguistics.",,,,#N/A
+16.08.01,"Iranian Languages, Literatures, and Linguistics.",,,10.10.05,Near and Middle Eastern Studies
+16.09,"Romance Languages, Literatures, and Linguistics.",,,,#N/A
+16.09.00,"Romance Languages, Literatures, and Linguistics, General.",,,2.17.01,European Languages and Societies
+16.09.01,French Language and Literature.,,,2.21.00,French and Francophone Language and Literature
+16.09.02,Italian Language and Literature.,,,2.25.00,Italian Language and Literature
+16.09.04,Portuguese Language and Literature.,,,2.45.02,Portuguese Literature
+16.09.05,Spanish Language and Literature.,,,2.45.00,Spanish and Portuguese Language and Literature
+16.09.06,Romanian Language and Literature.,,,2.17.01,European Languages and Societies
+16.09.07,Catalan Language and Literature.,,,2.45.05,Other Spanish and Portuguese Language and Literature
+16.09.08,"Hispanic and Latin American Languages, Literatures, and Linguistics, General.",,,2.45.01,Latin American Literature
+16.09.99,"Romance Languages, Literatures, and Linguistics, Other.",,,2.17.01,European Languages and Societies
+16.1,"American Indian/Native American Languages, Literatures, and Linguistics.",,,,#N/A
+16.10.01,"American Indian/Native American Languages, Literatures, and Linguistics.",,,2.37.05,Indigenous Studies
+16.11,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",,,,#N/A
+16.11.00,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics, General.",,,10.10.05,Near and Middle Eastern Studies
+16.11.01,Arabic Language and Literature.,,,10.10.05,Near and Middle Eastern Studies
+16.11.02,Hebrew Language and Literature.,,,10.10.05,Near and Middle Eastern Studies
+16.11.03,"Ancient Near Eastern and Biblical Languages, Literatures, and Linguistics.",,,10.10.05,Near and Middle Eastern Studies
+16.11.99,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics, Other.",,,10.10.05,Near and Middle Eastern Studies
+16.12,"Classics and Classical Languages, Literatures, and Linguistics.",,,,#N/A
+16.12.00,"Classics and Classical Languages, Literatures, and Linguistics, General.",,,2.10.00,Classics
+16.12.02,Ancient/Classical Greek Language and Literature.,,,2.10.05,Classical Literature and Philology
+16.12.03,Latin Language and Literature.,,,2.10.05,Classical Literature and Philology
+16.12.99,"Classics and Classical Languages, Literatures, and Linguistics, Other.",,,2.10.07,Other Classics
+16.13,"Celtic Languages, Literatures, and Linguistics.",,,,#N/A
+16.13.01,"Celtic Languages, Literatures, and Linguistics.",,,2.09.01,Celtic Studies
+16.14,"Southeast Asian and Australasian/Pacific Languages, Literatures, and Linguistics.",,,,#N/A
+16.14.00,"Southeast Asian Languages, Literatures, and Linguistics, General.",,,2.44.01,South and Southeast Asian Languages and Societies
+16.14.01,"Australian/Oceanic/Pacific Languages, Literatures, and Linguistics.",,,2.34.00,Pacific Islands Languages and Societies
+16.14.02,Indonesian/Malay Languages and Literatures.,,,2.44.01,South and Southeast Asian Languages and Societies
+16.14.03,Burmese Language and Literature.,,,2.44.01,South and Southeast Asian Languages and Societies
+16.14.04,Filipino/Tagalog Language and Literature.,,,2.44.01,South and Southeast Asian Languages and Societies
+16.14.05,Khmer/Cambodian Language and Literature.,,,2.44.01,South and Southeast Asian Languages and Societies
+16.14.06,Lao Language and Literature.,,,2.44.01,South and Southeast Asian Languages and Societies
+16.14.07,Thai Language and Literature.,,,2.44.01,South and Southeast Asian Languages and Societies
+16.14.08,Vietnamese Language and Literature.,,,2.44.01,South and Southeast Asian Languages and Societies
+16.14.99,"Southeast Asian and Australasian/Pacific Languages, Literatures, and Linguistics, Other.",,,2.44.01,South and Southeast Asian Languages and Societies
+16.15,"Turkic, Uralic-Altaic, Caucasian, and Central Asian Languages, Literatures, and Linguistics.",,,,#N/A
+16.15.01,Turkish Language and Literature.,,,2.50.01,"Other Languages, Societies, and Cultures"
+16.15.02,"Uralic Languages, Literatures, and Linguistics.",,,2.50.01,"Other Languages, Societies, and Cultures"
+16.15.03,Hungarian/Magyar Language and Literature.,,,2.50.01,"Other Languages, Societies, and Cultures"
+16.15.04,Mongolian Language and Literature.,,,2.50.01,"Other Languages, Societies, and Cultures"
+16.15.99,"Turkic, Uralic-Altaic, Caucasian, and Central Asian Languages, Literatures, and Linguistics, Other.",,,2.50.01,"Other Languages, Societies, and Cultures"
+16.16,American Sign Language.,,,,#N/A
+16.16.01,American Sign Language (ASL).,,,2.16.06,Other English Language and Literature
+16.16.02,Linguistics of ASL and Other Sign Languages.,,,2.16.06,Other English Language and Literature
+16.16.03,Sign Language Interpretation and Translation.,,,2.16.06,Other English Language and Literature
+16.16.99,"American Sign Language, Other.",,,2.16.06,Other English Language and Literature
+16.99,"Foreign Languages, Literatures, and Linguistics, Other.",,,,#N/A
+16.99.99,"Foreign Languages, Literatures, and Linguistics, Other.",,,2.50.01,"Other Languages, Societies, and Cultures"
+,FAMILY AND CONSUMER SCIENCES/HUMAN SCIENCES.,,,,#N/A
+19,Work and Family Studies.,,,,#N/A
+19.00.00,Work and Family Studies.,,,10.26.01,Other Social and Behavioral Sciences
+19.01,"Family and Consumer Sciences/Human Sciences, General.",,,,#N/A
+19.01.01,"Family and Consumer Sciences/Human Sciences, General.",,,10.26.01,Other Social and Behavioral Sciences
+19.02,Family and Consumer Sciences/Human Sciences Business Services.,,,,#N/A
+19.02.01,Business Family and Consumer Sciences/Human Sciences.,,,3.34.01,Other Business
+19.02.02,Family and Consumer Sciences/Human Sciences Communication.,,,8.06.02,Speech Pathology and Audiology
+19.02.03,Consumer Merchandising/Retailing Management.,,,3.28.01,Sales and Merchandising
+19.02.99,"Family and Consumer Sciences/Human Sciences Business Services, Other.",,,3.34.01,Other Business
+19.04,Family and Consumer Economics and Related Studies.,,,,#N/A
+19.04.01,"Family Resource Management Studies, General.",,,10.06.16,Other Economics
+19.04.02,Consumer Economics.,,,10.06.16,Other Economics
+19.04.03,Consumer Services and Advocacy.,,,10.06.16,Other Economics
+19.04.99,"Family and Consumer Economics and Related Services, Other.",,,10.06.16,Other Economics
+19.05,"Foods, Nutrition, and Related Services.",,,,#N/A
+19.05.01,"Foods, Nutrition, and Wellness Studies, General.",,,10.08.01,Food Studies
+19.05.04,Human Nutrition.,,,7.20.02,Human and Clinical Nutrition
+19.05.05,Foodservice Systems Administration/Management.,,,10.08.01,Food Studies
+19.05.99,"Foods, Nutrition, and Related Services, Other.",,,7.20.06,Other Nutrition
+19.06,Housing and Human Environments.,,,,#N/A
+19.06.01,"Housing and Human Environments, General.",,,1.04.01,Construction Engineering
+19.06.04,Facilities Planning and Management.,,,1.04.01,Construction Engineering
+19.06.05,Home Furnishings and Equipment Installers.,,,1.04.01,Construction Engineering
+19.06.99,"Housing and Human Environments, Other.",,,1.04.01,Construction Engineering
+19.07,"Human Development, Family Studies, and Related Services.",,,,#N/A
+19.07.01,"Human Development and Family Studies, General.",,,10.23.08,"Family, Life Course, and Society"
+19.07.02,Adult Development and Aging.,,,10.23.10,Gerontology
+19.07.04,Family Systems.,,,10.23.08,"Family, Life Course, and Society"
+19.07.06,Child Development.,,,10.23.08,"Family, Life Course, and Society"
+19.07.07,Family and Community Services.,,,6.41.01,Family Law
+19.07.08,Child Care and Support Services Management.,,,6.41.01,Family Law
+19.07.09,Child Care Provider/Assistant.,,,6.41.01,Family Law
+19.07.10,Developmental Services Worker.,,,6.41.01,Family Law
+19.07.99,"Human Development, Family Studies, and Related Services, Other.",,,10.23.08,"Family, Life Course, and Society"
+19.09,Apparel and Textiles.,,,,#N/A
+19.09.01,"Apparel and Textiles, General.",,,2.04.09,Industrial and Product Design
+19.09.02,Apparel and Textile Manufacture.,,,5.14.08,Manufacturing
+19.09.04,Textile Science.,,,2.04.09,Industrial and Product Design
+19.09.05,Apparel and Textile Marketing Management.,,,3.21.00,Marketing
+19.09.06,Fashion and Fabric Consultant.,,,2.04.04,Fashion Design
+19.09.99,"Apparel and Textiles, Other.",,,2.04.05,"Fiber, Textile, and Weaving Arts"
+19.99,"Family and Consumer Sciences/Human Sciences, Other.",,,,#N/A
+19.99.99,"Family and Consumer Sciences/Human Sciences, Other.",,,10.26.01,Other Social and Behavioral Sciences
+,TECHNOLOGY EDUCATION/INDUSTRIAL ARTS.,,,,#N/A
+21.01,Technology Education/Industrial Arts Programs.,,,,#N/A
+21.01.01,Technology Education/Industrial Arts.,,,2.04.09,Industrial and Product Design
+,LEGAL PROFESSIONS AND STUDIES.,,,,#N/A
+22,Non-Professional General Legal Studies (Undergraduate).,,,,#N/A
+22.00.00,"Legal Studies, General.",,,10.12.00,Legal Studies
+22.00.01,Pre-Law Studies.,,,10.12.04,Other Legal Studies
+22.01,Law.,,,6.00.00,Law
+22.01.01,Law.,,,6.00.00,Law
+22.02,Legal Research and Advanced Professional Studies.,,,,#N/A
+22.02.01,"Advanced Legal Research/Studies, General.",,,6.80.01,Legal Writing and Research
+22.02.02,Programs for Foreign Lawyers.,,,6.18.01,Comparative and Foreign Law
+22.02.03,American/U.S. Law/Legal Studies/Jurisprudence.,,,6.61.01,Jurisprudence
+22.02.04,Canadian Law/Legal Studies/Jurisprudence.,,,6.61.01,Jurisprudence
+22.02.05,"Banking, Corporate, Finance, and Securities Law.",,,6.09.01,Banking and Finance Law
+22.02.06,Comparative Law.,,,6.18.01,Comparative and Foreign Law
+22.02.07,"Energy, Environment, and Natural Resources Law.",,,6.37.01,Environmental Law
+22.02.08,Health Law.,,,6.48.01,Health Law and Policy
+22.02.09,International Law and Legal Studies.,,,6.56.01,International Law
+22.02.10,"International Business, Trade, and Tax Law.",,,6.57.01,International Trade Law
+22.02.11,Tax Law/Taxation.,,,6.107.01,Tax Law
+22.02.12,Intellectual Property Law.,,,6.54.01,Intellectual Property Law
+22.02.99,"Legal Research and Advanced Professional Studies, Other.",,,6.80.01,Legal Writing and Research
+22.03,Legal Support Services.,,,,#N/A
+22.03.01,Legal Administrative Assistant/Secretary.,,,10.12.04,Other Legal Studies
+22.03.02,Legal Assistant/Paralegal.,,,10.12.04,Other Legal Studies
+22.03.03,Court Reporting/Court Reporter.,,,10.12.04,Other Legal Studies
+22.03.99,"Legal Support Services, Other.",,,10.12.04,Other Legal Studies
+22.99,"Legal Professions and Studies, Other.",,,,#N/A
+22.99.99,"Legal Professions and Studies, Other.",,,10.12.04,Other Legal Studies
+,ENGLISH LANGUAGE AND LITERATURE/LETTERS.,,,,#N/A
+23.01,"English Language and Literature, General.",,,,#N/A
+23.01.01,"English Language and Literature, General.",,,2.16.00,English Language and Literature
+23.04,English Composition.,,,,#N/A
+23.04.01,English Composition.,,,2.41.00,Rhetoric and Composition
+23.05,Creative Writing.,,,2.12.00,Creative Writing
+23.05.01,Creative Writing.,,,2.12.00,Creative Writing
+23.07,American Literature (United States and Canadian.),,,,#N/A
+23.07.01,American Literature (United States).,,,2.02.02,American Literature
+23.07.02,American Literature (Canadian).,,,2.02.02,American Literature
+23.08,English Literature (British and Commonwealth).,,,,#N/A
+23.08.01,English Literature (British and Commonwealth).,,,2.16.03,"Literature in English, British Isles"
+23.1,Speech and Rhetorical Studies.,,,10.04.16,Speech and Rhetorical Studies
+23.10.01,Speech and Rhetorical Studies.,,,10.04.16,Speech and Rhetorical Studies
+23.11,Technical and Business Writing.,,,,#N/A
+23.11.01,Technical and Business Writing.,,,3.06.01,Business and Corporate Communications
+23.13,Rhetoric and Composition/Writing Studies.,,,,#N/A
+23.13.01,"Writing, General.",,,2.12.00,Creative Writing
+23.13.02,Creative Writing.,,,2.12.00,Creative Writing
+23.13.03,"Professional, Technical, Business, and Scientific Writing.",,,2.46.01,Technical and Professional Writing
+23.13.04,Rhetoric and Composition.,,,2.41.00,Rhetoric and Composition
+23.13.99,"Rhetoric and Composition/Writing Studies, Other.",,,2.41.02,Other Rhetoric and Composition
+23.14,Literature.,,,,#N/A
+23.14.01,General Literature.,,,2.16.00,English Language and Literature
+23.14.02,American Literature (United States).,,,2.02.02,American Literature
+23.14.03,American Literature (Canadian).,,,2.02.02,American Literature
+23.14.04,English Literature (British and Commonwealth).,,,2.16.03,"Literature in English, British Isles"
+23.14.05,Children's and Adolescent Literature.,,,2.16.01,Children's and Young Adult Literature
+23.14.99,"Literature, Other.",,,2.16.06,Other English Language and Literature
+23.99,"English Language and Literature/Letters, Other.",,,2.16.06,Other English Language and Literature
+23.99.99,"English Language and Literature/Letters, Other.",,,2.16.06,Other English Language and Literature
+,"LIBERAL ARTS AND SCIENCES, GENERAL STUDIES AND HUMANITIES.",,,,#N/A
+24.01,"Liberal Arts and Sciences, General Studies and Humanities.",,,,#N/A
+24.01.01,Liberal Arts and Sciences/Liberal Studies.,,,4.25.01,Liberal Studies
+24.01.02,General Studies.,,,,#N/A
+24.01.03,Humanities/Humanistic Studies.,,,2.49.01,Other Arts and Humanities
+24.01.99,"Liberal Arts and Sciences, General Studies and Humanities, Other.",,,2.49.01,Other Arts and Humanities
+,LIBRARY SCIENCE.,,,,#N/A
+25.01,Library Science and Administration.,,,,#N/A
+25.01.01,Library and Information Science.,,,10.14.00,Library and Information Science
+25.01.02,Children and Youth Library Services.,,,10.14.00,Library and Information Science
+25.01.03,Archives/Archival Administration.,,,10.14.01,Archival Science
+25.01.99,"Library Science and Administration, Other.",,,10.14.00,Library and Information Science
+25.03,Library and Archives Assisting.,,,,#N/A
+25.03.01,Library and Archives Assisting.,,,10.14.01,Archival Science
+25.99,"Library Science, Other.",,,10.14.00,Library and Information Science
+25.99.99,"Library Science, Other.",,,10.14.00,Library and Information Science
+,BIOLOGICAL AND BIOMEDICAL SCIENCES.,,,,#N/A
+26.01,"Biology, General.",,,,#N/A
+26.01.01,"Biology/Biological Sciences, General.",,,7.06.00,Biology
+26.01.02,"Biomedical Sciences, General.",,,5.04.10,Other Biomedical Engineering and Bioengineering
+26.02,"Biochemistry, Biophysics and Molecular Biology.",,,,#N/A
+26.02.02,Biochemistry.,,,7.03.01,Biochemistry
+26.02.03,Biophysics.,,,7.03.02,Biophysics
+26.02.04,Molecular Biology.,,,7.03.03,Molecular Biology
+26.02.05,Molecular Biochemistry.,,,7.03.05,"Other Biochemistry, Biophysics, and Structural Biology"
+26.02.06,Molecular Biophysics.,,,7.03.05,"Other Biochemistry, Biophysics, and Structural Biology"
+26.02.07,Structural Biology.,,,7.03.04,Structural Biology
+26.02.08,Photobiology.,,,7.03.05,"Other Biochemistry, Biophysics, and Structural Biology"
+26.02.09,Radiation Biology/Radiobiology.,,,8.14.29,Other Medical Sciences
+26.02.10,Biochemistry and Molecular Biology.,,,7.03.01,Biochemistry
+26.02.99,"Biochemistry, Biophysics and Molecular Biology, Other.",,,7.03.05,"Other Biochemistry, Biophysics, and Structural Biology"
+26.03,Botany/Plant Biology.,,,,#N/A
+26.03.01,Botany/Plant Biology.,,,7.23.03,Botany
+26.03.05,Plant Pathology/Phytopathology.,,,7.23.09,Plant Pathology
+26.03.07,Plant Physiology.,,,7.23.03,Botany
+26.03.08,Plant Molecular Biology.,,,7.23.07,Plant Biology
+26.03.99,"Botany/Plant Biology, Other.",,,7.23.11,Other Plant Sciences
+26.04,Cell/Cellular Biology and Anatomical Sciences.,,,,#N/A
+26.04.01,Cell/Cellular Biology and Histology.,,,7.08.03,Cell Biology
+26.04.03,Anatomy.,,,8.03.00,Anatomy
+26.04.04,Developmental Biology and Embryology.,,,7.08.04,Developmental Biology
+26.04.05,Neuroanatomy.,,,7.19.06,Systems Neuroscience
+26.04.06,Cell/Cellular and Molecular Biology.,,,7.08.03,Cell Biology
+26.04.07,Cell Biology and Anatomy.,,,7.08.03,Cell Biology
+26.04.99,"Cell/Cellular Biology and Anatomical Sciences, Other.",,,7.08.03,Cell Biology
+26.05,Microbiological Sciences and Immunology.,,,,#N/A
+26.05.02,"Microbiology, General.",,,7.18.00,Microbiology
+26.05.03,Medical Microbiology and Bacteriology.,,,8.14.17,Medical Microbiology
+26.05.04,Virology.,,,7.18.06,Virology
+26.05.05,Parasitology.,,,7.14.05,Parasitology
+26.05.06,Mycology.,,,7.18.07,Other Microbiology
+26.05.07,Immunology.,,,7.14.00,Immunology and Infectious Disease
+26.05.08,Microbiology and Immunology.,,,7.14.00,Immunology and Infectious Disease
+26.05.99,"Microbiological Sciences and Immunology, Other.",,,7.18.07,Other Microbiology
+26.07,Zoology/Animal Biology.,,,,#N/A
+26.07.01,Zoology/Animal Biology.,,,7.02.07,Zoology
+26.07.02,Entomology.,,,7.10.01,Entomology
+26.07.07,Animal Physiology.,,,8.27.08,Veterinary Physiology
+26.07.08,Animal Behavior and Ethology.,,,7.02.08,Other Animal Sciences
+26.07.09,Wildlife Biology.,,,7.02.08,Other Animal Sciences
+26.07.99,"Zoology/Animal Biology, Other.",,,7.02.08,Other Animal Sciences
+26.08,Genetics.,,,,#N/A
+26.08.01,"Genetics, General.",,,7.13.02,Genetics
+26.08.02,Molecular Genetics.,,,7.13.04,Molecular Genetics
+26.08.03,Microbial and Eukaryotic Genetics.,,,7.13.05,Other Genetics and Genomics
+26.08.04,Animal Genetics.,,,7.13.05,Other Genetics and Genomics
+26.08.05,Plant Genetics.,,,7.23.08,Plant Breeding and Genetics
+26.08.06,Human/Medical Genetics.,,,8.14.15,Medical Genetics
+26.08.07,Genome Sciences/Genomics.,,,7.13.03,Genomics
+26.08.99,"Genetics, Other.",,,7.13.05,Other Genetics and Genomics
+26.09,"Physiology, Pathology and Related Sciences.",,,,#N/A
+26.09.01,"Physiology, General.",,,7.22.00,Physiology
+26.09.02,Molecular Physiology.,,,7.22.01,Cellular and Molecular Physiology
+26.09.03,Cell Physiology.,,,7.22.01,Cellular and Molecular Physiology
+26.09.04,Endocrinology.,,,7.22.03,Endocrinology
+26.09.05,Reproductive Biology.,,,8.14.28,Reproductive and Urinary Physiology
+26.09.06,Neurobiology and Neurophysiology.,,,7.19.00,Neuroscience and Neurobiology
+26.09.07,Cardiovascular Science.,,,8.03.03,Cardiovascular System
+26.09.08,Exercise Physiology.,,,7.22.04,Exercise Physiology
+26.09.09,Vision Science/Physiological Optics.,,,5.04.09,Vision Science
+26.09.10,Pathology/Experimental Pathology.,,,8.15.25,Pathology
+26.09.11,Oncology and Cancer Biology.,,,7.08.01,Cancer Biology
+26.09.12,Aerospace Physiology and Medicine.,,,7.22.06,Other Physiology
+26.09.99,"Physiology, Pathology, and Related Sciences, Other.",,,7.26.01,Other Life Sciences
+26.1,Pharmacology and Toxicology.,,,,#N/A
+26.10.01,Pharmacology.,,,7.21.03,Pharmacology
+26.10.02,Molecular Pharmacology.,,,7.21.05,"Other Pharmacology, Toxicology and Environmental Health"
+26.10.03,Neuropharmacology.,,,7.21.05,"Other Pharmacology, Toxicology and Environmental Health"
+26.10.04,Toxicology.,,,7.21.04,Toxicology
+26.10.05,Molecular Toxicology.,,,7.21.05,"Other Pharmacology, Toxicology and Environmental Health"
+26.10.06,Environmental Toxicology.,,,7.21.01,Environmental Health
+26.10.07,Pharmacology and Toxicology.,,,7.21.00,"Pharmacology, Toxicology and Environmental Health"
+26.10.99,"Pharmacology and Toxicology, Other.",,,7.21.05,"Other Pharmacology, Toxicology and Environmental Health"
+26.11,"Biomathematics, Bioinformatics, and Computational Biology.",,,,#N/A
+26.11.01,Biometry/Biometrics.,,,8.14.11,Medical Biomathematics and Biometrics
+26.11.02,Biostatistics.,,,9.10.03,Biostatistics
+26.11.03,Bioinformatics.,,,7.05.01,Bioinformatics
+26.11.04,Computational Biology.,,,7.13.01,Computational Biology
+26.11.99,"Biomathematics, Bioinformatics, and Computational Biology, Other.",,,7.26.01,Other Life Sciences
+26.12,Biotechnology.,,,7.07.01,Biotechnology
+26.12.01,Biotechnology.,,,7.07.01,Biotechnology
+26.13,"Ecology, Evolution, Systematics, and Population Biology.",,,,#N/A
+26.13.01,Ecology.,,,7.09.00,Ecology and Evolutionary Biology
+26.13.02,Marine Biology and Biological Oceanography.,,,7.17.01,Marine Biology
+26.13.03,Evolutionary Biology.,,,7.09.03,Evolution
+26.13.04,Aquatic Biology/Limnology.,,,7.17.01,Marine Biology
+26.13.05,Environmental Biology.,,,9.06.00,Environmental Sciences
+26.13.06,Population Biology.,,,7.09.04,Population Biology
+26.13.07,Conservation Biology.,,,9.06.06,Natural Resources and Conservation
+26.13.08,Systematic Biology/Biological Systematics.,,,7.25.01,Systems Biology
+26.13.09,Epidemiology.,,,8.23.04,Epidemiology
+26.13.10,Ecology and Evolutionary Biology.,,,7.09.00,Ecology and Evolutionary Biology
+26.13.99,"Ecology, Evolution, Systematics and Population Biology, Other.",,,7.09.06,Other Ecology and Evolutionary Biology
+26.14,Molecular Medicine.,,,,#N/A
+26.14.01,Molecular Medicine.,,,8.14.18,Medical Molecular Biology
+26.15,Neurobiology and Neurosciences.,,,,#N/A
+26.15.01,Neuroscience.,,,8.14.26,Neurosciences
+26.15.02,Neuroanatomy.,,,7.19.06,Systems Neuroscience
+26.15.03,Neurobiology and Anatomy.,,,7.19.06,Systems Neuroscience
+26.15.04,Neurobiology and Behavior.,,,7.19.01,Behavioral Neurobiology
+26.15.99,"Neurobiology and Neurosciences, Other.",,,7.19.00,Neuroscience and Neurobiology
+26.99,"Biological and Biomedical Sciences, Other.",,,,#N/A
+26.99.99,"Biological and Biomedical Sciences, Other.",,,8.28.01,Other Medicine and Health Sciences
+,MATHEMATICS AND STATISTICS.,,,,#N/A
+27.01,Mathematics.,,,,#N/A
+27.01.01,"Mathematics, General.",,,9.07.00,Mathematics
+27.01.02,Algebra and Number Theory.,,,9.07.02,Algebraic Geometry
+27.01.03,Analysis and Functional Analysis.,,,9.07.03,Analysis
+27.01.04,Geometry/Geometric Analysis.,,,9.07.06,Geometry and Topology
+27.01.05,Topology and Foundations.,,,9.07.06,Geometry and Topology
+27.01.99,"Mathematics, Other.",,,9.07.11,Other Mathematics
+27.03,Applied Mathematics.,,,,#N/A
+27.03.01,"Applied Mathematics, General.",,,9.01.00,Applied Mathematics
+27.03.03,Computational Mathematics.,,,9.01.08,Other Applied Mathematics
+27.03.04,Computational and Applied Mathematics.,,,9.01.08,Other Applied Mathematics
+27.03.05,Financial Mathematics.,,,9.01.08,Other Applied Mathematics
+27.03.06,Mathematical Biology.,,,9.10.02,Biometry
+27.03.99,"Applied Mathematics, Other.",,,9.01.08,Other Applied Mathematics
+27.05,Statistics.,,,,#N/A
+27.05.01,"Statistics, General.",,,9.10.00,Statistics and Probability
+27.05.02,Mathematical Statistics and Probability.,,,9.10.17,Other Statistics and Probability
+27.05.03,Mathematics and Statistics.,,,9.10.17,Other Statistics and Probability
+27.05.99,"Statistics, Other.",,,9.10.17,Other Statistics and Probability
+27.99,"Mathematics and Statistics, Other.",,,,#N/A
+27.99.99,"Mathematics and Statistics, Other.",,,9.10.17,Other Statistics and Probability
+,"MILITARY SCIENCE, LEADERSHIP AND OPERATIONAL ART.",,,,#N/A
+28.01,"Air Force ROTC, Air Science and Operations.",,,,#N/A
+28.01.01,Air Force JROTC/ROTC.,,,10.19.09,Military and Veterans Studies
+28.01.99,"Air Force ROTC, Air Science and Operations, Other.",,,10.19.09,Military and Veterans Studies
+28.03,"Army ROTC, Military Science and Operations.",,,,#N/A
+28.03.01,Army JROTC/ROTC.,,,10.19.09,Military and Veterans Studies
+28.03.99,"Army ROTC, Military Science and Operations, Other.",,,10.19.09,Military and Veterans Studies
+28.04,"Navy/Marine ROTC, Naval Science and Operations.",,,,#N/A
+28.04.01,Navy/Marine Corps JROTC/ROTC.,,,10.19.09,Military and Veterans Studies
+28.04.99,"Navy/Marine Corps ROTC, Naval Science and Operations, Other.",,,10.19.09,Military and Veterans Studies
+28.05,Military Science and Operational Studies.,,,,#N/A
+28.05.01,Air Science/Airpower Studies.,,,10.19.09,Military and Veterans Studies
+28.05.02,Air and Space Operational Art and Science.,,,10.19.09,Military and Veterans Studies
+28.05.03,Military Operational Art and Science/Studies.,,,10.19.09,Military and Veterans Studies
+28.05.04,Advanced Military and Operational Studies.,,,10.19.09,Military and Veterans Studies
+28.05.05,Naval Science and Operational Studies.,,,10.19.09,Military and Veterans Studies
+28.05.06,"Special, Irregular and Counterterrorist Operations.",,,10.19.01,Defense and Security Studies
+28.05.99,"Military Science and Operational Studies, Other.",,,10.19.09,Military and Veterans Studies
+28.06,Security Policy and Strategy.,,,,#N/A
+28.06.01,"Strategic Studies, General.",,,10.19.01,Defense and Security Studies
+28.06.02,Military and Strategic Leadership.,,,10.19.09,Military and Veterans Studies
+28.06.03,Military and International Operational Law.,,,10.19.09,Military and Veterans Studies
+28.06.04,Joint Operations Planning and Strategy.,,,10.19.01,Defense and Security Studies
+28.06.05,Weapons of Mass Destruction.,,,10.19.01,Defense and Security Studies
+28.06.99,"National Security Policy and Strategy, Other.",,,10.19.01,Defense and Security Studies
+28.07,Military Economics and Management.,,,,#N/A
+28.07.01,National Resource Strategy and Policy.,,,10.19.01,Defense and Security Studies
+28.07.02,Industry Studies.,,,10.19.23,"Other Public Affairs, Public Policy and Public Administration"
+28.07.03,Military Installation Management.,,,10.19.09,Military and Veterans Studies
+28.07.99,"Military Economics and Management, Other.",,,10.19.02,Economic Policy
+28.99,"Military Science, Leadership and Operational Art, Other.",,,,#N/A
+28.99.99,"Military Science, Leadership and Operational Art, Other.",,,10.19.09,Military and Veterans Studies
+,MILITARY TECHNOLOGIES AND APPLIED SCIENCES.,,,,#N/A
+29.01,Military Technologies.,,,,#N/A
+29.01.01,Military Technologies.,,,10.19.17,Science and Technology Policy
+29.02,"Intelligence, Command Control and Information Operations.",,,,#N/A
+29.02.01,"Intelligence, General.",,,10.19.01,Defense and Security Studies
+29.02.02,Strategic Intelligence.,,,10.19.01,Defense and Security Studies
+29.02.03,Signal/Geospatial Intelligence.,,,10.19.01,Defense and Security Studies
+29.02.04,"Command & Control (C3, C4I) Systems and Operations.",,,10.19.09,Military and Veterans Studies
+29.02.05,Information Operations/Joint Information Operations.,,,10.19.09,Military and Veterans Studies
+29.02.06,Information/Psychological Warfare and Military Media Relations.,,,10.19.09,Military and Veterans Studies
+29.02.07,Cyber/Electronic Operations and Warfare.,,,10.19.01,Defense and Security Studies
+29.02.99,"Intelligence, Command Control and Information Operations, Other.",,,10.19.01,Defense and Security Studies
+29.03,Military Applied Sciences.,,,,#N/A
+29.03.01,Combat Systems Engineering.,,,5.20.01,Other Engineering
+29.03.02,Directed Energy Systems.,,,5.14.06,Energy Systems
+29.03.03,Engineering Acoustics.,,,5.14.01,"Acoustics, Dynamics, and Controls"
+29.03.04,Low-Observables and Stealth Technology.,,,5.13.07,Other Materials Science and Engineering
+29.03.05,Space Systems Operations.,,,5.01.10,Other Aerospace Engineering
+29.03.06,Operational Oceanography.,,,9.08.06,Other Oceanography and Atmospheric Sciences and Meteorology
+29.03.07,Undersea Warfare.,,,10.19.01,Defense and Security Studies
+29.03.99,"Military Applied Sciences, Other.",,,10.19.09,Military and Veterans Studies
+29.04,Military Systems and Maintenance Technology.,,,,#N/A
+29.04.01,Aerospace Ground Equipment Technology.,,,5.01.10,Other Aerospace Engineering
+29.04.02,Air and Space Operations Technology.,,,10.19.17,Science and Technology Policy
+29.04.03,Aircraft Armament Systems Technology.,,,5.01.10,Other Aerospace Engineering
+29.04.04,Explosive Ordinance/Bomb Disposal.,,,10.19.01,Defense and Security Studies
+29.04.05,"Joint Command/Task Force (C3, C4I) Systems.",,,10.19.01,Defense and Security Studies
+29.04.06,Military Information Systems Technology.,,,10.19.17,Science and Technology Policy
+29.04.07,Missile and Space Systems Technology.,,,5.01.10,Other Aerospace Engineering
+29.04.08,Munitions Systems/Ordinance Technology.,,,5.01.10,Other Aerospace Engineering
+29.04.09,Radar Communications and Systems Technology.,,,5.10.09,Systems and Communications
+29.04.99,"Military Systems and Maintenance Technology, Other.",,,10.19.17,Science and Technology Policy
+29.99,"Military Technologies and Applied Sciences, Other.",,,,#N/A
+29.99.99,"Military Technologies and Applied Sciences, Other.",,,10.19.01,Defense and Security Studies
+,MULTI/INTERDISCIPLINARY STUDIES.,,,,#N/A
+30,"Multi-/Interdisciplinary Studies, General.",,,,#N/A
+30.00.00,"Multi-/Interdisciplinary Studies, General.",,,,#N/A
+30.01,Biological and Physical Sciences.,,,,#N/A
+30.01.01,Biological and Physical Sciences.,,,7.03.02,Biophysics
+30.05,Peace Studies and Conflict Resolution.,,,,#N/A
+30.05.01,Peace Studies and Conflict Resolution.,,,6.85.01,"Military, War, and Peace"
+30.06,Systems Science and Theory.,,,,#N/A
+30.06.01,Systems Science and Theory.,,,9.11.01,Other Physical Sciences and Mathematics
+30.08,Mathematics and Computer Science.,,,,#N/A
+30.08.01,Mathematics and Computer Science.,,,9.04.10,Theory and Algorithms
+30.1,Biopsychology.,,,,#N/A
+30.10.01,Biopsychology.,,,10.18.02,Biological Psychology
+30.11,Gerontology.,,,10.23.10,Gerontology
+30.11.01,Gerontology.,,,10.23.10,Gerontology
+30.12,Historic Preservation and Conservation.,,,1.07.01,Historic Preservation and Conservation
+30.12.01,Historic Preservation and Conservation.,,,1.07.01,Historic Preservation and Conservation
+30.12.02,Cultural Resource Management and Policy Analysis.,,,1.05.01,Cultural Resource Management and Policy Analysis
+30.12.99,"Historic Preservation and Conservation, Other.",,,1.07.01,Historic Preservation and Conservation
+30.13,Medieval and Renaissance Studies.,,,,#N/A
+30.13.01,Medieval and Renaissance Studies.,,,2.28.01,Medieval Studies
+30.14,Museology/Museum Studies.,,,,#N/A
+30.14.01,Museology/Museum Studies.,,,2.31.01,Museum Studies
+30.15,"Science, Technology and Society.",,,,#N/A
+30.15.01,"Science, Technology and Society.",,,10.20.01,Science and Technology Studies
+30.16,Accounting and Computer Science.,,,,#N/A
+30.16.01,Accounting and Computer Science.,,,3.01.01,Accounting
+30.17,Behavioral Sciences.,,,,#N/A
+30.17.01,Behavioral Sciences.,,,10.00.00,Social and Behavioral Sciences
+30.18,Natural Sciences.,,,,#N/A
+30.18.01,Natural Sciences.,,,9.00.00,Physical Sciences and Mathematics
+30.19,Nutrition Sciences.,,,,#N/A
+30.19.01,Nutrition Sciences.,,,7.20.00,Nutrition
+30.2,International/Global Studies.,,,,#N/A
+30.20.01,International/Global Studies.,,,10.10.00,International and Area Studies
+30.21,Holocaust and Related Studies.,,,,#N/A
+30.21.01,Holocaust and Related Studies.,,,2.23.25,Other History
+30.22,Classical and Ancient Studies.,,,,#N/A
+30.22.01,Ancient Studies/Civilization.,,,2.24.07,"Other History of Art, Architecture, and Archaeology"
+30.22.02,"Classical, Ancient Mediterranean and Near Eastern Studies and Archaeology.",,,2.10.04,Classical Archaeology and Art History
+30.23,Intercultural/Multicultural and Diversity Studies.,,,,#N/A
+30.23.01,Intercultural/Multicultural and Diversity Studies.,,,4.03.01,"Bilingual, Multilingual, and Multicultural Education"
+30.24,Neuroscience.,,,,#N/A
+30.24.01,Neuroscience.,,,8.14.26,Neurosciences
+30.25,Cognitive Science.,,,,#N/A
+30.25.01,Cognitive Science.,,,10.18.06,Cognitive Psychology
+30.26,Cultural Studies/Critical Theory and Analysis.,,,,#N/A
+30.26.01,Cultural Studies/Critical Theory and Analysis.,,,10.04.03,Critical and Cultural Studies
+30.27,Human Biology.,,,,#N/A
+30.27.01,Human Biology.,,,8.00.00,Medicine and Health Sciences
+30.28,Dispute Resolution.,,,,#N/A
+30.28.01,Dispute Resolution.,,,6.31.01,Dispute Resolution and Arbitration
+30.29,Maritime Studies.,,,,#N/A
+30.29.01,Maritime Studies.,,,7.17.01,Marine Biology
+30.3,Computational Science.,,,,#N/A
+30.30.01,Computational Science.,,,9.01.04,Numerical Analysis and Computation
+30.31,Human Computer Interaction.,,,,#N/A
+30.31.01,Human Computer Interaction.,,,9.04.04,Graphics and Human Computer Interfaces
+30.32,Marine Sciences.,,,,#N/A
+30.32.01,Marine Sciences.,,,7.17.01,Marine Biology
+30.33,Sustainability Studies.,,,,#N/A
+30.33.01,Sustainability Studies.,,,9.06.09,Sustainability
+30.99,"Multi/Interdisciplinary Studies, Other.",,,,#N/A
+30.99.99,"Multi-/Interdisciplinary Studies, Other.",,,,#N/A
+,"PARKS, RECREATION, LEISURE, AND FITNESS STUDIES.",,,,#N/A
+31.01,"Parks, Recreation and Leisure Studies.",,,,#N/A
+31.01.01,"Parks, Recreation and Leisure Studies.",,,10.19.16,"Recreation, Parks and Tourism Administration"
+31.03,"Parks, Recreation and Leisure Facilities Management.",,,,#N/A
+31.03.01,"Parks, Recreation and Leisure Facilities Management, General.",,,10.19.16,"Recreation, Parks and Tourism Administration"
+31.03.02,Golf Course Operation and Grounds Management.,,,10.19.16,"Recreation, Parks and Tourism Administration"
+31.03.99,"Parks, Recreation and Leisure Facilities Management, Other.",,,10.19.16,"Recreation, Parks and Tourism Administration"
+31.05,Health and Physical Education/Fitness.,,,,#N/A
+31.05.01,"Health and Physical Education/Fitness, General.",,,4.17.01,Health and Physical Education
+31.05.04,Sport and Fitness Administration/Management.,,,3.29.01,Sports Management
+31.05.05,Kinesiology and Exercise Science.,,,7.15.02,Exercise Science
+31.05.07,Physical Fitness Technician.,,,4.17.01,Health and Physical Education
+31.05.08,Sports Studies.,,,10.24.01,Sports Studies
+31.05.99,"Health and Physical Education/Fitness, Other.",,,4.17.01,Health and Physical Education
+31.06,Outdoor Education.,,,4.27.01,Outdoor Education
+31.06.01,Outdoor Education.,,,4.27.01,Outdoor Education
+31.99,"Parks, Recreation, Leisure, and Fitness Studies, Other.",,,,#N/A
+31.99.99,"Parks, Recreation, Leisure, and Fitness Studies, Other.",,,10.19.16,"Recreation, Parks and Tourism Administration"
+,BASIC SKILLS AND DEVELOPMENTAL/REMEDIAL EDUCATION.,,,,#N/A
+32.01,Basic Skills and Developmental/Remedial Education.,,,,#N/A
+32.01.01,"Basic Skills and Developmental/Remedial Education, General.",,,4.34.01,Other Education
+32.01.04,Developmental/Remedial Mathematics.,,,4.28.01,Science and Mathematics Education
+32.01.05,Job-Seeking/Changing Skills.,,,4.34.01,Other Education
+32.01.07,Career Exploration/Awareness Skills.,,,4.34.01,Other Education
+32.01.08,Developmental/Remedial English.,,,4.34.01,Other Education
+32.01.09,Second Language Learning.,,,4.03.01,"Bilingual, Multilingual, and Multicultural Education"
+32.01.10,Basic Computer Skills.,,,4.34.01,Other Education
+32.01.11,Workforce Development and Training.,,,3.15.03,Training and Development
+32.01.99,"Basic Skills and Developmental/Remedial Education, Other.",,,4.34.01,Other Education
+,CITIZENSHIP ACTIVITIES.,,,,#N/A
+33.01,Citizenship Activities.,,,,#N/A
+33.01.01,"Citizenship Activities, General.",,,10.23.01,Civic and Community Engagement
+33.01.02,American Citizenship Education.,,,4.34.01,Other Education
+33.01.03,Community Awareness.,,,10.23.01,Civic and Community Engagement
+33.01.04,Community Involvement.,,,10.23.01,Civic and Community Engagement
+33.01.05,Canadian Citizenship Education.,,,4.34.01,Other Education
+33.01.99,"Citizenship Activities, Other.",,,10.23.01,Civic and Community Engagement
+,HEALTH-RELATED KNOWLEDGE AND SKILLS.,,,,#N/A
+34.01,Health-Related Knowledge and Skills.,,,,#N/A
+34.01.02,Birthing and Parenting Knowledge and Skills.,,,8.28.01,Other Medicine and Health Sciences
+34.01.03,Personal Health Improvement and Maintenance.,,,8.28.01,Other Medicine and Health Sciences
+34.01.04,Addiction Prevention and Treatment.,,,8.16.09,Substance Abuse and Addiction
+34.01.99,"Health-Related Knowledge and Skills, Other.",,,8.28.01,Other Medicine and Health Sciences
+,INTERPERSONAL AND SOCIAL SKILLS.,,,,#N/A
+35.01,Interpersonal and Social Skills.,,,,#N/A
+35.01.01,"Interpersonal and Social Skills, General.",,,10.04.08,Interpersonal and Small Group Communication
+35.01.02,Interpersonal Relationships Skills.,,,10.04.08,Interpersonal and Small Group Communication
+35.01.03,Business and Social Skills.,,,3.34.01,Other Business
+35.01.99,"Interpersonal Social Skills, Other.",,,10.04.08,Interpersonal and Small Group Communication
+,LEISURE AND RECREATIONAL ACTIVITIES.,,,,#N/A
+36.01,Leisure and Recreational Activities.,,,,#N/A
+36.01.01,"Leisure and Recreational Activities, General.",,,10.13.01,Leisure Studies
+36.01.02,Handicrafts and Model-Making.,,,10.13.01,Leisure Studies
+36.01.03,"Board, Card and Role-Playing Games.",,,10.13.01,Leisure Studies
+36.01.05,Home Maintenance and Improvement.,,,4.19.01,Home Economics
+36.01.06,Nature Appreciation.,,,10.13.01,Leisure Studies
+36.01.07,Pet Ownership and Care.,,,10.13.01,Leisure Studies
+36.01.08,Sports and Exercise.,,,10.24.01,Sports Studies
+36.01.09,Travel and Exploration.,,,3.33.01,Tourism and Travel
+36.01.10,Art.,,,2.00.00,Arts and Humanities
+36.01.11,Collecting.,,,10.13.01,Leisure Studies
+36.01.12,Cooking and Other Domestic Skills.,,,7.11.05,Other Food Science
+36.01.13,Computer Games and Programming Skills.,,,2.04.06,Game Design
+36.01.14,Dancing.,,,10.13.01,Leisure Studies
+36.01.15,Music.,,,2.32.00,Music
+36.01.16,Reading.,,,2.39.01,Reading and Language
+36.01.17,Theatre/Theater.,,,2.48.00,Theatre and Performance Studies
+36.01.18,Writing.,,,10.13.01,Leisure Studies
+36.01.19,Aircraft Pilot (Private).,,,10.13.01,Leisure Studies
+36.01.99,"Leisure and Recreational Activities, Other.",,,10.13.01,Leisure Studies
+,PERSONAL AWARENESS AND SELF-IMPROVEMENT.,,,,#N/A
+37.01,Personal Awareness and Self-Improvement.,,,,#N/A
+37.01.01,Self-Awareness and Personal Assessment.,,,10.18.22,Other Psychology
+37.01.02,Stress Management and Coping Skills.,,,10.18.09,Counseling Psychology
+37.01.03,Personal Decision-Making Skills.,,,10.18.05,Cognition and Perception
+37.01.04,Self-Esteem and Values Clarification.,,,10.18.09,Counseling Psychology
+37.01.99,"Personal Awareness and Self-Improvement, Other.",,,10.18.09,Counseling Psychology
+,PHILOSOPHY AND RELIGIOUS STUDIES.,,,,#N/A
+38,"Philosophy and Religious Studies, General.",,,,#N/A
+38.00.01,"Philosophy and Religious Studies, General.",,,2.40.18,"Religious Thought, Theology and Philosophy of Religion"
+38.01,Philosophy.,,,,#N/A
+38.01.01,Philosophy.,,,2.35.00,Philosophy
+38.01.02,Logic.,,,2.35.08,Logic and Foundations of Mathematics
+38.01.03,Ethics.,,,2.35.05,Ethics and Political Philosophy
+38.01.04,Applied and Professional Ethics.,,,2.35.05,Ethics and Political Philosophy
+38.01.99,"Philosophy, Other.",,,2.35.13,Other Philosophy
+38.02,Religion/Religious Studies.,,,,#N/A
+38.02.01,Religion/Religious Studies.,,,2.40.00,Religion
+38.02.02,Buddhist Studies.,,,2.40.02,Buddhist Studies
+38.02.03,Christian Studies.,,,2.40.04,Christianity
+38.02.04,Hindu Studies.,,,2.40.08,Hindu Studies
+38.02.05,Islamic Studies.,,,2.40.12,Islamic Studies
+38.02.06,Jewish/Judaic Studies.,,,2.26.00,Jewish Studies
+38.02.99,"Religion/Religious Studies, Other.",,,2.40.18,"Religious Thought, Theology and Philosophy of Religion"
+38.99,"Philosophy and Religious Studies, Other.",,,,#N/A
+38.99.99,"Philosophy and Religious Studies, Other.",,,2.40.18,"Religious Thought, Theology and Philosophy of Religion"
+,THEOLOGY AND RELIGIOUS VOCATIONS.,,,,#N/A
+39.02,Bible/Biblical Studies.,,,,#N/A
+39.02.01,Bible/Biblical Studies.,,,2.40.01,Biblical Studies
+39.03,Missions/Missionary Studies and Missiology.,,,,#N/A
+39.03.01,Missions/Missionary Studies and Missiology.,,,2.40.14,Missions and World Christianity
+39.04,Religious Education.,,,,#N/A
+39.04.01,Religious Education.,,,4.34.01,Other Education
+39.05,Religious/Sacred Music.,,,,#N/A
+39.05.01,Religious/Sacred Music.,,,2.40.13,Liturgy and Worship
+39.06,Theological and Ministerial Studies.,,,,#N/A
+39.06.01,Theology/Theological Studies.,,,2.40.18,"Religious Thought, Theology and Philosophy of Religion"
+39.06.02,Divinity/Ministry.,,,2.40.18,"Religious Thought, Theology and Philosophy of Religion"
+39.06.04,Pre-Theology/Pre-Ministerial Studies.,,,2.40.18,"Religious Thought, Theology and Philosophy of Religion"
+39.06.05,Rabbinical Studies.,,,2.40.01,Biblical Studies
+39.06.06,Talmudic Studies.,,,2.40.01,Biblical Studies
+39.06.99,"Theological and Ministerial Studies, Other.",,,2.40.18,"Religious Thought, Theology and Philosophy of Religion"
+39.07,Pastoral Counseling and Specialized Ministries.,,,,#N/A
+39.07.01,Pastoral Studies/Counseling.,,,2.40.19,Other Religion
+39.07.02,Youth Ministry.,,,2.40.19,Other Religion
+39.07.03,Urban Ministry.,,,2.40.19,Other Religion
+39.07.04,Women's Ministry.,,,2.40.19,Other Religion
+39.07.05,Lay Ministry.,,,2.40.19,Other Religion
+39.07.99,"Pastoral Counseling and Specialized Ministries, Other.",,,2.40.19,Other Religion
+39.99,"Theology and Religious Vocations, Other.",,,,#N/A
+39.99.99,"Theology and Religious Vocations, Other.",,,2.40.18,"Religious Thought, Theology and Philosophy of Religion"
+,PHYSICAL SCIENCES.,,,,#N/A
+40.01,Physical Sciences.,,,,#N/A
+40.01.01,Physical Sciences.,,,9.00.00,Physical Sciences and Mathematics
+40.02,Astronomy and Astrophysics.,,,,#N/A
+40.02.01,Astronomy.,,,9.02.00,Astrophysics and Astronomy
+40.02.02,Astrophysics.,,,9.02.00,Astrophysics and Astronomy
+40.02.03,Planetary Astronomy and Science.,,,9.02.07,Other Astrophysics and Astronomy
+40.02.99,"Astronomy and Astrophysics, Other.",,,9.02.07,Other Astrophysics and Astronomy
+40.04,Atmospheric Sciences and Meteorology.,,,,#N/A
+40.04.01,"Atmospheric Sciences and Meteorology, General.",,,9.08.01,Atmospheric Sciences
+40.04.02,Atmospheric Chemistry and Climatology.,,,9.08.01,Atmospheric Sciences
+40.04.03,Atmospheric Physics and Dynamics.,,,9.08.01,Atmospheric Sciences
+40.04.04,Meteorology.,,,9.08.04,Meteorology
+40.04.99,"Atmospheric Sciences and Meteorology, Other.",,,9.08.06,Other Oceanography and Atmospheric Sciences and Meteorology
+40.05,Chemistry.,,,,#N/A
+40.05.01,"Chemistry, General.",,,9.03.00,Chemistry
+40.05.02,Analytical Chemistry.,,,9.03.01,Analytical Chemistry
+40.05.03,Inorganic Chemistry.,,,9.03.03,Inorganic Chemistry
+40.05.04,Organic Chemistry.,,,9.03.06,Organic Chemistry
+40.05.06,Physical Chemistry.,,,9.03.07,Physical Chemistry
+40.05.07,Polymer Chemistry.,,,9.03.08,Polymer Chemistry
+40.05.08,Chemical Physics.,,,9.09.02,Biological and Chemical Physics
+40.05.09,Environmental Chemistry.,,,9.03.02,Environmental Chemistry
+40.05.10,Forensic Chemistry.,,,9.03.10,Other Chemistry
+40.05.11,Theoretical Chemistry.,,,9.03.10,Other Chemistry
+40.05.99,"Chemistry, Other.",,,9.03.10,Other Chemistry
+40.06,Geological and Earth Sciences/Geosciences.,,,,#N/A
+40.06.01,"Geology/Earth Science, General.",,,9.05.04,Geology
+40.06.02,Geochemistry.,,,9.05.03,Geochemistry
+40.06.03,Geophysics and Seismology.,,,9.05.06,Geophysics and Seismology
+40.06.04,Paleontology.,,,9.05.11,Paleontology
+40.06.05,Hydrology and Water Resources Science.,,,9.05.08,Hydrology
+40.06.06,Geochemistry and Petrology.,,,9.05.03,Geochemistry
+40.06.07,"Oceanography, Chemical and Physical.",,,9.08.05,Oceanography
+40.06.99,"Geological and Earth Sciences/Geosciences, Other.",,,9.05.18,Other Earth Sciences
+40.08,Physics.,,,,#N/A
+40.08.01,"Physics, General.",,,9.09.00,Physics
+40.08.02,Atomic/Molecular Physics.,,,9.09.01,"Atomic, Molecular and Optical Physics"
+40.08.04,Elementary Particle Physics.,,,9.09.04,Elementary Particles and Fields and String Theory
+40.08.05,Plasma and High-Temperature Physics.,,,9.09.09,Plasma and Beam Physics
+40.08.06,Nuclear Physics.,,,9.09.07,Nuclear
+40.08.07,Optics/Optical Sciences.,,,9.09.08,Optics
+40.08.08,Condensed Matter and Materials Physics.,,,9.09.03,Condensed Matter Physics
+40.08.09,Acoustics.,,,9.09.12,Other Physics
+40.08.10,Theoretical and Mathematical Physics.,,,9.09.12,Other Physics
+40.08.99,"Physics, Other.",,,9.09.12,Other Physics
+40.1,Materials Sciences.,,,,#N/A
+40.10.01,Materials Science.,,,5.13.00,Materials Science and Engineering
+40.10.02,Materials Chemistry.,,,9.03.04,Materials Chemistry
+40.10.99,"Materials Sciences, Other.",,,5.13.07,Other Materials Science and Engineering
+40.99,"Physical Sciences, Other.",,,9.11.01,Other Physical Sciences and Mathematics
+40.99.99,"Physical Sciences, Other.",,,9.11.01,Other Physical Sciences and Mathematics
+,SCIENCE TECHNOLOGIES/TECHNICIANS.,,,,#N/A
+41,"Science Technologies/Technicians, General.",,,,#N/A
+41.00.00,"Science Technologies/Technicians, General.",,,10.20.01,Science and Technology Studies
+41.01,Biology Technician/Biotechnology Laboratory Technician.,,,,#N/A
+41.01.01,Biology Technician/Biotechnology Laboratory Technician.,,,7.07.01,Biotechnology
+41.02,Nuclear and Industrial Radiologic Technologies/Technicians.,,,,#N/A
+41.02.04,Industrial Radiologic Technology/Technician.,,,8.15.33,Radiology
+41.02.05,Nuclear/Nuclear Power Technology/Technician.,,,5.17.01,Nuclear Engineering
+41.02.99,"Nuclear and Industrial Radiologic Technologies/Technicians, Other.",,,8.15.33,Radiology
+41.03,Physical Science Technologies/Technicians.,,,,#N/A
+41.03.01,Chemical Technology/Technician.,,,5.06.10,Other Chemical Engineering
+41.03.03,Chemical Process Technology.,,,5.06.10,Other Chemical Engineering
+41.03.99,"Physical Science Technologies/Technicians, Other.",,,9.11.01,Other Physical Sciences and Mathematics
+41.99,"Science Technologies/Technicians, Other.",,,,#N/A
+41.99.99,"Science Technologies/Technicians, Other.",,,10.20.01,Science and Technology Studies
+,PSYCHOLOGY.,,,,#N/A
+42.01,"Psychology, General.",,,,#N/A
+42.01.01,"Psychology, General.",,,10.18.00,Psychology
+42.02,Clinical Psychology.,,,10.18.04,Clinical Psychology
+42.02.01,Clinical Psychology.,,,10.18.04,Clinical Psychology
+42.03,Cognitive Psychology and Psycholinguistics.,,,,#N/A
+42.03.01,Cognitive Psychology and Psycholinguistics.,,,10.18.06,Cognitive Psychology
+42.04,Community Psychology.,,,10.18.07,Community Psychology
+42.04.01,Community Psychology.,,,10.18.07,Community Psychology
+42.05,Comparative Psychology.,,,10.18.08,Comparative Psychology
+42.05.01,Comparative Psychology.,,,10.18.08,Comparative Psychology
+42.06,Counseling Psychology.,,,10.18.09,Counseling Psychology
+42.06.01,Counseling Psychology.,,,10.18.09,Counseling Psychology
+42.07,Developmental and Child Psychology.,,,,#N/A
+42.07.01,Developmental and Child Psychology.,,,10.18.10,Developmental Psychology
+42.08,Experimental Psychology.,,,,#N/A
+42.08.01,Experimental Psychology.,,,10.18.11,Experimental Analysis of Behavior
+42.09,Industrial and Organizational Psychology.,,,10.18.13,Industrial and Organizational Psychology
+42.09.01,Industrial and Organizational Psychology.,,,10.18.13,Industrial and Organizational Psychology
+42.1,Personality Psychology.,,,,#N/A
+42.10.01,Personality Psychology.,,,10.18.16,Personality and Social Contexts
+42.11,Physiological Psychology/Psychobiology.,,,,#N/A
+42.11.01,Physiological Psychology/Psychobiology.,,,10.18.02,Biological Psychology
+42.16,Social Psychology.,,,10.18.19,Social Psychology
+42.16.01,Social Psychology.,,,10.18.19,Social Psychology
+42.17,School Psychology.,,,10.18.18,School Psychology
+42.17.01,School Psychology.,,,10.18.18,School Psychology
+42.18,Educational Psychology.,,,4.14.01,Educational Psychology
+42.18.01,Educational Psychology.,,,4.14.01,Educational Psychology
+42.19,Psychometrics and Quantitative Psychology.,,,,#N/A
+42.19.01,Psychometrics and Quantitative Psychology.,,,10.18.17,Quantitative Psychology
+42.2,Clinical Child Psychology.,,,,#N/A
+42.20.01,Clinical Child Psychology.,,,10.18.03,Child Psychology
+42.21,Environmental Psychology.,,,,#N/A
+42.21.01,Environmental Psychology.,,,10.18.22,Other Psychology
+42.22,Geropsychology.,,,,#N/A
+42.22.01,Geropsychology.,,,10.18.22,Other Psychology
+42.23,Health Psychology.,,,10.18.12,Health Psychology
+42.23.01,Health/Medical Psychology.,,,10.18.12,Health Psychology
+42.24,Psychopharmacology.,,,,#N/A
+42.24.01,Psychopharmacology.,,,8.22.06,Other Psychiatry and Psychology
+42.25,Family Psychology.,,,,#N/A
+42.25.01,Family Psychology.,,,10.18.22,Other Psychology
+42.26,Forensic Psychology.,,,,#N/A
+42.26.01,Forensic Psychology.,,,10.18.22,Other Psychology
+42.27,Research and Experimental Psychology.,,,,#N/A
+42.27.01,Cognitive Psychology and Psycholinguistics.,,,10.18.06,Cognitive Psychology
+42.27.02,Comparative Psychology.,,,10.18.08,Comparative Psychology
+42.27.03,Developmental and Child Psychology.,,,10.18.10,Developmental Psychology
+42.27.04,Experimental Psychology.,,,10.18.11,Experimental Analysis of Behavior
+42.27.05,Personality Psychology.,,,10.18.16,Personality and Social Contexts
+42.27.06,Physiological Psychology/Psychobiology.,,,10.18.02,Biological Psychology
+42.27.07,Social Psychology.,,,10.18.19,Social Psychology
+42.27.08,Psychometrics and Quantitative Psychology.,,,10.18.17,Quantitative Psychology
+42.27.09,Psychopharmacology.,,,8.22.06,Other Psychiatry and Psychology
+42.27.99,"Research and Experimental Psychology, Other.",,,10.18.22,Other Psychology
+42.28,"Clinical, Counseling and Applied Psychology.",,,,#N/A
+42.28.01,Clinical Psychology.,,,10.18.04,Clinical Psychology
+42.28.02,Community Psychology.,,,10.18.07,Community Psychology
+42.28.03,Counseling Psychology.,,,10.18.09,Counseling Psychology
+42.28.04,Industrial and Organizational Psychology.,,,10.18.13,Industrial and Organizational Psychology
+42.28.05,School Psychology.,,,10.18.18,School Psychology
+42.28.06,Educational Psychology.,,,4.14.01,Educational Psychology
+42.28.07,Clinical Child Psychology.,,,10.18.03,Child Psychology
+42.28.08,Environmental Psychology.,,,10.18.22,Other Psychology
+42.28.09,Geropsychology.,,,10.18.22,Other Psychology
+42.28.10,Health/Medical Psychology.,,,10.18.12,Health Psychology
+42.28.11,Family Psychology.,,,10.18.22,Other Psychology
+42.28.12,Forensic Psychology.,,,10.18.22,Other Psychology
+42.28.13,Applied Psychology.,,,10.18.22,Other Psychology
+42.28.14,Applied Behavior Analysis.,,,10.18.01,Applied Behavior Analysis
+42.28.99,"Clinical, Counseling and Applied Psychology, Other.",,,10.18.22,Other Psychology
+42.99,"Psychology, Other.",,,10.18.22,Other Psychology
+42.99.99,"Psychology, Other.",,,10.18.22,Other Psychology
+,"HOMELAND SECURITY, LAW ENFORCEMENT, FIREFIGHTING AND RELATED PROTECTIVE SERVICES.",,,,#N/A
+43.01,Criminal Justice and Corrections.,,,,#N/A
+43.01.02,Corrections.,,,6.72.01,Law Enforcement and Corrections
+43.01.03,Criminal Justice/Law Enforcement Administration.,,,10.12.01,Criminology and Criminal Justice
+43.01.04,Criminal Justice/Safety Studies.,,,10.12.01,Criminology and Criminal Justice
+43.01.06,Forensic Science and Technology.,,,10.12.02,Forensic Science and Technology
+43.01.07,Criminal Justice/Police Science.,,,10.12.01,Criminology and Criminal Justice
+43.01.09,Security and Loss Prevention Services.,,,6.72.01,Law Enforcement and Corrections
+43.01.10,Juvenile Corrections.,,,6.72.01,Law Enforcement and Corrections
+43.01.11,Criminalistics and Criminal Science.,,,10.12.01,Criminology and Criminal Justice
+43.01.12,Securities Services Administration/Management.,,,6.72.01,Law Enforcement and Corrections
+43.01.13,Corrections Administration.,,,6.72.01,Law Enforcement and Corrections
+43.01.14,Law Enforcement Investigation and Interviewing.,,,6.72.01,Law Enforcement and Corrections
+43.01.15,Law Enforcement Record-Keeping and Evidence Management.,,,6.72.01,Law Enforcement and Corrections
+43.01.16,Cyber/Computer Forensics and Counterterrorism.,,,10.12.02,Forensic Science and Technology
+43.01.17,Financial Forensics and Fraud Investigation.,,,10.12.02,Forensic Science and Technology
+43.01.18,Law Enforcement Intelligence Analysis.,,,6.72.01,Law Enforcement and Corrections
+43.01.19,Critical Incident Response/Special Police Operations.,,,6.72.01,Law Enforcement and Corrections
+43.01.20,Protective Services Operations.,,,6.72.01,Law Enforcement and Corrections
+43.01.21,Suspension and Debarment Investigation.,,,6.72.01,Law Enforcement and Corrections
+43.01.22,Maritime Law Enforcement.,,,6.72.01,Law Enforcement and Corrections
+43.01.23,Cultural/Archaelogical Resources Protection.,,,6.72.01,Law Enforcement and Corrections
+43.01.99,"Corrections and Criminal Justice, Other.",,,6.72.01,Law Enforcement and Corrections
+43.02,Fire Protection.,,,,#N/A
+43.02.01,Fire Prevention and Safety Technology/Technician.,,,10.19.04,Emergency and Disaster Management
+43.02.02,Fire Services Administration.,,,10.19.04,Emergency and Disaster Management
+43.02.03,Fire Science/Fire-fighting.,,,10.19.04,Emergency and Disaster Management
+43.02.04,Fire Systems Technology.,,,10.19.04,Emergency and Disaster Management
+43.02.05,Fire/Arson Investigation and Prevention.,,,6.72.01,Law Enforcement and Corrections
+43.02.06,Wildland/Forest Firefighting and Investigation.,,,6.72.01,Law Enforcement and Corrections
+43.02.99,"Fire Protection, Other.",,,10.19.04,Emergency and Disaster Management
+43.03,Homeland Security.,,,,#N/A
+43.03.01,Homeland Security.,,,10.19.01,Defense and Security Studies
+43.03.02,Crisis/Emergency/Disaster Management.,,,10.19.04,Emergency and Disaster Management
+43.03.03,Critical Infrastructure Protection.,,,10.19.01,Defense and Security Studies
+43.03.04,Terrorism and Counterterrorism Operations.,,,10.19.01,Defense and Security Studies
+43.03.99,"Homeland Security, Other.",,,10.19.01,Defense and Security Studies
+43.99,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",,,,#N/A
+43.99.99,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",,,10.19.04,Emergency and Disaster Management
+,PUBLIC ADMINISTRATION AND SOCIAL SERVICE PROFESSIONS.,,,,#N/A
+44,"Human Services, General.",,,,#N/A
+44.00.00,"Human Services, General.",,,10.19.23,"Other Public Affairs, Public Policy and Public Administration"
+44.02,Community Organization and Advocacy.,,,,#N/A
+44.02.01,Community Organization and Advocacy.,,,10.23.01,Civic and Community Engagement
+44.04,Public Administration.,,,10.19.13,Public Administration
+44.04.01,Public Administration.,,,10.19.13,Public Administration
+44.05,Public Policy Analysis.,,,,#N/A
+44.05.01,"Public Policy Analysis, General.",,,10.19.15,Public Policy
+44.05.02,Education Policy Analysis.,,,10.19.03,Education Policy
+44.05.03,Health Policy Analysis.,,,10.19.07,Health Policy
+44.05.04,International Policy Analysis.,,,10.17.03,International Relations
+44.05.99,"Public Policy Analysis, Other.",,,10.19.15,Public Policy
+44.07,Social Work.,,,10.22.01,Social Work
+44.07.01,Social Work.,,,10.22.01,Social Work
+44.07.02,Youth Services/Administration.,,,10.22.01,Social Work
+44.07.99,"Social Work, Other.",,,10.22.01,Social Work
+44.99,"Public Administration and Social Service Professions, Other.",,,,#N/A
+44.99.99,"Public Administration and Social Service Professions, Other.",,,10.19.23,"Other Public Affairs, Public Policy and Public Administration"
+,SOCIAL SCIENCES.,,,,#N/A
+45.01,"Social Sciences, General.",,,,#N/A
+45.01.01,"Social Sciences, General.",,,10.00.00,Social and Behavioral Sciences
+45.01.02,Research Methodology and Quantitative Methods.,,,10.26.01,Other Social and Behavioral Sciences
+45.02,Anthropology.,,,,#N/A
+45.02.01,Anthropology.,,,10.03.00,Anthropology
+45.02.02,Physical and Biological Anthropology.,,,10.03.02,Biological and Physical Anthropology
+45.02.03,Medical Anthropology.,,,10.03.06,Other Anthropology
+45.02.04,Cultural Anthropology.,,,10.03.05,Social and Cultural Anthropology
+45.02.99,"Anthropology, Other.",,,10.03.06,Other Anthropology
+45.03,Archeology.,,,,#N/A
+45.03.01,Archeology.,,,2.24.00,"History of Art, Architecture, and Archaeology"
+45.04,Criminology.,,,,#N/A
+45.04.01,Criminology.,,,10.23.04,Criminology
+45.05,Demography and Population Studies.,,,,#N/A
+45.05.01,Demography and Population Studies.,,,10.23.05,"Demography, Population, and Ecology"
+45.06,Economics.,,,,#N/A
+45.06.01,"Economics, General.",,,10.06.00,Economics
+45.06.02,Applied Economics.,,,10.06.16,Other Economics
+45.06.03,Econometrics and Quantitative Economics.,,,10.06.02,Econometrics
+45.06.04,Development Economics and International Development.,,,10.06.06,Growth and Development
+45.06.05,International Economics.,,,10.06.10,International Economics
+45.06.99,"Economics, Other.",,,10.06.16,Other Economics
+45.07,Geography and Cartography.,,,,#N/A
+45.07.01,Geography.,,,10.09.00,Geography
+45.07.02,Geographic Information Science and Cartography.,,,10.09.01,Geographic Information Sciences
+45.07.99,"Geography, Other.",,,10.09.07,Other Geography
+45.09,International Relations and National Security Studies.,,,,#N/A
+45.09.01,International Relations and Affairs.,,,10.17.03,International Relations
+45.09.02,National Security Policy Studies.,,,6.86.01,National Security Law
+45.09.99,"International Relations and National Security Studies, Other.",,,10.17.06,Other Political Science
+45.1,Political Science and Government.,,,,#N/A
+45.10.01,"Political Science and Government, General.",,,10.17.00,Political Science
+45.10.02,American Government and Politics (United States).,,,10.17.01,American Politics
+45.10.03,Canadian Government and Politics.,,,10.17.06,Other Political Science
+45.10.04,Political Economy.,,,10.06.13,Political Economy
+45.10.99,"Political Science and Government, Other.",,,10.17.06,Other Political Science
+45.11,Sociology.,,,10.23.00,Sociology
+45.11.01,Sociology.,,,10.23.00,Sociology
+45.12,Urban Studies/Affairs.,,,,#N/A
+45.12.01,Urban Studies/Affairs.,,,10.25.01,Urban Studies and Planning
+45.13,Sociology and Anthropology.,,,,#N/A
+45.13.01,Sociology and Anthropology.,,,10.23.00,Sociology
+45.14,Rural Sociology.,,,10.23.19,Rural Sociology
+45.14.01,Rural Sociology.,,,10.23.19,Rural Sociology
+45.99,"Social Sciences, Other.",,,10.26.01,Other Social and Behavioral Sciences
+45.99.99,"Social Sciences, Other.",,,10.26.01,Other Social and Behavioral Sciences
+,CONSTRUCTION TRADES.,,,,#N/A
+46,"Construction Trades, General.",,,,#N/A
+46.00.00,"Construction Trades, General.",,,5.07.02,Construction Engineering and Management
+46.01,Mason/Masonry.,,,,#N/A
+46.01.01,Mason/Masonry.,,,1.04.01,Construction Engineering
+46.02,Carpenters.,,,,#N/A
+46.02.01,Carpentry/Carpenter.,,,1.04.01,Construction Engineering
+46.03,Electrical and Power Transmission Installers.,,,,#N/A
+46.03.01,"Electrical and Power Transmission Installation/Installer, General.",,,5.10.03,Electrical and Electronics
+46.03.02,Electrician.,,,5.10.03,Electrical and Electronics
+46.03.03,Lineworker.,,,5.10.03,Electrical and Electronics
+46.03.99,"Electrical and Power Transmission Installers, Other.",,,5.10.03,Electrical and Electronics
+46.04,"Building/Construction Finishing, Management, and Inspection.",,,,#N/A
+46.04.01,Building/Property Maintenance.,,,5.07.02,Construction Engineering and Management
+46.04.02,Concrete Finishing/Concrete Finisher.,,,1.04.01,Construction Engineering
+46.04.03,Building/Home/Construction Inspection/Inspector.,,,1.04.01,Construction Engineering
+46.04.04,Drywall Installation/Drywaller.,,,1.04.01,Construction Engineering
+46.04.06,Glazier.,,,1.04.01,Construction Engineering
+46.04.08,Painting/Painter and Wall Coverer.,,,1.04.01,Construction Engineering
+46.04.10,Roofer.,,,1.04.01,Construction Engineering
+46.04.11,Metal Building Assembly/Assembler.,,,1.04.01,Construction Engineering
+46.04.12,Building/Construction Site Management/Manager.,,,1.04.01,Construction Engineering
+46.04.13,"Carpet, Floor, and Tile Worker.",,,1.04.01,Construction Engineering
+46.04.14,Insulator.,,,1.04.01,Construction Engineering
+46.04.15,Building Construction Technology.,,,1.04.01,Construction Engineering
+46.04.99,"Building/Construction Finishing, Management, and Inspection, Other.",,,1.04.01,Construction Engineering
+46.05,Plumbing and Related Water Supply Services.,,,,#N/A
+46.05.02,Pipefitting/Pipefitter and Sprinkler Fitter.,,,1.04.01,Construction Engineering
+46.05.03,Plumbing Technology/Plumber.,,,1.04.01,Construction Engineering
+46.05.04,Well Drilling/Driller.,,,1.04.01,Construction Engineering
+46.05.05,Blasting/Blaster.,,,1.04.01,Construction Engineering
+46.05.99,"Plumbing and Related Water Supply Services, Other.",,,1.04.01,Construction Engineering
+46.99,"Construction Trades, Other.",,,,#N/A
+46.99.99,"Construction Trades, Other.",,,5.07.02,Construction Engineering and Management
+,MECHANIC AND REPAIR TECHNOLOGIES/TECHNICIANS.,,,,#N/A
+47,"Mechanics and Repairers, General.",,,,#N/A
+47.00.00,"Mechanics and Repairers, General.",,,1.04.01,Construction Engineering
+47.01,Electrical/Electronics Maintenance and Repair Technology.,,,,#N/A
+47.01.01,"Electrical/Electronics Equipment Installation and Repair, General.",,,5.10.03,Electrical and Electronics
+47.01.02,Business Machine Repair.,,,5.10.05,Electronic Devices and Semiconductor Manufacturing
+47.01.03,Communications Systems Installation and Repair Technology.,,,5.10.09,Systems and Communications
+47.01.04,Computer Installation and Repair Technology/Technician.,,,5.10.05,Electronic Devices and Semiconductor Manufacturing
+47.01.05,Industrial Electronics Technology/Technician.,,,5.10.05,Electronic Devices and Semiconductor Manufacturing
+47.01.06,Appliance Installation and Repair Technology/Technician.,,,5.10.05,Electronic Devices and Semiconductor Manufacturing
+47.01.10,"Security System Installation, Repair, and Inspection Technology/Technician.",,,5.10.03,Electrical and Electronics
+47.01.99,"Electrical/Electronics Maintenance and Repair Technology, Other.",,,5.10.03,Electrical and Electronics
+47.02,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",,,,#N/A
+47.02.01,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician.",,,5.10.03,Electrical and Electronics
+47.03,Heavy/Industrial Equipment Maintenance Technologies.,,,,#N/A
+47.03.02,Heavy Equipment Maintenance Technology/Technician.,,,5.20.01,Other Engineering
+47.03.03,Industrial Mechanics and Maintenance Technology.,,,5.20.01,Other Engineering
+47.03.99,"Heavy/Industrial Equipment Maintenance Technologies, Other.",,,5.20.01,Other Engineering
+47.04,Precision Systems Maintenance and Repair Technologies.,,,,#N/A
+47.04.02,Gunsmithing/Gunsmith.,,,2.04.09,Industrial and Product Design
+47.04.03,Locksmithing and Safe Repair.,,,2.04.09,Industrial and Product Design
+47.04.04,Musical Instrument Fabrication and Repair.,,,2.04.09,Industrial and Product Design
+47.04.08,Watchmaking and Jewelrymaking.,,,2.04.12,Metal and Jewelry Arts
+47.04.09,Parts and Warehousing Operations and Maintenance Technology/Technician.,,,5.18.04,Operational Research
+47.04.99,"Precision Systems Maintenance and Repair Technologies, Other.",,,5.18.04,Operational Research
+47.06,Vehicle Maintenance and Repair Technologies.,,,,#N/A
+47.06.00,"Vehicle Maintenance and Repair Technologies, General.",,,5.02.01,Automotive Engineering
+47.06.03,Autobody/Collision and Repair Technology/Technician.,,,5.02.01,Automotive Engineering
+47.06.04,Automobile/Automotive Mechanics Technology/Technician.,,,5.02.01,Automotive Engineering
+47.06.05,Diesel Mechanics Technology/Technician.,,,5.02.01,Automotive Engineering
+47.06.06,Small Engine Mechanics and Repair Technology/Technician.,,,5.02.01,Automotive Engineering
+47.06.07,Airframe Mechanics and Aircraft Maintenance Technology/Technician.,,,5.03.03,Maintenance Technology
+47.06.08,Aircraft Powerplant Technology/Technician.,,,5.03.03,Maintenance Technology
+47.06.09,Avionics Maintenance Technology/Technician.,,,5.03.03,Maintenance Technology
+47.06.10,Bicycle Mechanics and Repair Technology/Technician.,,,5.14.11,Other Mechanical Engineering
+47.06.11,Motorcycle Maintenance and Repair Technology/Technician.,,,5.02.01,Automotive Engineering
+47.06.12,Vehicle Emissions Inspection and Maintenance Technology/Technician.,,,5.02.01,Automotive Engineering
+47.06.13,Medium/Heavy Vehicle and Truck Technology/Technician.,,,5.02.01,Automotive Engineering
+47.06.14,Alternative Fuel Vehicle Technology/Technician.,,,5.02.01,Automotive Engineering
+47.06.15,Engine Machinist.,,,5.02.01,Automotive Engineering
+47.06.16,Marine Maintenance/Fitter and Ship Repair Technology/Technician.,,,5.14.09,Ocean Engineering
+47.06.17,High Performance and Custom Engine Technician/Mechanic.,,,5.18.04,Operational Research
+47.06.18,Recreation Vehicle (RV) Service Technician.,,,5.02.01,Automotive Engineering
+47.06.99,"Vehicle Maintenance and Repair Technologies, Other.",,,5.02.01,Automotive Engineering
+47.99,"Mechanic and Repair Technologies/Technicians, Other.",,,,#N/A
+47.99.99,"Mechanic and Repair Technologies/Technicians, Other.",,,5.14.11,Other Mechanical Engineering
+,PRECISION PRODUCTION.,,,,#N/A
+48,"Precision Production Trades, General.",,,,#N/A
+48.00.00,"Precision Production Trades, General.",,,5.18.04,Operational Research
+48.03,Leatherworking and Upholstery.,,,,#N/A
+48.03.03,Upholstery/Upholsterer.,,,2.04.09,Industrial and Product Design
+48.03.04,"Shoe, Boot and Leather Repair.",,,2.04.09,Industrial and Product Design
+48.03.99,"Leatherworking and Upholstery, Other.",,,2.04.09,Industrial and Product Design
+48.05,Precision Metal Working.,,,,#N/A
+48.05.01,Machine Tool Technology/Machinist.,,,5.14.08,Manufacturing
+48.05.03,Machine Shop Technology/Assistant.,,,5.14.08,Manufacturing
+48.05.06,Sheet Metal Technology/Sheetworking.,,,5.14.08,Manufacturing
+48.05.07,Tool and Die Technology/Technician.,,,5.14.08,Manufacturing
+48.05.08,Welding Technology/Welder.,,,5.14.08,Manufacturing
+48.05.09,Ironworking/Ironworker.,,,5.14.08,Manufacturing
+48.05.10,Computer Numerically Controlled (CNC) Machinist Technology/CNC Machinist.,,,5.14.08,Manufacturing
+48.05.11,Metal Fabricator.,,,5.14.08,Manufacturing
+48.05.99,"Precision Metal Working, Other.",,,5.14.08,Manufacturing
+48.07,Woodworking.,,,,#N/A
+48.07.01,"Woodworking, General.",,,2.04.09,Industrial and Product Design
+48.07.02,Furniture Design and Manufacturing.,,,2.04.09,Industrial and Product Design
+48.07.03,Cabinetmaking and Millwork.,,,2.04.09,Industrial and Product Design
+48.07.99,"Woodworking, Other.",,,2.04.09,Industrial and Product Design
+48.08,Boilermaking/Boilermaker.,,,,#N/A
+48.08.01,Boilermaking/Boilermaker.,,,5.14.08,Manufacturing
+48.99,"Precision Production, Other.",,,,#N/A
+48.99.99,"Precision Production, Other.",,,5.14.08,Manufacturing
+,TRANSPORTATION AND MATERIALS MOVING.,,,,#N/A
+49.01,Air Transportation.,,,,#N/A
+49.01.01,"Aeronautics/Aviation/Aerospace Science and Technology, General.",,,5.01.10,Other Aerospace Engineering
+49.01.02,Airline/Commercial/Professional Pilot and Flight Crew.,,,5.03.01,Aviation and Space Education
+49.01.04,Aviation/Airway Management and Operations.,,,5.03.04,Management and Operations
+49.01.05,Air Traffic Controller.,,,5.03.04,Management and Operations
+49.01.06,Airline Flight Attendant.,,,5.03.01,Aviation and Space Education
+49.01.08,Flight Instructor.,,,5.03.01,Aviation and Space Education
+49.01.99,"Air Transportation, Other.",,,5.03.04,Management and Operations
+49.02,Ground Transportation.,,,,#N/A
+49.02.02,Construction/Heavy Equipment/Earthmoving Equipment Operation.,,,5.07.02,Construction Engineering and Management
+49.02.05,Truck and Bus Driver/Commercial Vehicle Operator and Instructor.,,,,#N/A
+49.02.06,Mobil Crane Operation/Operator.,,,5.07.02,Construction Engineering and Management
+49.02.07,Flagging and Traffic Control.,,,5.07.07,Transportation Engineering
+49.02.08,Railroad and Railway Transportation.,,,5.07.07,Transportation Engineering
+49.02.99,"Ground Transportation, Other.",,,5.07.07,Transportation Engineering
+49.03,Marine Transportation.,,,,#N/A
+49.03.03,Commercial Fishing.,,,7.02.01,Aquaculture and Fisheries
+49.03.04,"Diver, Professional and Instructor.",,,,#N/A
+49.03.09,Marine Science/Merchant Marine Officer.,,,,#N/A
+49.03.99,"Marine Transportation, Other.",,,5.14.09,Ocean Engineering
+49.99,"Transportation and Materials Moving, Other.",,,,#N/A
+49.99.99,"Transportation and Materials Moving, Other.",,,5.07.07,Transportation Engineering
+,VISUAL AND PERFORMING ARTS.,,,,#N/A
+50.01,"Visual and Performing Arts, General.",,,,#N/A
+50.01.01,"Visual and Performing Arts, General.",,,2.19.03,Visual Studies
+50.01.02,Digital Arts.,,,2.19.03,Visual Studies
+50.02,"Crafts/Craft Design, Folk Art and Artisanry.",,,,#N/A
+50.02.01,"Crafts/Craft Design, Folk Art and Artisanry.",,,2.19.03,Visual Studies
+50.03,Dance.,,,2.48.02,Dance
+50.03.01,"Dance, General.",,,2.48.02,Dance
+50.03.02,Ballet.,,,2.48.02,Dance
+50.03.99,"Dance, Other.",,,2.48.02,Dance
+50.04,Design and Applied Arts.,,,,#N/A
+50.04.01,"Design and Visual Communications, General.",,,2.19.03,Visual Studies
+50.04.02,Commercial and Advertising Art.,,,3.02.01,Advertising and Promotion Management
+50.04.04,Industrial and Product Design.,,,2.04.09,Industrial and Product Design
+50.04.06,Commercial Photography.,,,2.36.01,Photography
+50.04.07,Fashion/Apparel Design.,,,2.04.04,Fashion Design
+50.04.08,Interior Design.,,,1.08.01,Interior Architecture
+50.04.09,Graphic Design.,,,2.04.07,Graphic Design
+50.04.10,Illustration.,,,2.04.08,Illustration
+50.04.11,Game and Interactive Media Design.,,,2.04.06,Game Design
+50.04.99,"Design and Applied Arts, Other.",,,2.49.01,Other Arts and Humanities
+50.05,Drama/Theatre Arts and Stagecraft.,,,,#N/A
+50.05.01,"Drama and Dramatics/Theatre Arts, General.",,,2.48.07,Other Theatre and Performance Studies
+50.05.02,Technical Theatre/Theatre Design and Technology.,,,2.48.07,Other Theatre and Performance Studies
+50.05.04,Playwriting and Screenwriting.,,,2.48.05,Playwriting
+50.05.05,"Theatre Literature, History and Criticism.",,,2.48.06,Theatre History
+50.05.06,Acting.,,,2.48.01,Acting
+50.05.07,Directing and Theatrical Production.,,,2.48.07,Other Theatre and Performance Studies
+50.05.08,Theatre/Theatre Arts Management.,,,2.48.07,Other Theatre and Performance Studies
+50.05.09,Musical Theatre.,,,2.48.07,Other Theatre and Performance Studies
+50.05.10,Costume Design.,,,2.48.07,Other Theatre and Performance Studies
+50.05.99,"Dramatic/Theatre Arts and Stagecraft, Other.",,,2.48.07,Other Theatre and Performance Studies
+50.06,Film/Video and Photographic Arts.,,,,#N/A
+50.06.01,Film/Cinema/Video Studies.,,,2.19.04,Other Film and Media Studies
+50.06.02,Cinematography and Film/Video Production.,,,2.19.01,Film Production
+50.06.05,Photography.,,,2.36.01,Photography
+50.06.07,Documentary Production.,,,2.19.01,Film Production
+50.06.99,"Film/Video and Photographic Arts, Other.",,,2.19.04,Other Film and Media Studies
+50.07,Fine and Studio Arts.,,,,#N/A
+50.07.01,"Art/Art Studies, General.",,,2.04.00,Art and Design
+50.07.02,"Fine/Studio Arts, General.",,,2.20.01,Fine Arts
+50.07.03,"Art History, Criticism and Conservation.",,,2.10.04,Classical Archaeology and Art History
+50.07.04,Arts Management.,,,3.04.01,Arts Management
+50.07.05,Drawing.,,,2.20.01,Fine Arts
+50.07.06,Intermedia/Multimedia.,,,2.04.11,Interdisciplinary Arts and Media
+50.07.08,Painting.,,,2.04.13,Painting
+50.07.09,Sculpture.,,,2.04.15,Sculpture
+50.07.10,Printmaking.,,,2.04.14,Printmaking
+50.07.11,Ceramic Arts and Ceramics.,,,2.04.03,Ceramic Arts
+50.07.12,"Fiber, Textile and Weaving Arts.",,,2.04.05,"Fiber, Textile, and Weaving Arts"
+50.07.13,Metal and Jewelry Arts.,,,2.04.12,Metal and Jewelry Arts
+50.07.99,"Fine Arts and Art Studies, Other.",,,2.20.01,Fine Arts
+50.09,Music.,,,2.32.00,Music
+50.09.01,"Music, General.",,,2.32.00,Music
+50.09.02,"Music History, Literature, and Theory.",,,2.32.05,Music Theory
+50.09.03,"Music Performance, General.",,,2.32.08,Music Performance
+50.09.04,Music Theory and Composition.,,,2.32.05,Music Theory
+50.09.05,Musicology and Ethnomusicology.,,,2.32.06,Musicology
+50.09.06,Conducting.,,,2.32.10,Other Music
+50.09.07,Keyboard Instruments.,,,2.32.10,Other Music
+50.09.08,Voice and Opera.,,,2.32.10,Other Music
+50.09.09,Music Management and Merchandising.,,,2.32.10,Other Music
+50.09.10,Jazz/Jazz Studies.,,,2.32.10,Other Music
+50.09.11,Stringed Instruments.,,,2.32.10,Other Music
+50.09.12,Music Pedagogy.,,,2.32.07,Music Pedagogy
+50.09.13,Music Technology.,,,2.32.10,Other Music
+50.09.14,Brass Instruments.,,,2.32.10,Other Music
+50.09.15,Woodwind Instruments.,,,2.32.10,Other Music
+50.09.16,Percussion Instruments.,,,2.32.10,Other Music
+50.09.99,"Music, Other.",,,2.32.10,Other Music
+50.1,"Arts, Entertainment,and Media Management.",,,,#N/A
+50.10.01,"Arts, Entertainment,and Media Management, General.",,,2.48.07,Other Theatre and Performance Studies
+50.10.02,Fine and Studio Arts Management.,,,2.20.01,Fine Arts
+50.10.03,Music Management.,,,2.32.10,Other Music
+50.10.04,Theatre/Theatre Arts Management.,,,2.48.07,Other Theatre and Performance Studies
+50.10.99,"Arts, Entertainment, and Media Management, Other.",,,2.49.01,Other Arts and Humanities
+50.99,"Visual and Performing Arts, Other.",,,,#N/A
+50.99.99,"Visual and Performing Arts, Other.",,,2.19.03,Visual Studies
+,HEALTH PROFESSIONS AND RELATED PROGRAMS.,,,,#N/A
+51,"Health Services/Allied Health/Health Sciences, General.",,,,#N/A
+51.00.00,"Health Services/Allied Health/Health Sciences, General.",,,8.00.00,Medicine and Health Sciences
+51.00.01,"Health and Wellness, General.",,,8.15.41,Other Medical Specialties
+51.01,Chiropractic.,,,,#N/A
+51.01.01,Chiropractic.,,,8.24.05,Physical Therapy
+51.02,Communication Disorders Sciences and Services.,,,,#N/A
+51.02.01,"Communication Sciences and Disorders, General.",,,8.06.01,Speech and Hearing Science
+51.02.02,Audiology/Audiologist.,,,8.06.02,Speech Pathology and Audiology
+51.02.03,Speech-Language Pathology/Pathologist.,,,8.06.02,Speech Pathology and Audiology
+51.02.04,Audiology/Audiologist and Speech-Language Pathology/Pathologist.,,,8.06.02,Speech Pathology and Audiology
+51.02.99,"Communication Disorders Sciences and Services, Other.",,,8.06.01,Speech and Hearing Science
+51.04,Dentistry.,,,8.07.00,Dentistry
+51.04.01,Dentistry.,,,8.07.00,Dentistry
+51.05,Advanced/Graduate Dentistry and Oral Sciences.,,,,#N/A
+51.05.01,"Dental Clinical Sciences, General.",,,8.07.11,Other Dentistry
+51.05.02,Advanced General Dentistry.,,,8.07.11,Other Dentistry
+51.05.03,Oral Biology and Oral and Maxillofacial Pathology.,,,8.07.06,Oral Biology and Oral Pathology
+51.05.04,Dental Public Health and Education.,,,8.07.03,Dental Public Health and Education
+51.05.05,Dental Materials.,,,8.07.02,Dental Materials
+51.05.06,Endodontics/Endodontology.,,,8.07.04,Endodontics and Endodontology
+51.05.07,Oral/Maxillofacial Surgery.,,,8.07.05,Oral and Maxillofacial Surgery
+51.05.08,Orthodontics/Orthodontology.,,,8.07.07,Orthodontics and Orthodontology
+51.05.09,Pediatric Dentistry/Pedodontics.,,,8.07.08,Pediatric Dentistry and Pedodontics
+51.05.10,Periodontics/Periodontology.,,,8.07.09,Periodontics and Periodontology
+51.05.11,Prosthodontics/Prosthodontology.,,,8.07.10,Prosthodontics and Prosthodontology
+51.05.99,"Advanced/Graduate Dentistry and Oral Sciences, Other.",,,8.07.11,Other Dentistry
+51.06,Dental Support Services and Allied Professions.,,,,#N/A
+51.06.01,Dental Assisting/Assistant.,,,8.07.01,Dental Hygiene
+51.06.02,Dental Hygiene/Hygienist.,,,8.07.01,Dental Hygiene
+51.06.03,Dental Laboratory Technology/Technician.,,,8.07.11,Other Dentistry
+51.06.99,"Dental Services and Allied Professions, Other.",,,8.07.11,Other Dentistry
+51.07,Health and Medical Administrative Services.,,,,#N/A
+51.07.01,Health/Health Care Administration/Management.,,,8.11.01,Health and Medical Administration
+51.07.02,Hospital and Health Care Facilities Administration/Management.,,,8.11.01,Health and Medical Administration
+51.07.03,Health Unit Coordinator/Ward Clerk.,,,8.18.05,Nursing Administration
+51.07.04,Health Unit Manager/Ward Supervisor.,,,8.18.05,Nursing Administration
+51.07.05,Medical Office Management/Administration.,,,8.11.01,Health and Medical Administration
+51.07.06,Health Information/Medical Records Administration/Administrator.,,,8.10.00,Health Information Technology
+51.07.07,Health Information/Medical Records Technology/Technician.,,,8.10.00,Health Information Technology
+51.07.08,Medical Transcription/Transcriptionist.,,,8.28.01,Other Medicine and Health Sciences
+51.07.09,Medical Office Computer Specialist/Assistant.,,,8.11.01,Health and Medical Administration
+51.07.10,Medical Office Assistant/Specialist.,,,8.11.01,Health and Medical Administration
+51.07.11,Medical/Health Management and Clinical Assistant/Specialist.,,,8.11.01,Health and Medical Administration
+51.07.12,Medical Reception/Receptionist.,,,8.11.01,Health and Medical Administration
+51.07.13,Medical Insurance Coding Specialist/Coder.,,,8.11.01,Health and Medical Administration
+51.07.14,Medical Insurance Specialist/Medical Biller.,,,8.11.01,Health and Medical Administration
+51.07.15,Health/Medical Claims Examiner.,,,8.11.01,Health and Medical Administration
+51.07.16,Medical Administrative/Executive Assistant and Medical Secretary.,,,8.11.01,Health and Medical Administration
+51.07.17,Medical Staff Services Technology/Technician.,,,8.11.01,Health and Medical Administration
+51.07.18,Long Term Care Administration/Management.,,,8.11.01,Health and Medical Administration
+51.07.19,Clinical Research Coordinator.,,,8.11.01,Health and Medical Administration
+51.07.99,"Health and Medical Administrative Services, Other.",,,8.11.01,Health and Medical Administration
+51.08,Allied Health and Medical Assisting Services.,,,,#N/A
+51.08.01,Medical/Clinical Assistant.,,,8.02.00,"Analytical, Diagnostic and Therapeutic Techniques and Equipment"
+51.08.02,Clinical/Medical Laboratory Assistant.,,,8.02.00,"Analytical, Diagnostic and Therapeutic Techniques and Equipment"
+51.08.03,Occupational Therapist Assistant.,,,8.24.03,Occupational Therapy
+51.08.05,Pharmacy Technician/Assistant.,,,8.21.05,"Pharmacy Administration, Policy and Regulation"
+51.08.06,Physical Therapy Technician/Assistant.,,,8.24.05,Physical Therapy
+51.08.08,Veterinary/Animal Health Technology/Technician and Veterinary Assistant.,,,8.27.11,Other Veterinary Medicine
+51.08.09,Anesthesiologist Assistant.,,,8.15.02,Anesthesiology
+51.08.10,Emergency Care Attendant (EMT Ambulance).,,,8.15.06,Emergency Medicine
+51.08.11,Pathology/Pathologist Assistant.,,,8.15.25,Pathology
+51.08.12,Respiratory Therapy Technician/Assistant.,,,8.24.08,Respiratory Therapy
+51.08.13,Chiropractic Assistant/Technician.,,,8.24.05,Physical Therapy
+51.08.14,Radiologist Assistant.,,,8.15.33,Radiology
+51.08.15,Lactation Consultant.,,,8.15.18,Obstetrics and Gynecology
+51.08.16,Speech-Language Pathology Assistant.,,,8.06.02,Speech Pathology and Audiology
+51.08.99,"Allied Health and Medical Assisting Services, Other.",,,8.28.01,Other Medicine and Health Sciences
+51.09,"Allied Health Diagnostic, Intervention, and Treatment Professions.",,,,#N/A
+51.09.01,Cardiovascular Technology/Technologist.,,,8.15.03,Cardiology
+51.09.02,Electrocardiograph Technology/Technician.,,,5.04.02,Bioimaging and Biomedical Optics
+51.09.03,Electroneurodiagnostic/Electroencephalographic Technology/Technologist.,,,5.04.01,Bioelectrical and Neuroengineering
+51.09.04,Emergency Medical Technology/Technician (EMT Paramedic).,,,8.15.06,Emergency Medicine
+51.09.05,Nuclear Medical Technology/Technologist.,,,9.09.07,Nuclear
+51.09.06,Perfusion Technology/Perfusionist.,,,8.15.03,Cardiology
+51.09.07,Medical Radiologic Technology/Science - Radiation Therapist.,,,8.15.33,Radiology
+51.09.08,Respiratory Care Therapy/Therapist.,,,8.24.08,Respiratory Therapy
+51.09.09,Surgical Technology/Technologist.,,,8.02.05,"Surgical Procedures, Operative"
+51.09.10,Diagnostic Medical Sonography/Sonographer and Ultrasound Technician.,,,8.15.33,Radiology
+51.09.11,Radiologic Technology/Science - Radiographer.,,,8.15.33,Radiology
+51.09.12,Physician Assistant.,,,8.15.41,Other Medical Specialties
+51.09.13,Athletic Training/Trainer.,,,8.25.01,Sports Sciences
+51.09.14,Gene/Genetic Therapy.,,,8.24.11,Other Rehabilitation and Therapy
+51.09.15,Cardiopulmonary Technology/Technologist.,,,8.15.03,Cardiology
+51.09.16,Radiation Protection/Health Physics Technician.,,,8.23.05,Health and Medical Physics
+51.09.17,Polysomnography.,,,8.15.35,Sleep Medicine
+51.09.18,Hearing Instrument Specialist.,,,8.06.01,Speech and Hearing Science
+51.09.19,Mammography Technician/Technology.,,,8.15.33,Radiology
+51.09.20,Magnetic Resonance Imaging (MRI) Technology/Technician.,,,8.15.33,Radiology
+51.09.99,"Allied Health Diagnostic, Intervention, and Treatment Professions, Other.",,,8.02.07,"Other Analytical, Diagnostic and Therapeutic Techniques and Equipment"
+51.1,Clinical/Medical Laboratory Science/Research and Allied Professions.,,,,#N/A
+51.10.01,Blood Bank Technology Specialist.,,,8.15.11,Hematology
+51.10.02,Cytotechnology/Cytotechnologist.,,,8.03.04,Cells
+51.10.03,Hematology Technology/Technician.,,,8.15.11,Hematology
+51.10.04,Clinical/Medical Laboratory Technician.,,,8.02.00,"Analytical, Diagnostic and Therapeutic Techniques and Equipment"
+51.10.05,Clinical Laboratory Science/Medical Technology/Technologist.,,,8.02.00,"Analytical, Diagnostic and Therapeutic Techniques and Equipment"
+51.10.06,Ophthalmic Laboratory Technology/Technician.,,,8.19.01,Optometry
+51.10.07,Histologic Technology/Histotechnologist.,,,8.28.01,Other Medicine and Health Sciences
+51.10.08,Histologic Technician.,,,8.28.01,Other Medicine and Health Sciences
+51.10.09,Phlebotomy Technician/Phlebotomist.,,,8.28.01,Other Medicine and Health Sciences
+51.10.10,Cytogenetics/Genetics/Clinical Genetics Technology/Technologist.,,,7.13.02,Genetics
+51.10.11,Renal/Dialysis Technologist/Technician.,,,8.02.00,"Analytical, Diagnostic and Therapeutic Techniques and Equipment"
+51.10.12,Sterile Processing Technology/Technician.,,,8.02.00,"Analytical, Diagnostic and Therapeutic Techniques and Equipment"
+51.10.99,"Clinical/Medical Laboratory Science and Allied Professions, Other.",,,8.02.00,"Analytical, Diagnostic and Therapeutic Techniques and Equipment"
+51.11,Health/Medical Preparatory Programs.,,,,#N/A
+51.11.01,Pre-Dentistry Studies.,,,8.07.11,Other Dentistry
+51.11.02,Pre-Medicine/Pre-Medical Studies.,,,8.12.00,Medical Education
+51.11.03,Pre-Pharmacy Studies.,,,8.21.06,Other Pharmacy and Pharmaceutical Sciences
+51.11.04,Pre-Veterinary Studies.,,,8.27.11,Other Veterinary Medicine
+51.11.05,Pre-Nursing Studies.,,,8.18.12,Other Nursing
+51.11.06,Pre-Chiropractic Studies.,,,8.24.05,Physical Therapy
+51.11.07,Pre-Occupational Therapy Studies.,,,8.24.03,Occupational Therapy
+51.11.08,Pre-Optometry Studies.,,,8.19.01,Optometry
+51.11.09,Pre-Physical Therapy Studies.,,,8.24.05,Physical Therapy
+51.11.99,"Health/Medical Preparatory Programs, Other.",,,8.12.00,Medical Education
+51.12,Medicine.,,,,#N/A
+51.12.01,Medicine.,,,8.14.00,Medical Sciences
+51.14,Medical Clinical Sciences/Graduate Medical Studies.,,,,#N/A
+51.14.01,Medical Scientist.,,,8.26.01,Translational Medical Research
+51.15,Mental and Social Health Services and Allied Professions.,,,,#N/A
+51.15.01,Substance Abuse/Addiction Counseling.,,,8.16.09,Substance Abuse and Addiction
+51.15.02,Psychiatric/Mental Health Services Technician.,,,8.16.07,Psychiatric and Mental Health
+51.15.03,Clinical/Medical Social Work.,,,8.16.03,Clinical and Medical Social Work
+51.15.04,Community Health Services/Liaison/Counseling.,,,8.16.05,Community Health
+51.15.05,Marriage and Family Therapy/Counseling.,,,8.16.06,Marriage and Family Therapy and Counseling
+51.15.06,Clinical Pastoral Counseling/Patient Counseling.,,,8.16.10,Other Mental and Social Health
+51.15.07,Psychoanalysis and Psychotherapy.,,,8.16.08,Psychoanalysis and Psychotherapy
+51.15.08,Mental Health Counseling/Counselor.,,,8.16.10,Other Mental and Social Health
+51.15.09,Genetic Counseling/Counselor.,,,7.13.05,Other Genetics and Genomics
+51.15.99,"Mental and Social Health Services and Allied Professions, Other.",,,8.16.10,Other Mental and Social Health
+51.16,Nursing.,,,,#N/A
+51.16.01,"Nursing/Registered Nurse (RN, ASN, BSN, MSN).",,,8.18.12,Other Nursing
+51.16.02,"Nursing Administration (MSN, MS, PhD).",,,8.18.05,Nursing Administration
+51.16.03,Adult Health Nurse/Nursing.,,,8.18.03,Geriatric Nursing
+51.16.04,Nurse Anesthetist.,,,8.18.09,"Perioperative, Operating Room and Surgical Nursing"
+51.16.05,Family Practice Nurse/Nurse Practitioner.,,,8.18.02,Family Practice Nursing
+51.16.06,Maternal/Child Health and Neonatal Nurse/Nursing.,,,8.18.04,"Maternal, Child Health and Neonatal Nursing"
+51.16.07,Nurse Midwife/Nursing Midwifery.,,,8.18.06,Nursing Midwifery
+51.16.08,"Nursing Science (MS, PhD).",,,8.18.12,Other Nursing
+51.16.09,Pediatric Nurse/Nursing.,,,8.18.08,Pediatric Nursing
+51.16.10,Psychiatric/Mental Health Nurse/Nursing.,,,8.18.10,Psychiatric and Mental Health Nursing
+51.16.11,Public Health/Community Nurse/Nursing.,,,8.18.11,Public Health and Community Nursing
+51.16.12,Perioperative/Operating Room and Surgical Nurse/Nursing.,,,8.18.09,"Perioperative, Operating Room and Surgical Nursing"
+51.16.13,"Licensed Practical/Vocational Nurse Training (LPN, LVN, Cert., Dipl, AAS)",,,8.18.12,Other Nursing
+51.16.14,Nurse/Nursing Assistant/Aide and Patient Care Assistant.,,,8.18.12,Other Nursing
+51.16.16,Clinical Nurse Specialist.,,,8.18.12,Other Nursing
+51.16.17,Critical Care Nursing.,,,8.18.01,Critical Care Nursing
+51.16.18,Occupational and Environmental Health Nursing.,,,8.18.07,Occupational and Environmental Health Nursing
+51.16.99,"Nursing, Other.",,,8.18.12,Other Nursing
+51.17,Optometry.,,,,#N/A
+51.17.01,Optometry.,,,8.19.01,Optometry
+51.18,Ophthalmic and Optometric Support Services and Allied Professions.,,,,#N/A
+51.18.01,Opticianry/Ophthalmic Dispensing Optician.,,,8.19.01,Optometry
+51.18.02,Optometric Technician/Assistant.,,,8.19.01,Optometry
+51.18.03,Ophthalmic Technician/Technologist.,,,8.19.01,Optometry
+51.18.04,Orthoptics/Orthoptist.,,,8.19.01,Optometry
+51.18.99,"Ophthalmic and Optometric Support Services and Allied Professions, Other.",,,8.19.01,Optometry
+51.19,Osteopathic Medicine/Osteopathy.,,,,#N/A
+51.19.01,Osteopathic Medicine/Osteopathy.,,,8.15.22,Osteopathic Medicine and Osteopathy
+51.2,"Pharmacy, Pharmaceutical Sciences, and Administration.",,,,#N/A
+51.20.01,Pharmacy.,,,8.21.00,Pharmacy and Pharmaceutical Sciences
+51.20.02,Pharmacy Administration and Pharmacy Policy and Regulatory Affairs.,,,8.21.05,"Pharmacy Administration, Policy and Regulation"
+51.20.03,Pharmaceutics and Drug Design.,,,8.21.03,Pharmaceutics and Drug Design
+51.20.04,Medicinal and Pharmaceutical Chemistry.,,,8.21.01,Medicinal and Pharmaceutical Chemistry
+51.20.05,Natural Products Chemistry and Pharmacognosy.,,,8.21.02,Natural Products Chemistry and Pharmacognosy
+51.20.06,Clinical and Industrial Drug Development.,,,8.21.06,Other Pharmacy and Pharmaceutical Sciences
+51.20.07,Pharmacoeconomics/Pharmaceutical Economics.,,,8.21.04,Pharmacoeconomics and Pharmaceutical Economics
+51.20.08,"Clinical, Hospital, and Managed Care Pharmacy.",,,8.21.06,Other Pharmacy and Pharmaceutical Sciences
+51.20.09,Industrial and Physical Pharmacy and Cosmetic Sciences.,,,8.21.06,Other Pharmacy and Pharmaceutical Sciences
+51.20.10,Pharmaceutical Sciences.,,,8.21.00,Pharmacy and Pharmaceutical Sciences
+51.20.11,Pharmaceutical Marketing and Management.,,,8.21.06,Other Pharmacy and Pharmaceutical Sciences
+51.20.99,"Pharmacy, Pharmaceutical Sciences, and Administration, Other.",,,8.21.06,Other Pharmacy and Pharmaceutical Sciences
+51.21,Podiatric Medicine/Podiatry.,,,,#N/A
+51.21.01,Podiatric Medicine/Podiatry.,,,8.15.28,Podiatry
+51.22,Public Health.,,,,#N/A
+51.22.01,"Public Health, General.",,,8.23.15,Other Public Health
+51.22.02,Environmental Health.,,,8.23.03,Environmental Public Health
+51.22.05,Health/Medical  Physics.,,,8.23.05,Health and Medical Physics
+51.22.06,Occupational Health and Industrial Hygiene.,,,8.23.12,Occupational Health and Industrial Hygiene
+51.22.07,Public Health Education and Promotion.,,,8.23.13,Public Health Education and Promotion
+51.22.08,Community Health and Preventive Medicine.,,,8.23.02,Community Health and Preventive Medicine
+51.22.09,Maternal and Child Health.,,,8.23.11,Maternal and Child Health
+51.22.10,International Public Health/International Health.,,,8.23.10,International Public Health
+51.22.11,Health Services Administration.,,,8.23.06,Health Services Administration
+51.22.12,Behavioral Aspects of Health.,,,8.23.15,Other Public Health
+51.22.99,"Public Health, Other.",,,8.23.15,Other Public Health
+51.23,Rehabilitation and Therapeutic Professions.,,,,#N/A
+51.23.01,Art Therapy/Therapist.,,,8.16.02,Art Therapy
+51.23.02,Dance Therapy/Therapist.,,,8.22.03,Dance Movement Therapy
+51.23.05,Music Therapy/Therapist.,,,2.32.09,Music Therapy
+51.23.06,Occupational Therapy/Therapist.,,,8.24.03,Occupational Therapy
+51.23.07,Orthotist/Prosthetist.,,,8.24.04,Orthotics and Prosthetics
+51.23.08,Physical Therapy/Therapist.,,,8.24.05,Physical Therapy
+51.23.09,Therapeutic Recreation/Recreational Therapy.,,,8.24.07,Recreational Therapy
+51.23.10,Vocational Rehabilitation Counseling/Counselor.,,,8.24.10,Vocational Rehabilitation Counseling
+51.23.11,Kinesiotherapy/Kinesiotherapist.,,,8.24.01,Kinesiotherapy
+51.23.12,Assistive/Augmentative Technology and Rehabilitation Engineering.,,,8.24.11,Other Rehabilitation and Therapy
+51.23.13,Animal-Assisted Therapy.,,,8.16.01,Animal-Assisted Therapy
+51.23.14,Rehabilitation Science.,,,8.24.11,Other Rehabilitation and Therapy
+51.23.99,"Rehabilitation and Therapeutic Professions, Other.",,,8.24.11,Other Rehabilitation and Therapy
+51.24,Veterinary Medicine.,,,,#N/A
+51.24.01,Veterinary Medicine.,,,8.27.00,Veterinary Medicine
+51.25,Veterinary Biomedical and Clinical Sciences.,,,,#N/A
+51.25.01,"Veterinary Sciences/Veterinary Clinical Sciences, General.",,,8.27.00,Veterinary Medicine
+51.25.02,Veterinary Anatomy.,,,8.27.04,Veterinary Anatomy
+51.25.03,Veterinary Physiology.,,,8.27.08,Veterinary Physiology
+51.25.04,Veterinary Microbiology and Immunobiology.,,,8.27.06,Veterinary Microbiology and Immunobiology
+51.25.05,Veterinary Pathology and Pathobiology.,,,8.27.07,Veterinary Pathology and Pathobiology
+51.25.06,Veterinary Toxicology and Pharmacology.,,,8.27.10,Veterinary Toxicology and Pharmacology
+51.25.07,Large Animal/Food Animal and Equine Surgery and Medicine.,,,8.27.02,Large or Food Animal and Equine Medicine
+51.25.08,Small/Companion Animal Surgery and Medicine.,,,8.27.03,Small or Companion Animal Medicine
+51.25.09,Comparative and Laboratory Animal Medicine.,,,8.27.01,Comparative and Laboratory Animal Medicine
+51.25.10,"Veterinary Preventive Medicine, Epidemiology, and Public Health.",,,8.27.09,"Veterinary Preventive Medicine, Epidemiology, and Public Health"
+51.25.11,Veterinary Infectious Diseases.,,,8.27.05,Veterinary Infectious Diseases
+51.25.99,"Veterinary Biomedical and Clinical Sciences, Other.",,,8.27.11,Other Veterinary Medicine
+51.26,Health Aides/Attendants/Orderlies.,,,,#N/A
+51.26.01,Health Aide.,,,8.18.11,Public Health and Community Nursing
+51.26.02,Home Health Aide/Home Attendant.,,,8.18.11,Public Health and Community Nursing
+51.26.03,Medication Aide.,,,8.18.12,Other Nursing
+51.26.04,Rehabilitation Aide.,,,8.18.12,Other Nursing
+51.26.99,"Health Aides/Attendants/Orderlies, Other.",,,8.18.12,Other Nursing
+51.27,Medical Illustration and Informatics.,,,,#N/A
+51.27.03,Medical Illustration/Medical Illustrator.,,,8.12.00,Medical Education
+51.27.06,Medical Informatics.,,,8.10.00,Health Information Technology
+51.27.99,"Medical Illustration and Informatics, Other.",,,8.12.00,Medical Education
+51.31,Dietetics and Clinical Nutrition Services.,,,,#N/A
+51.31.01,Dietetics/Dietitian.,,,8.08.01,Dietetics and Clinical Nutrition
+51.31.02,Clinical Nutrition/Nutritionist.,,,8.08.01,Dietetics and Clinical Nutrition
+51.31.03,Dietetic Technician.,,,8.08.01,Dietetics and Clinical Nutrition
+51.31.04,Dietitian Assistant.,,,8.08.01,Dietetics and Clinical Nutrition
+51.31.99,"Dietetics and Clinical Nutrition Services, Other.",,,8.08.01,Dietetics and Clinical Nutrition
+51.32,Bioethics/Medical Ethics.,,,,#N/A
+51.32.01,Bioethics/Medical Ethics.,,,8.04.01,Bioethics and Medical Ethics
+51.33,Alternative and Complementary Medicine and Medical Systems.,,,,#N/A
+51.33.00,"Alternative and Complementary Medicine and Medical Systems, General.",,,8.01.01,Alternative and Complementary Medicine
+51.33.01,Acupuncture and Oriental Medicine.,,,8.01.01,Alternative and Complementary Medicine
+51.33.02,Traditional Chinese Medicine and Chinese Herbology.,,,8.01.01,Alternative and Complementary Medicine
+51.33.03,Naturopathic Medicine/Naturopathy.,,,8.01.01,Alternative and Complementary Medicine
+51.33.04,Homeopathic Medicine/Homeopathy.,,,8.01.01,Alternative and Complementary Medicine
+51.33.05,Ayurvedic Medicine/Ayurveda.,,,8.01.01,Alternative and Complementary Medicine
+51.33.06,Holistic Health.,,,8.01.01,Alternative and Complementary Medicine
+51.33.99,"Alternative and Complementary Medicine and Medical Systems, Other.",,,8.01.01,Alternative and Complementary Medicine
+51.34,Alternative and Complementary Medical Support Services.,,,,#N/A
+51.34.01,Direct Entry Midwifery.,,,8.18.06,Nursing Midwifery
+51.34.99,"Alternative and Complementary Medical Support Services, Other.",,,8.01.01,Alternative and Complementary Medicine
+51.35,Somatic Bodywork and Related Therapeutic Services.,,,,#N/A
+51.35.01,Massage Therapy/Therapeutic Massage.,,,8.24.09,Somatic Bodywork and Related Therapeutic Practices
+51.35.02,Asian Bodywork Therapy.,,,8.24.09,Somatic Bodywork and Related Therapeutic Practices
+51.35.03,Somatic Bodywork.,,,8.24.09,Somatic Bodywork and Related Therapeutic Practices
+51.35.99,"Somatic Bodywork and Related Therapeutic Services, Other.",,,8.24.09,Somatic Bodywork and Related Therapeutic Practices
+51.36,Movement and Mind-Body Therapies and Education.,,,,#N/A
+51.36.01,Movement Therapy and Movement Education.,,,8.24.02,Movement and Mind-Body Therapies
+51.36.02,Yoga Teacher Training/Yoga Therapy.,,,8.24.02,Movement and Mind-Body Therapies
+51.36.03,Hypnotherapy/Hypnotherapist.,,,8.24.02,Movement and Mind-Body Therapies
+51.36.99,"Movement and Mind-Body Therapies and Education, Other.",,,8.24.02,Movement and Mind-Body Therapies
+51.37,Energy and Biologically Based Therapies.,,,,#N/A
+51.37.01,Aromatherapy.,,,8.01.01,Alternative and Complementary Medicine
+51.37.02,Herbalism/Herbalist.,,,8.01.01,Alternative and Complementary Medicine
+51.37.03,Polarity Therapy.,,,8.24.11,Other Rehabilitation and Therapy
+51.37.04,Reiki.,,,8.01.01,Alternative and Complementary Medicine
+51.37.99,"Energy and Biologically Based Therapies, Other.",,,8.01.01,Alternative and Complementary Medicine
+51.38,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,,,#N/A
+51.38.01,Registered Nursing/Registered Nurse.,,,8.18.12,Other Nursing
+51.38.02,Nursing Administration.,,,8.18.05,Nursing Administration
+51.38.03,Adult Health Nurse/Nursing.,,,8.18.02,Family Practice Nursing
+51.38.04,Nurse Anesthetist.,,,8.18.09,"Perioperative, Operating Room and Surgical Nursing"
+51.38.05,Family Practice Nurse/Nursing.,,,8.18.02,Family Practice Nursing
+51.38.06,Maternal/Child Health and Neonatal Nurse/Nursing.,,,8.18.04,"Maternal, Child Health and Neonatal Nursing"
+51.38.07,Nurse Midwife/Nursing Midwifery.,,,8.18.06,Nursing Midwifery
+51.38.08,Nursing Science.,,,8.18.12,Other Nursing
+51.38.09,Pediatric Nurse/Nursing.,,,8.18.08,Pediatric Nursing
+51.38.10,Psychiatric/Mental Health Nurse/Nursing.,,,8.18.10,Psychiatric and Mental Health Nursing
+51.38.11,Public Health/Community Nurse/Nursing.,,,8.18.11,Public Health and Community Nursing
+51.38.12,Perioperative/Operating Room and Surgical Nurse/Nursing.,,,8.18.09,"Perioperative, Operating Room and Surgical Nursing"
+51.38.13,Clinical Nurse Specialist.,,,8.18.12,Other Nursing
+51.38.14,Critical Care Nursing.,,,8.18.01,Critical Care Nursing
+51.38.15,Occupational and Environmental Health Nursing.,,,8.18.07,Occupational and Environmental Health Nursing
+51.38.16,Emergency Room/Trauma Nursing.,,,8.18.12,Other Nursing
+51.38.17,Nursing Education.,,,8.18.12,Other Nursing
+51.38.18,Nursing Practice.,,,8.18.12,Other Nursing
+51.38.19,Palliative Care Nursing.,,,8.18.12,Other Nursing
+51.38.20,Clinical Nurse Leader.,,,8.18.12,Other Nursing
+51.38.21,Geriatric Nurse/Nursing.,,,8.18.03,Geriatric Nursing
+51.38.22,Women's Health Nurse/Nursing.,,,8.18.12,Other Nursing
+51.38.99,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing, Other.",,,8.18.12,Other Nursing
+51.39,"Practical Nursing, Vocational Nursing and Nursing Assistants.",,,,#N/A
+51.39.01,Licensed Practical/Vocational Nurse Training.,,,8.18.12,Other Nursing
+51.39.02,Nursing Assistant/Aide and Patient Care Assistant/Aide.,,,8.18.12,Other Nursing
+51.39.99,"Practical Nursing, Vocational Nursing and Nursing Assistants, Other.",,,8.18.12,Other Nursing
+51.99,"Health Professions and Related Clinical Sciences, Other.",,,,#N/A
+51.99.99,"Health Professions and Related Clinical Sciences, Other.",,,8.28.01,Other Medicine and Health Sciences
+,"BUSINESS, MANAGEMENT, MARKETING, AND RELATED SUPPORT SERVICES.",,,,#N/A
+52.01,"Business/Commerce, General.",,,,#N/A
+52.01.01,"Business/Commerce, General.",,,3.00.00,Business
+52.02,"Business Administration, Management and Operations.",,,,#N/A
+52.02.01,"Business Administration and Management, General.",,,3.05.01,"Business Administration, Management, and Operations"
+52.02.02,"Purchasing, Procurement/Acquisitions and Contracts Management.",,,3.05.01,"Business Administration, Management, and Operations"
+52.02.03,"Logistics, Materials, and Supply Chain Management.",,,3.23.01,Operations and Supply Chain Management
+52.02.04,Office Management and Supervision.,,,3.05.01,"Business Administration, Management, and Operations"
+52.02.05,Operations Management and Supervision.,,,3.05.01,"Business Administration, Management, and Operations"
+52.02.06,Non-Profit/Public/Organizational Management.,,,3.22.01,Nonprofit Administration and Management
+52.02.07,Customer Service Management.,,,3.34.01,Other Business
+52.02.08,E-Commerce/Electronic Commerce.,,,3.10.01,E-Commerce
+52.02.09,Transportation/Mobility Management.,,,3.23.01,Operations and Supply Chain Management
+52.02.10,Research and Development Management.,,,3.30.01,Strategic Management Policy
+52.02.11,Project Management.,,,3.05.01,"Business Administration, Management, and Operations"
+52.02.12,Retail Management.,,,3.28.01,Sales and Merchandising
+52.02.13,Organizational Leadership.,,,3.24.01,Organizational Behavior and Theory
+52.02.99,"Business Administration, Management and Operations, Other.",,,3.34.01,Other Business
+52.03,Accounting and Related Services.,,,,#N/A
+52.03.01,Accounting.,,,3.01.01,Accounting
+52.03.02,Accounting Technology/Technician and Bookkeeping.,,,3.01.01,Accounting
+52.03.03,Auditing.,,,3.01.01,Accounting
+52.03.04,Accounting and Finance.,,,3.01.01,Accounting
+52.03.05,Accounting and Business/Management.,,,3.01.01,Accounting
+52.03.99,"Accounting and Related Services, Other.",,,3.01.01,Accounting
+52.04,Business Operations Support and Assistant Services.,,,,#N/A
+52.04.01,"Administrative Assistant and Secretarial Science, General.",,,3.34.01,Other Business
+52.04.02,Executive Assistant/Executive Secretary.,,,3.34.01,Other Business
+52.04.06,Receptionist.,,,3.34.01,Other Business
+52.04.07,Business/Office Automation/Technology/Data Entry.,,,3.34.01,Other Business
+52.04.08,General Office Occupations and Clerical Services.,,,3.34.01,Other Business
+52.04.09,"Parts, Warehousing, and Inventory Management Operations.",,,3.23.01,Operations and Supply Chain Management
+52.04.10,"Traffic, Customs, and Transportation Clerk/Technician.",,,3.34.01,Other Business
+52.04.11,Customer Service Support/Call Center/Teleservice Operation.,,,3.34.01,Other Business
+52.04.99,"Business Operations Support and Secretarial Services, Other.",,,3.05.01,"Business Administration, Management, and Operations"
+52.05,Business/Corporate Communications.,,,,#N/A
+52.05.01,Business/Corporate Communications.,,,3.06.01,Business and Corporate Communications
+52.06,Business/Managerial Economics.,,,,#N/A
+52.06.01,Business/Managerial Economics.,,,3.34.01,Other Business
+52.07,Entrepreneurial and Small Business Operations.,,,,#N/A
+52.07.01,Entrepreneurship/Entrepreneurial Studies.,,,3.11.01,Entrepreneurial and Small Business Operations
+52.07.02,Franchising and Franchise Operations.,,,3.11.01,Entrepreneurial and Small Business Operations
+52.07.03,Small Business Administration/Management.,,,3.11.01,Entrepreneurial and Small Business Operations
+52.07.99,"Entrepreneurial and Small Business Operations, Other.",,,3.11.01,Entrepreneurial and Small Business Operations
+52.08,Finance and Financial Management Services.,,,,#N/A
+52.08.01,"Finance, General.",,,3.13.01,Finance and Financial Management
+52.08.03,Banking and Financial Support Services.,,,3.13.01,Finance and Financial Management
+52.08.04,Financial Planning and Services.,,,3.13.01,Finance and Financial Management
+52.08.06,International Finance.,,,3.13.01,Finance and Financial Management
+52.08.07,Investments and Securities.,,,3.13.01,Finance and Financial Management
+52.08.08,Public Finance.,,,3.13.01,Finance and Financial Management
+52.08.09,Credit Management.,,,3.13.01,Finance and Financial Management
+52.08.99,"Finance and Financial Management Services, Other.",,,3.13.01,Finance and Financial Management
+52.09,Hospitality Administration/Management.,,,,#N/A
+52.09.01,"Hospitality Administration/Management, General.",,,3.14.00,Hospitality Administration and Management
+52.09.03,Tourism and Travel Services Management.,,,3.33.01,Tourism and Travel
+52.09.04,Hotel/Motel Administration/Management.,,,3.14.00,Hospitality Administration and Management
+52.09.05,Restaurant/Food Services Management.,,,3.14.01,Food and Beverage Management
+52.09.06,Resort Management.,,,3.14.00,Hospitality Administration and Management
+52.09.07,Meeting and Event Planning.,,,3.14.00,Hospitality Administration and Management
+52.09.08,Casino Management.,,,3.14.02,Gaming and Casino Operations Management
+52.09.09,"Hotel, Motel, and Restaurant Management.",,,3.14.00,Hospitality Administration and Management
+52.09.99,"Hospitality Administration/Management, Other.",,,3.14.00,Hospitality Administration and Management
+52.1,Human Resources Management and Services.,,,,#N/A
+52.10.01,"Human Resources Management/Personnel Administration, General.",,,3.15.00,Human Resources Management
+52.10.02,Labor and Industrial Relations.,,,3.18.00,Labor Relations
+52.10.03,Organizational Behavior Studies.,,,3.24.01,Organizational Behavior and Theory
+52.10.04,Labor Studies.,,,3.18.00,Labor Relations
+52.10.05,Human Resources Development.,,,3.15.00,Human Resources Management
+52.10.99,"Human Resources Management and Services, Other.",,,3.15.00,Human Resources Management
+52.11,International Business.,,,3.17.01,International Business
+52.11.01,International Business/Trade/Commerce.,,,3.17.01,International Business
+52.12,Management Information Systems and Services.,,,,#N/A
+52.12.01,"Management Information Systems, General.",,,3.19.01,Management Information Systems
+52.12.06,Information Resources Management.,,,3.19.01,Management Information Systems
+52.12.07,Knowledge Management.,,,3.19.01,Management Information Systems
+52.12.99,"Management Information Systems and Services, Other.",,,3.19.01,Management Information Systems
+52.13,Management Sciences and Quantitative Methods.,,,3.20.01,Management Sciences and Quantitative Methods
+52.13.01,Management Science.,,,3.20.01,Management Sciences and Quantitative Methods
+52.13.02,Business Statistics.,,,9.10.17,Other Statistics and Probability
+52.13.04,Actuarial Science.,,,9.11.01,Other Physical Sciences and Mathematics
+52.13.99,"Management Sciences and Quantitative Methods, Other.",,,3.20.01,Management Sciences and Quantitative Methods
+52.14,Marketing.,,,3.21.00,Marketing
+52.14.01,"Marketing/Marketing Management, General.",,,3.21.00,Marketing
+52.14.02,Marketing Research.,,,3.21.00,Marketing
+52.14.03,International Marketing.,,,3.21.00,Marketing
+52.14.99,"Marketing, Other.",,,3.21.00,Marketing
+52.15,Real Estate.,,,3.26.01,Real Estate
+52.15.01,Real Estate.,,,3.26.01,Real Estate
+52.16,Taxation.,,,3.31.01,Taxation
+52.16.01,Taxation.,,,3.31.01,Taxation
+52.17,Insurance.,,,3.16.01,Insurance
+52.17.01,Insurance.,,,3.16.01,Insurance
+52.18,"General Sales, Merchandising and Related Marketing Operations.",,,,#N/A
+52.18.01,"Sales, Distribution, and Marketing Operations, General.",,,3.28.01,Sales and Merchandising
+52.18.02,Merchandising and Buying Operations.,,,3.28.01,Sales and Merchandising
+52.18.03,Retailing and Retail Operations.,,,3.28.01,Sales and Merchandising
+52.18.04,Selling Skills and Sales Operations.,,,3.28.01,Sales and Merchandising
+52.18.99,"General Merchandising, Sales, and Related Marketing Operations, Other.",,,3.28.01,Sales and Merchandising
+52.19,"Specialized Sales, Merchandising and  Marketing Operations.",,,,#N/A
+52.19.01,Auctioneering.,,,3.34.01,Other Business
+52.19.02,Fashion Merchandising.,,,3.12.01,Fashion Business
+52.19.03,Fashion Modeling.,,,3.12.01,Fashion Business
+52.19.04,Apparel and Accessories Marketing Operations.,,,3.33.01,Tourism and Travel
+52.19.05,Tourism and Travel Services Marketing Operations.,,,3.33.01,Tourism and Travel
+52.19.06,Tourism Promotion Operations.,,,3.33.01,Tourism and Travel
+52.19.07,Vehicle and Vehicle Parts and Accessories Marketing Operations.,,,3.21.00,Marketing
+52.19.08,Business and Personal/Financial Services Marketing Operations.,,,3.21.00,Marketing
+52.19.09,Special Products Marketing Operations.,,,3.21.00,Marketing
+52.19.10,Hospitality and Recreation Marketing Operations.,,,3.21.00,Marketing
+52.19.99,"Specialized Merchandising, Sales, and Marketing Operations, Other.",,,3.28.01,Sales and Merchandising
+52.2,Construction Management.,,,,#N/A
+52.20.01,Construction Management.,,,5.07.02,Construction Engineering and Management
+52.21,Telecommunications Management.,,,,#N/A
+52.21.01,Telecommunications Management.,,,3.32.01,Technology and Innovation
+52.99,"Business, Management, Marketing, and Related Support Services, Other.",,,,#N/A
+52.99.99,"Business, Management, Marketing, and Related Support Services, Other.",,,3.34.01,Other Business
+,HIGH SCHOOL/SECONDARY DIPLOMAS AND CERTIFICATES.,,,,#N/A
+53.01,High School/Secondary Diploma Programs.,,,4.29.01,Secondary Education
+53.01.01,Regular/General High School/Secondary Diploma Program.,,,4.29.01,Secondary Education
+53.01.02,College/University Preparatory and Advanced High School/Secondary Diploma Program.,,,4.33.03,Higher Education and Teaching
+53.01.03,Vocational High School and Secondary Business/Vocational-Industrial/Occupational Diploma Program.,,,4.35.01,Vocational Education
+53.01.04,Honors/Regents High School/Secondary Diploma Program.,,,4.29.01,Secondary Education
+53.01.05,Adult High School/Secondary Diploma Program.,,,4.01.01,Adult and Continuing Education
+53.01.99,"High School/Secondary Diploma Programs, Other.",,,4.29.01,Secondary Education
+53.02,High School/Secondary Certificate Programs.,,,4.29.01,Secondary Education
+53.02.01,High School Equivalence Certificate Program.,,,4.01.01,Adult and Continuing Education
+53.02.02,High School Certificate of Competence Program.,,,4.01.01,Adult and Continuing Education
+53.02.03,Certificate of IEP Completion Program.,,,4.34.01,Other Education
+53.02.99,"High School/Secondary Certificates, Other.",,,4.29.01,Secondary Education
+,HISTORY.,,,,#N/A
+54.01,History.,,,2.23.00,History
+54.01.01,"History, General.",,,2.23.25,Other History
+54.01.02,American  History (United States).,,,2.23.23,United States History
+54.01.03,European History.,,,2.23.06,European History
+54.01.04,History and Philosophy of Science and Technology.,,,2.23.11,"History of Science, Technology, and Medicine"
+54.01.05,Public/Applied History.,,,2.23.25,Other History
+54.01.06,Asian History.,,,2.23.02,Asian History
+54.01.07,Canadian History.,,,2.23.03,Canadian History
+54.01.08,Military History.,,,2.23.18,Military History
+54.01.99,"History, Other.",,,2.23.25,Other History
+,RESIDENCY PROGRAMS.,,,,#N/A
+60.01,Dental Residency Programs.,,,,#N/A
+60.01.01,Oral and Maxillofacial Surgery Residency Program.,,,8.07.05,Oral and Maxillofacial Surgery
+60.01.02,Dental Public Health Residency Program.,,,8.07.03,Dental Public Health and Education
+60.01.03,Endodontics Residency Program.,,,8.07.04,Endodontics and Endodontology
+60.01.04,Oral and Maxillofacial Pathology Residency Program.,,,8.07.06,Oral Biology and Oral Pathology
+60.01.05,Orthodontics Residency Program.,,,8.07.07,Orthodontics and Orthodontology
+60.01.06,Pediatric Dentistry Residency Program.,,,8.07.08,Pediatric Dentistry and Pedodontics
+60.01.07,Periodontology Residency Program.,,,8.07.09,Periodontics and Periodontology
+60.01.08,Prosthodontics Residency Program.,,,8.07.10,Prosthodontics and Prosthodontology
+60.01.09,Oral and Maxillofacial Radiology Residency Program.,,,8.07.05,Oral and Maxillofacial Surgery
+60.01.99,"Dental Residency Program, Other.",,,8.07.11,Other Dentistry
+60.02,Medical Residency Programs.,,,,#N/A
+60.02.01,Aerospace Medicine.,,,8.28.01,Other Medicine and Health Sciences
+60.02.02,Allergies and Immunology.,,,8.15.01,Allergy and Immunology
+60.02.03,Anesthesiology.,,,8.15.02,Anesthesiology
+60.02.04,Blood Banking.,,,8.15.11,Hematology
+60.02.05,Cardiology.,,,8.15.03,Cardiology
+60.02.06,Chemical Pathology.,,,8.15.25,Pathology
+60.02.07,Child/Pediatric Neurology.,,,8.15.26,Pediatrics
+60.02.08,Child Psychiatry.,,,8.15.31,Psychiatry
+60.02.09,Colon and Rectal Surgery.,,,8.15.37,Surgery
+60.02.10,Critical Care Anesthesiology.,,,8.15.04,Critical Care
+60.02.11,Critical Care Medicine.,,,8.15.04,Critical Care
+60.02.12,Critical Care Surgery.,,,8.15.04,Critical Care
+60.02.13,Dermatology.,,,8.15.05,Dermatology
+60.02.14,Dermatopathology.,,,8.15.05,Dermatology
+60.02.15,Diagnostic Radiology.,,,8.15.33,Radiology
+60.02.16,Emergency Medicine.,,,8.15.06,Emergency Medicine
+60.02.17,Endocrinology and Metabolism.,,,8.15.07,"Endocrinology, Diabetes, and Metabolism"
+60.02.18,Family Medicine.,,,8.15.08,Family Medicine
+60.02.19,Forensic Pathology.,,,8.14.21,Medical Pathology
+60.02.20,Gastroenterology.,,,8.15.09,Gastroenterology
+60.02.21,General Surgery.,,,8.15.37,Surgery
+60.02.22,Geriatric Medicine.,,,8.15.10,Geriatrics
+60.02.23,Hand Surgery.,,,8.15.37,Surgery
+60.02.24,Hematology.,,,8.15.11,Hematology
+60.02.25,Hematological Pathology.,,,8.15.11,Hematology
+60.02.26,Immunopathology.,,,7.14.03,Immunopathology
+60.02.27,Infectious Disease.,,,8.15.13,Infectious Disease
+60.02.28,Internal Medicine.,,,8.15.15,Internal Medicine
+60.02.29,Laboratory Medicine.,,,8.28.01,Other Medicine and Health Sciences
+60.02.30,Musculoskeletal Oncology.,,,8.15.19,Oncology
+60.02.31,Neonatal-Perinatal Medicine.,,,8.09.04,"Congenital, Hereditary, and Neonatal Diseases and Abnormalities"
+60.02.32,Nephrology.,,,8.15.16,Nephrology
+60.02.33,Neurological Surgery/Neurosurgery.,,,8.15.37,Surgery
+60.02.34,Neurology.,,,8.15.17,Neurology
+60.02.35,Neuropathology.,,,8.15.25,Pathology
+60.02.36,Nuclear Medicine.,,,8.15.41,Other Medical Specialties
+60.02.37,Nuclear Radiology.,,,8.15.33,Radiology
+60.02.38,Obstetrics and Gynecology.,,,8.15.18,Obstetrics and Gynecology
+60.02.39,Occupational Medicine.,,,8.24.03,Occupational Therapy
+60.02.40,Oncology.,,,8.15.19,Oncology
+60.02.41,Ophthalmology.,,,8.15.20,Ophthalmology
+60.02.42,Orthopedics/Orthopedic Surgery.,,,8.15.21,Orthopedics
+60.02.43,Otolaryngology.,,,8.15.23,Otolaryngology
+60.02.44,Pathology.,,,8.15.25,Pathology
+60.02.45,Pediatric Cardiology.,,,8.15.03,Cardiology
+60.02.46,Pediatric Endocrinology.,,,8.15.07,"Endocrinology, Diabetes, and Metabolism"
+60.02.47,Pediatric Hemato-Oncology.,,,8.15.19,Oncology
+60.02.48,Pediatric Nephrology.,,,8.15.16,Nephrology
+60.02.49,Pediatric Orthopedics.,,,8.15.21,Orthopedics
+60.02.50,Pediatric Surgery.,,,8.15.37,Surgery
+60.02.51,Pediatrics.,,,8.15.26,Pediatrics
+60.02.52,Physical and Rehabilitation Medicine.,,,8.24.11,Other Rehabilitation and Therapy
+60.02.53,Plastic Surgery.,,,8.15.27,Plastic Surgery
+60.02.54,Preventive Medicine.,,,8.15.29,Preventive Medicine
+60.02.55,Psychiatry.,,,8.15.31,Psychiatry
+60.02.56,Public Health Medicine.,,,8.23.00,Public Health
+60.02.57,Pulmonary Disease.,,,8.15.32,Pulmonology
+60.02.58,Radiation Oncology.,,,8.15.19,Oncology
+60.02.59,Radioisotopic Pathology.,,,8.15.25,Pathology
+60.02.60,Rheumatology.,,,8.15.34,Rheumatology
+60.02.61,Sports Medicine.,,,8.15.36,Sports Medicine
+60.02.62,Thoracic Surgery.,,,8.15.37,Surgery
+60.02.63,Urology.,,,8.15.40,Urology
+60.02.64,Vascular Surgery.,,,8.15.37,Surgery
+60.02.65,Adult Reconstructive Orthopedics (Orthopedic Surgery).,,,8.15.21,Orthopedics
+60.02.66,Child Neurology.,,,8.15.17,Neurology
+60.02.67,Cytopathology.,,,8.15.25,Pathology
+60.02.68,Geriatric Medicine (Internal Medicine).,,,8.15.15,Internal Medicine
+60.02.69,Pediatric Urology.,,,8.15.26,Pediatrics
+60.02.70,Physical Medicine and Rehabilitation/Psychiatry.,,,8.15.31,Psychiatry
+60.02.71,Orthopedic Surgery of the Spine.,,,8.15.21,Orthopedics
+60.02.99,"Medical Residency Programs, Other.",,,8.15.41,Other Medical Specialties
+60.03,Veterinary Residency Programs.,,,,#N/A
+60.03.01,Veterinary Anesthesiology Residency Program.,,,8.27.11,Other Veterinary Medicine
+60.03.02,Veterinary Dentistry Residency Program.,,,8.27.11,Other Veterinary Medicine
+60.03.03,Veterinary Dermatology Residency Program.,,,8.27.11,Other Veterinary Medicine
+60.03.04,Veterinary Emergency and Critical Care Medicine Residency Program.,,,8.27.11,Other Veterinary Medicine
+60.03.05,Veterinary Internal Medicine Residency Program.,,,8.27.11,Other Veterinary Medicine
+60.03.06,Laboratory Animal Medicine Residency Program.,,,8.27.11,Other Veterinary Medicine
+60.03.07,Veterinary Microbiology Residency Program.,,,8.27.06,Veterinary Microbiology and Immunobiology
+60.03.08,Veterinary Nutrition Residency Program.,,,8.27.11,Other Veterinary Medicine
+60.03.09,Veterinary Ophthalmology Residency Program.,,,8.27.11,Other Veterinary Medicine
+60.03.10,Veterinary Pathology Residency Program.,,,8.27.07,Veterinary Pathology and Pathobiology
+60.03.11,Veterinary Practice Residency Program.,,,8.27.11,Other Veterinary Medicine
+60.03.12,Veterinary Preventive Medicine Residency Program.,,,8.27.09,"Veterinary Preventive Medicine, Epidemiology, and Public Health"
+60.03.13,Veterinary Radiology Residency Program.,,,8.27.11,Other Veterinary Medicine
+60.03.14,Veterinary Surgery Residency Program.,,,8.27.11,Other Veterinary Medicine
+60.03.15,Theriogenology Residency Program.,,,8.27.11,Other Veterinary Medicine
+60.03.16,Veterinary Toxicology Residency Program.,,,8.27.10,Veterinary Toxicology and Pharmacology
+60.03.17,Zoological Medicine Residency Program.,,,8.27.11,Other Veterinary Medicine
+60.03.18,Poultry Veterinarian Residency Program.,,,8.27.11,Other Veterinary Medicine
+60.03.19,Veterinary Behaviorist Residency Program.,,,8.27.11,Other Veterinary Medicine
+60.03.20,Veterinary Clinical Pharmacology Residency Program.,,,8.27.10,Veterinary Toxicology and Pharmacology
+60.03.99,"Veterinary Residency Programs, Other.",,,8.27.11,Other Veterinary Medicine
+60.04,Medical Residency Programs - General Certificates.,,,,#N/A
+60.04.01,Aerospace Medicine Residency Program.,,,8.28.01,Other Medicine and Health Sciences
+60.04.02,Allergy and Immunology Residency Program.,,,8.15.01,Allergy and Immunology
+60.04.03,Anesthesiology Residency Program.,,,8.15.02,Anesthesiology
+60.04.04,Child Neurology Residency Program.,,,8.15.17,Neurology
+60.04.05,Clinical Biochemical Genetics Residency Program.,,,7.13.02,Genetics
+60.04.06,Clinical Cytogenetics Residency Program.,,,8.28.01,Other Medicine and Health Sciences
+60.04.07,Clinical Genetics Residency Program.,,,7.13.02,Genetics
+60.04.08,Clinical Molecular Genetics Residency Program.,,,7.13.04,Molecular Genetics
+60.04.09,Colon and Rectal Surgery Residency Program.,,,8.15.37,Surgery
+60.04.10,Dermatology Residency Program.,,,8.15.05,Dermatology
+60.04.11,Diagnostic Radiology Residency Program.,,,8.15.33,Radiology
+60.04.12,Emergency Medicine Residency Program.,,,8.15.06,Emergency Medicine
+60.04.13,Family Medicine Residency Program.,,,8.15.08,Family Medicine
+60.04.14,General Surgery Residency Program.,,,8.15.37,Surgery
+60.04.15,Internal Medicine Residency Program.,,,8.15.15,Internal Medicine
+60.04.16,Neurological Surgery Residency Program.,,,8.15.17,Neurology
+60.04.17,Neurology Residency Program.,,,8.15.17,Neurology
+60.04.18,Nuclear Medicine Residency Program.,,,8.28.01,Other Medicine and Health Sciences
+60.04.19,Obstetrics and Gynecology Residency Program.,,,8.15.18,Obstetrics and Gynecology
+60.04.20,Occupational Medicine Residency Program.,,,8.24.03,Occupational Therapy
+60.04.21,Ophthalmology Residency Program.,,,8.15.20,Ophthalmology
+60.04.22,Orthopedic Surgery Residency Program.,,,8.15.21,Orthopedics
+60.04.23,Otolaryngology Residency Program.,,,8.15.23,Otolaryngology
+60.04.24,Pathology Residency Program.,,,8.15.25,Pathology
+60.04.25,Pediatrics Residency Program.,,,8.15.26,Pediatrics
+60.04.26,Physical Medicine and Rehabilitation Residency Program.,,,8.24.05,Physical Therapy
+60.04.27,Plastic Surgery Residency Program.,,,8.15.27,Plastic Surgery
+60.04.28,Psychiatry Residency Program.,,,8.15.31,Psychiatry
+60.04.29,Public Health and General Preventive Medicine Residency Program.,,,8.15.29,Preventive Medicine
+60.04.30,Radiation Oncology Residency Program.,,,8.15.19,Oncology
+60.04.31,Radiologic Physics Residency Program.,,,8.15.33,Radiology
+60.04.32,Thoracic Surgery Residency Program.,,,8.15.37,Surgery
+60.04.33,Urology Residency Program.,,,8.15.40,Urology
+60.04.34,Vascular Surgery Residency Program.,,,8.15.37,Surgery
+60.04.99,"Medical Residency Programs - General Certificates, Other.",,,8.12.00,Medical Education
+60.05,Medical Residency Programs - Subspecialty Certificates.,,,,#N/A
+60.05.01,Addiction Psychiatry Residency Program.,,,8.16.09,Substance Abuse and Addiction
+60.05.02,Adolescent Medicine Residency Program.,,,8.15.26,Pediatrics
+60.05.03,Blood Banking/Transfusion Medicine Residency Program.,,,8.15.11,Hematology
+60.05.04,Cardiovascular Disease Residency Program.,,,8.09.03,Cardiovascular Diseases
+60.05.05,Chemical Pathology Residency Program.,,,8.15.25,Pathology
+60.05.06,Child Abuse Pediatrics Residency Program.,,,8.15.26,Pediatrics
+60.05.07,Child and Adolescent Psychiatry Residency Program.,,,8.15.31,Psychiatry
+60.05.08,Clinical Cardiac Electrophysiology Residency Program.,,,8.15.03,Cardiology
+60.05.09,Clinical Neurophysiology Residency Program.,,,8.15.17,Neurology
+60.05.10,Congenital Cardiac Surgery Residency Program.,,,8.15.37,Surgery
+60.05.11,Critical Care Medicine Residency Program.,,,8.15.04,Critical Care
+60.05.12,Cytopathology Residency Program.,,,8.15.25,Pathology
+60.05.13,Dermatopathology Residency Program.,,,8.15.05,Dermatology
+60.05.14,Developmental-Behavioral Pediatrics Residency Program.,,,8.15.26,Pediatrics
+60.05.15,Diagnostic Radiologic Physics Residency Program.,,,8.15.33,Radiology
+60.05.16,"Endocrinology, Diabetes and Metabolism Residency Program.",,,8.15.07,"Endocrinology, Diabetes, and Metabolism"
+60.05.17,Forensic Pathology Residency Program.,,,8.14.21,Medical Pathology
+60.05.18,Forensic Psychiatry Residency Program.,,,8.15.31,Psychiatry
+60.05.19,Gastroenterology Residency Program.,,,8.15.09,Gastroenterology
+60.05.20,Geriatric Medicine Residency Program.,,,8.15.10,Geriatrics
+60.05.21,Geriatric Psychiatry Residency Program.,,,8.22.06,Other Psychiatry and Psychology
+60.05.22,Gynecologic Oncology Residency Program.,,,8.15.18,Obstetrics and Gynecology
+60.05.23,Hematological Pathology Residency Program.,,,8.15.11,Hematology
+60.05.24,Hematology Residency Program.,,,8.15.11,Hematology
+60.05.25,Hospice and Palliative Medicine Residency Program.,,,8.15.24,Palliative Care
+60.05.26,Immunopathology Residency Program.,,,7.14.03,Immunopathology
+60.05.27,Infectious Disease Residency Program.,,,8.15.13,Infectious Disease
+60.05.28,Interventional Cardiology Residency Program.,,,8.15.03,Cardiology
+60.05.29,Laboratory Medicine Residency Program.,,,8.28.01,Other Medicine and Health Sciences
+60.05.30,Maternal and Fetal Medicine Residency Program.,,,8.15.18,Obstetrics and Gynecology
+60.05.31,Medical Biochemical Genetics Residency Program.,,,7.13.02,Genetics
+60.05.32,Medical Microbiology Residency Program.,,,8.14.17,Medical Microbiology
+60.05.33,Medical Nuclear Physics Residency Program.,,,9.09.07,Nuclear
+60.05.34,Medical Oncology Residency Program.,,,8.15.19,Oncology
+60.05.35,Medical Toxicology Residency Program.,,,8.14.24,Medical Toxicology
+60.05.36,Molecular Genetic Pathology Residency Program.,,,7.13.04,Molecular Genetics
+60.05.37,Musculoskeletal Oncology Residency Program.,,,8.15.19,Oncology
+60.05.38,Neonatal-Perinatal Medicine Residency Program.,,,8.09.04,"Congenital, Hereditary, and Neonatal Diseases and Abnormalities"
+60.05.39,Nephrology Residency Program.,,,8.15.16,Nephrology
+60.05.40,Neurodevelopmental Disabilities Residency Program.,,,8.15.31,Psychiatry
+60.05.41,Neuromuscular Medicine Residency Program.,,,8.15.17,Neurology
+60.05.42,Neuropathology Residency Program.,,,8.15.25,Pathology
+60.05.43,Neuroradiology Residency Program.,,,8.15.33,Radiology
+60.05.44,Neurotology Residency Program.,,,8.15.17,Neurology
+60.05.45,Nuclear Radiology Residency Program.,,,8.15.33,Radiology
+60.05.46,Orthopedic Sports Medicine Residency Program.,,,8.15.21,Orthopedics
+60.05.47,Orthopedic Surgery of the Spine Residency Program.,,,8.15.21,Orthopedics
+60.05.48,Pain Medicine Residency Program.,,,8.28.01,Other Medicine and Health Sciences
+60.05.49,Pediatric Cardiology Residency Program.,,,8.15.03,Cardiology
+60.05.50,Pediatric Critical Care Medicine Residency Program.,,,8.15.26,Pediatrics
+60.05.51,Pediatric Dermatology Residency Program.,,,8.15.05,Dermatology
+60.05.52,Pediatric Emergency Medicine Residency Program.,,,8.15.26,Pediatrics
+60.05.53,Pediatric Endocrinology Residency Program.,,,8.15.07,"Endocrinology, Diabetes, and Metabolism"
+60.05.54,Pediatric Gastroenterology Residency Program.,,,8.15.09,Gastroenterology
+60.05.55,Pediatric Hematology-Oncology Residency Program.,,,8.15.19,Oncology
+60.05.56,Pediatric Infectious Diseases Residency Program.,,,8.15.13,Infectious Disease
+60.05.57,Pediatric Nephrology Residency Program.,,,8.15.16,Nephrology
+60.05.58,Pediatric Orthopedics Residency Program.,,,8.15.21,Orthopedics
+60.05.59,Pediatric Otolaryngology Residency Program.,,,8.15.23,Otolaryngology
+60.05.60,Pediatric Pathology Residency Program.,,,8.15.25,Pathology
+60.05.61,Pediatric Pulmonology Residency Program.,,,8.15.32,Pulmonology
+60.05.62,Pediatric Radiology Residency Program.,,,8.15.33,Radiology
+60.05.63,Pediatric Rehabilitation Medicine Residency Program.,,,8.24.00,Rehabilitation and Therapy
+60.05.64,Pediatric Rheumatology Residency Program.,,,8.15.34,Rheumatology
+60.05.65,Pediatric Surgery Residency Program.,,,8.15.37,Surgery
+60.05.66,Pediatric Transplant Hepatology Residency Program.,,,8.15.12,Hepatology
+60.05.67,Pediatric Urology Residency Program.,,,8.15.40,Urology
+60.05.68,Physical Medicine and Rehabilitation/Psychiatry Residency Program.,,,8.15.31,Psychiatry
+60.05.69,Plastic Surgery Within the Head and Neck Residency Program.,,,8.15.27,Plastic Surgery
+60.05.70,Psychosomatic Medicine Residency Program.,,,8.28.01,Other Medicine and Health Sciences
+60.05.71,Pulmonary Disease Residency Program.,,,8.15.32,Pulmonology
+60.05.72,Radioisotopic Pathology Residency Program.,,,8.15.25,Pathology
+60.05.73,Reproductive Endocrinology/Infertility Residency Program.,,,8.14.28,Reproductive and Urinary Physiology
+60.05.74,Rheumatology Residency Program.,,,8.15.34,Rheumatology
+60.05.75,Sleep Medicine Residency Program.,,,8.15.35,Sleep Medicine
+60.05.76,Spinal Cord Injury Medicine Residency Program.,,,8.15.21,Orthopedics
+60.05.77,Sports Medicine Residency Program.,,,8.15.36,Sports Medicine
+60.05.78,Surgery of the Hand Residency Program.,,,8.15.37,Surgery
+60.05.79,Surgical Critical Care Residency Program.,,,8.15.37,Surgery
+60.05.80,Therapeutic Radiologic Physics Residency Program.,,,8.15.33,Radiology
+60.05.81,Transplant Hepatology Residency Program.,,,8.15.12,Hepatology
+60.05.82,Undersea and Hyperbaric Medicine Residency Program.,,,8.28.01,Other Medicine and Health Sciences
+60.05.83,Vascular and Interventional Radiology Residency Program.,,,8.15.33,Radiology
+60.05.84,Vascular Neurology Residency Program.,,,8.15.17,Neurology
+60.05.99,"Medical Residency Programs - Subspecialty Certificates, Other.",,,8.28.01,Other Medicine and Health Sciences
+60.06,Podiatric Medicine Residency Programs.,,,,#N/A
+60.06.01,Podiatric Medicine and Surgery - 24 Residency Program.,,,8.15.28,Podiatry
+60.06.02,Podiatric Medicine and Surgery - 36 Residency Program.,,,8.15.28,Podiatry

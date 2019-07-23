@@ -1,0 +1,1240 @@
+Low Level ID,Low Level Name,Mid Level ID,Mid Level Name,High Level ID,High Level Name
+1.00.00,Architecture,1.00,Architecture,1,Architecture
+1.01.01,Architectural Engineering,1.01,Architectural Engineering,1,Architecture
+1.02.01,Architectural History and Criticism,1.02,Architectural History and Criticism,1,Architecture
+1.03.01,Architectural Technology,1.03,Architectural Technology,1,Architecture
+1.04.01,Construction Engineering,1.04,Construction Engineering,1,Architecture
+1.05.01,Cultural Resource Management and Policy Analysis,1.05,Cultural Resource Management and Policy Analysis,1,Architecture
+1.06.01,Environmental Design,1.06,Environmental Design,1,Architecture
+1.07.01,Historic Preservation and Conservation,1.07,Historic Preservation and Conservation,1,Architecture
+1.08.01,Interior Architecture,1.08,Interior Architecture,1,Architecture
+1.09.01,Landscape Architecture,1.09,Landscape Architecture,1,Architecture
+1.10.01,"Urban, Community and Regional Planning",1.10,"Urban, Community and Regional Planning",1,Architecture
+1.11.01,Other Architecture,1.11,Other Architecture,1,Architecture
+2.00.00,Arts and Humanities,2.00,Arts and Humanities,2,Arts and Humanities
+2.01.01,African Languages and Societies,2.01,African Languages and Societies,2,Arts and Humanities
+2.02.00,American Studies,2.02,American Studies,2,Arts and Humanities
+2.02.01,American Film Studies,2.02,American Studies,2,Arts and Humanities
+2.02.02,American Literature,2.02,American Studies,2,Arts and Humanities
+2.02.03,American Material Culture,2.02,American Studies,2,Arts and Humanities
+2.02.04,American Popular Culture,2.02,American Studies,2,Arts and Humanities
+2.02.05,Other American Studies,2.02,American Studies,2,Arts and Humanities
+2.03.01,Appalachian Studies,2.03,Appalachian Studies,2,Arts and Humanities
+2.04.00,Art and Design,2.04,Art and Design,2,Arts and Humanities
+2.04.01,Art and Materials Conservation,2.04,Art and Design,2,Arts and Humanities
+2.04.02,Book and Paper,2.04,Art and Design,2,Arts and Humanities
+2.04.03,Ceramic Arts,2.04,Art and Design,2,Arts and Humanities
+2.04.04,Fashion Design,2.04,Art and Design,2,Arts and Humanities
+2.04.05,"Fiber, Textile, and Weaving Arts",2.04,Art and Design,2,Arts and Humanities
+2.04.06,Game Design,2.04,Art and Design,2,Arts and Humanities
+2.04.07,Graphic Design,2.04,Art and Design,2,Arts and Humanities
+2.04.08,Illustration,2.04,Art and Design,2,Arts and Humanities
+2.04.09,Industrial and Product Design,2.04,Art and Design,2,Arts and Humanities
+2.04.10,Interactive Arts,2.04,Art and Design,2,Arts and Humanities
+2.04.11,Interdisciplinary Arts and Media,2.04,Art and Design,2,Arts and Humanities
+2.04.12,Metal and Jewelry Arts,2.04,Art and Design,2,Arts and Humanities
+2.04.13,Painting,2.04,Art and Design,2,Arts and Humanities
+2.04.14,Printmaking,2.04,Art and Design,2,Arts and Humanities
+2.04.15,Sculpture,2.04,Art and Design,2,Arts and Humanities
+2.05.01,Art Practice,2.05,Art Practice,2,Arts and Humanities
+2.06.01,Audio Arts and Acoustics,2.06,Audio Arts and Acoustics,2,Arts and Humanities
+2.07.01,Australian Studies,2.07,Australian Studies,2,Arts and Humanities
+2.08.01,Basque Studies,2.08,Basque Studies,2,Arts and Humanities
+2.09.01,Celtic Studies,2.09,Celtic Studies,2,Arts and Humanities
+2.10.00,Classics,2.10,Classics,2,Arts and Humanities
+2.10.01,"Ancient History, Greek and Roman through Late Antiquity",2.10,Classics,2,Arts and Humanities
+2.10.02,Ancient Philosophy,2.10,Classics,2,Arts and Humanities
+2.10.03,Byzantine and Modern Greek,2.10,Classics,2,Arts and Humanities
+2.10.04,Classical Archaeology and Art History,2.10,Classics,2,Arts and Humanities
+2.10.05,Classical Literature and Philology,2.10,Classics,2,Arts and Humanities
+2.10.06,Indo-European Linguistics and Philology,2.10,Classics,2,Arts and Humanities
+2.10.07,Other Classics,2.10,Classics,2,Arts and Humanities
+2.11.00,Comparative Literature,2.11,Comparative Literature,2,Arts and Humanities
+2.11.01,Translation Studies,2.11,Comparative Literature,2,Arts and Humanities
+2.12.00,Creative Writing,2.12,Creative Writing,2,Arts and Humanities
+2.12.01,Fiction,2.12,Creative Writing,2,Arts and Humanities
+2.12.02,Nonfiction,2.12,Creative Writing,2,Arts and Humanities
+2.12.03,Poetry,2.12,Creative Writing,2,Arts and Humanities
+2.13.01,Digital Humanities,2.13,Digital Humanities,2,Arts and Humanities
+2.14.01,Dutch Studies,2.14,Dutch Studies,2,Arts and Humanities
+2.15.00,East Asian Languages and Societies,2.15,East Asian Languages and Societies,2,Arts and Humanities
+2.15.01,Chinese Studies,2.15,East Asian Languages and Societies,2,Arts and Humanities
+2.15.02,Japanese Studies,2.15,East Asian Languages and Societies,2,Arts and Humanities
+2.15.03,Korean Studies,2.15,East Asian Languages and Societies,2,Arts and Humanities
+2.16.00,English Language and Literature,2.16,English Language and Literature,2,Arts and Humanities
+2.16.01,Children's and Young Adult Literature,2.16,English Language and Literature,2,Arts and Humanities
+2.16.02,"Literature in English, Anglophone outside British Isles and North America",2.16,English Language and Literature,2,Arts and Humanities
+2.16.03,"Literature in English, British Isles",2.16,English Language and Literature,2,Arts and Humanities
+2.16.04,"Literature in English, North America",2.16,English Language and Literature,2,Arts and Humanities
+2.16.05,"Literature in English, North America, Ethnic and Cultural Minority",2.16,English Language and Literature,2,Arts and Humanities
+2.16.06,Other English Language and Literature,2.16,English Language and Literature,2,Arts and Humanities
+2.17.01,European Languages and Societies,2.17,European Languages and Societies,2,Arts and Humanities
+2.18.00,"Feminist, Gender, and Sexuality Studies",2.18,"Feminist, Gender, and Sexuality Studies",2,Arts and Humanities
+2.18.01,"Lesbian, Gay, Bisexual, and Transgender Studies",2.18,"Feminist, Gender, and Sexuality Studies",2,Arts and Humanities
+2.18.02,Women's Studies,2.18,"Feminist, Gender, and Sexuality Studies",2,Arts and Humanities
+2.18.03,"Other Feminist, Gender, and Sexuality Studies",2.18,"Feminist, Gender, and Sexuality Studies",2,Arts and Humanities
+2.19.00,Film and Media Studies,2.19,Film and Media Studies,2,Arts and Humanities
+2.19.01,Film Production,2.19,Film and Media Studies,2,Arts and Humanities
+2.19.02,Screenwriting,2.19,Film and Media Studies,2,Arts and Humanities
+2.19.03,Visual Studies,2.19,Film and Media Studies,2,Arts and Humanities
+2.19.04,Other Film and Media Studies,2.19,Film and Media Studies,2,Arts and Humanities
+2.20.01,Fine Arts,2.20,Fine Arts,2,Arts and Humanities
+2.21.00,French and Francophone Language and Literature,2.21,French and Francophone Language and Literature,2,Arts and Humanities
+2.21.01,French and Francophone Literature,2.21,French and Francophone Language and Literature,2,Arts and Humanities
+2.21.02,French Linguistics,2.21,French and Francophone Language and Literature,2,Arts and Humanities
+2.21.03,Other French and Francophone Language and Literature,2.21,French and Francophone Language and Literature,2,Arts and Humanities
+2.22.00,German Language and Literature,2.22,German Language and Literature,2,Arts and Humanities
+2.22.01,German Linguistics,2.22,German Language and Literature,2,Arts and Humanities
+2.22.02,German Literature,2.22,German Language and Literature,2,Arts and Humanities
+2.22.03,Other German Language and Literature,2.22,German Language and Literature,2,Arts and Humanities
+2.23.00,History,2.23,History,2,Arts and Humanities
+2.23.01,African History,2.23,History,2,Arts and Humanities
+2.23.02,Asian History,2.23,History,2,Arts and Humanities
+2.23.03,Canadian History,2.23,History,2,Arts and Humanities
+2.23.04,Cultural History,2.23,History,2,Arts and Humanities
+2.23.05,Diplomatic History,2.23,History,2,Arts and Humanities
+2.23.06,European History,2.23,History,2,Arts and Humanities
+2.23.07,Genealogy,2.23,History,2,Arts and Humanities
+2.23.08,History of Gender,2.23,History,2,Arts and Humanities
+2.23.09,History of the Pacific Islands,2.23,History,2,Arts and Humanities
+2.23.10,History of Religion,2.23,History,2,Arts and Humanities
+2.23.11,"History of Science, Technology, and Medicine",2.23,History,2,Arts and Humanities
+2.23.12,Intellectual History,2.23,History,2,Arts and Humanities
+2.23.13,Islamic World and Near East History,2.23,History,2,Arts and Humanities
+2.23.14,Labor History,2.23,History,2,Arts and Humanities
+2.23.15,Latin American History,2.23,History,2,Arts and Humanities
+2.23.16,Legal,2.23,History,2,Arts and Humanities
+2.23.17,Medieval History,2.23,History,2,Arts and Humanities
+2.23.18,Military History,2.23,History,2,Arts and Humanities
+2.23.19,Oral History,2.23,History,2,Arts and Humanities
+2.23.20,Political History,2.23,History,2,Arts and Humanities
+2.23.21,Public History,2.23,History,2,Arts and Humanities
+2.23.22,Social History,2.23,History,2,Arts and Humanities
+2.23.23,United States History,2.23,History,2,Arts and Humanities
+2.23.24,Women's History,2.23,History,2,Arts and Humanities
+2.23.25,Other History,2.23,History,2,Arts and Humanities
+2.24.00,"History of Art, Architecture, and Archaeology",2.24,"History of Art, Architecture, and Archaeology",2,Arts and Humanities
+2.24.01,American Art and Architecture,2.24,"History of Art, Architecture, and Archaeology",2,Arts and Humanities
+2.24.02,"Ancient, Medieval, Renaissance and Baroque Art and Architecture",2.24,"History of Art, Architecture, and Archaeology",2,Arts and Humanities
+2.24.03,Asian Art and Architecture,2.24,"History of Art, Architecture, and Archaeology",2,Arts and Humanities
+2.24.04,Contemporary Art,2.24,"History of Art, Architecture, and Archaeology",2,Arts and Humanities
+2.24.05,Modern Art and Architecture,2.24,"History of Art, Architecture, and Archaeology",2,Arts and Humanities
+2.24.06,Theory and Criticism,2.24,"History of Art, Architecture, and Archaeology",2,Arts and Humanities
+2.24.07,"Other History of Art, Architecture, and Archaeology",2.24,"History of Art, Architecture, and Archaeology",2,Arts and Humanities
+2.25.00,Italian Language and Literature,2.25,Italian Language and Literature,2,Arts and Humanities
+2.25.01,Italian Linguistics,2.25,Italian Language and Literature,2,Arts and Humanities
+2.25.02,Italian Literature,2.25,Italian Language and Literature,2,Arts and Humanities
+2.25.03,Other Italian Language and Literature,2.25,Italian Language and Literature,2,Arts and Humanities
+2.26.00,Jewish Studies,2.26,Jewish Studies,2,Arts and Humanities
+2.26.01,Yiddish Language and Literature,2.26,Jewish Studies,2,Arts and Humanities
+2.27.00,Latin American Languages and Societies,2.27,Latin American Languages and Societies,2,Arts and Humanities
+2.27.01,Caribbean Languages and Societies,2.27,Latin American Languages and Societies,2,Arts and Humanities
+2.28.01,Medieval Studies,2.28,Medieval Studies,2,Arts and Humanities
+2.29.01,Modern Languages,2.29,Modern Languages,2,Arts and Humanities
+2.30.01,Modern Literature,2.30,Modern Literature,2,Arts and Humanities
+2.31.01,Museum Studies,2.31,Museum Studies,2,Arts and Humanities
+2.32.00,Music,2.32,Music,2,Arts and Humanities
+2.32.01,Composition,2.32,Music,2,Arts and Humanities
+2.32.02,Ethnomusicology,2.32,Music,2,Arts and Humanities
+2.32.03,Music Education,2.32,Music,2,Arts and Humanities
+2.32.04,Music Practice,2.32,Music,2,Arts and Humanities
+2.32.05,Music Theory,2.32,Music,2,Arts and Humanities
+2.32.06,Musicology,2.32,Music,2,Arts and Humanities
+2.32.07,Music Pedagogy,2.32,Music,2,Arts and Humanities
+2.32.08,Music Performance,2.32,Music,2,Arts and Humanities
+2.32.09,Music Therapy,2.32,Music,2,Arts and Humanities
+2.32.10,Other Music,2.32,Music,2,Arts and Humanities
+2.33.01,Near Eastern Languages and Societies,2.33,Near Eastern Languages and Societies,2,Arts and Humanities
+2.34.00,Pacific Islands Languages and Societies,2.34,Pacific Islands Languages and Societies,2,Arts and Humanities
+2.34.01,Hawaiian Studies,2.34,Pacific Islands Languages and Societies,2,Arts and Humanities
+2.34.02,Melanesian Studies,2.34,Pacific Islands Languages and Societies,2,Arts and Humanities
+2.34.03,Micronesian Studies,2.34,Pacific Islands Languages and Societies,2,Arts and Humanities
+2.34.04,Polynesian Studies,2.34,Pacific Islands Languages and Societies,2,Arts and Humanities
+2.35.00,Philosophy,2.35,Philosophy,2,Arts and Humanities
+2.35.01,Comparative Philosophy,2.35,Philosophy,2,Arts and Humanities
+2.35.02,Continental Philosophy,2.35,Philosophy,2,Arts and Humanities
+2.35.03,Epistemology,2.35,Philosophy,2,Arts and Humanities
+2.35.04,Esthetics,2.35,Philosophy,2,Arts and Humanities
+2.35.05,Ethics and Political Philosophy,2.35,Philosophy,2,Arts and Humanities
+2.35.06,Feminist Philosophy,2.35,Philosophy,2,Arts and Humanities
+2.35.07,History of Philosophy,2.35,Philosophy,2,Arts and Humanities
+2.35.08,Logic and Foundations of Mathematics,2.35,Philosophy,2,Arts and Humanities
+2.35.09,Metaphysics,2.35,Philosophy,2,Arts and Humanities
+2.35.10,Philosophy of Language,2.35,Philosophy,2,Arts and Humanities
+2.35.11,Philosophy of Mind,2.35,Philosophy,2,Arts and Humanities
+2.35.12,Philosophy of Science,2.35,Philosophy,2,Arts and Humanities
+2.35.13,Other Philosophy,2.35,Philosophy,2,Arts and Humanities
+2.36.01,Photography,2.36,Photography,2,Arts and Humanities
+2.37.00,"Race, Ethnicity and Post-Colonial Studies",2.37,"Race, Ethnicity and Post-Colonial Studies",2,Arts and Humanities
+2.37.01,African American Studies,2.37,"Race, Ethnicity and Post-Colonial Studies",2,Arts and Humanities
+2.37.02,Asian American Studies,2.37,"Race, Ethnicity and Post-Colonial Studies",2,Arts and Humanities
+2.37.03,Chicana/o Studies,2.37,"Race, Ethnicity and Post-Colonial Studies",2,Arts and Humanities
+2.37.04,Ethnic Studies,2.37,"Race, Ethnicity and Post-Colonial Studies",2,Arts and Humanities
+2.37.05,Indigenous Studies,2.37,"Race, Ethnicity and Post-Colonial Studies",2,Arts and Humanities
+2.37.06,Latina/o Studies,2.37,"Race, Ethnicity and Post-Colonial Studies",2,Arts and Humanities
+2.38.01,Radio,2.38,Radio,2,Arts and Humanities
+2.39.01,Reading and Language,2.39,Reading and Language,2,Arts and Humanities
+2.40.00,Religion,2.40,Religion,2,Arts and Humanities
+2.40.01,Biblical Studies,2.40,Religion,2,Arts and Humanities
+2.40.02,Buddhist Studies,2.40,Religion,2,Arts and Humanities
+2.40.03,Catholic Studies,2.40,Religion,2,Arts and Humanities
+2.40.04,Christianity,2.40,Religion,2,Arts and Humanities
+2.40.05,Christian Denominations and Sects,2.40,Religion,2,Arts and Humanities
+2.40.06,Comparative Methodologies and Theories,2.40,Religion,2,Arts and Humanities
+2.40.07,Ethics in Religion,2.40,Religion,2,Arts and Humanities
+2.40.08,Hindu Studies,2.40,Religion,2,Arts and Humanities
+2.40.09,History of Christianity,2.40,Religion,2,Arts and Humanities
+2.40.10,History of Religions of Eastern Origins,2.40,Religion,2,Arts and Humanities
+2.40.11,History of Religions of Western Origin,2.40,Religion,2,Arts and Humanities
+2.40.12,Islamic Studies,2.40,Religion,2,Arts and Humanities
+2.40.13,Liturgy and Worship,2.40,Religion,2,Arts and Humanities
+2.40.14,Missions and World Christianity,2.40,Religion,2,Arts and Humanities
+2.40.15,Mormon Studies,2.40,Religion,2,Arts and Humanities
+2.40.16,New Religious Movements,2.40,Religion,2,Arts and Humanities
+2.40.17,Practical Theology,2.40,Religion,2,Arts and Humanities
+2.40.18,"Religious Thought, Theology and Philosophy of Religion",2.40,Religion,2,Arts and Humanities
+2.40.19,Other Religion,2.40,Religion,2,Arts and Humanities
+2.41.00,Rhetoric and Composition,2.41,Rhetoric and Composition,2,Arts and Humanities
+2.41.01,Rhetoric,2.41,Rhetoric and Composition,2,Arts and Humanities
+2.41.02,Other Rhetoric and Composition,2.41,Rhetoric and Composition,2,Arts and Humanities
+2.42.01,Scandinavian Studies,2.42,Scandinavian Studies,2,Arts and Humanities
+2.43.00,Slavic Languages and Societies,2.43,Slavic Languages and Societies,2,Arts and Humanities
+2.43.01,Russian Linguistics,2.43,Slavic Languages and Societies,2,Arts and Humanities
+2.43.02,Russian Literature,2.43,Slavic Languages and Societies,2,Arts and Humanities
+2.44.01,South and Southeast Asian Languages and Societies,2.44,South and Southeast Asian Languages and Societies,2,Arts and Humanities
+2.45.00,Spanish and Portuguese Language and Literature,2.45,Spanish and Portuguese Language and Literature,2,Arts and Humanities
+2.45.01,Latin American Literature,2.45,Spanish and Portuguese Language and Literature,2,Arts and Humanities
+2.45.02,Portuguese Literature,2.45,Spanish and Portuguese Language and Literature,2,Arts and Humanities
+2.45.03,Spanish Linguistics,2.45,Spanish and Portuguese Language and Literature,2,Arts and Humanities
+2.45.04,Spanish Literature,2.45,Spanish and Portuguese Language and Literature,2,Arts and Humanities
+2.45.05,Other Spanish and Portuguese Language and Literature,2.45,Spanish and Portuguese Language and Literature,2,Arts and Humanities
+2.46.01,Technical and Professional Writing,2.46,Technical and Professional Writing,2,Arts and Humanities
+2.47.01,Television,2.47,Television,2,Arts and Humanities
+2.48.00,Theatre and Performance Studies,2.48,Theatre and Performance Studies,2,Arts and Humanities
+2.48.01,Acting,2.48,Theatre and Performance Studies,2,Arts and Humanities
+2.48.02,Dance,2.48,Theatre and Performance Studies,2,Arts and Humanities
+2.48.03,"Dramatic Literature, Criticism and Theory",2.48,Theatre and Performance Studies,2,Arts and Humanities
+2.48.04,Performance Studies,2.48,Theatre and Performance Studies,2,Arts and Humanities
+2.48.05,Playwriting,2.48,Theatre and Performance Studies,2,Arts and Humanities
+2.48.06,Theatre History,2.48,Theatre and Performance Studies,2,Arts and Humanities
+2.48.07,Other Theatre and Performance Studies,2.48,Theatre and Performance Studies,2,Arts and Humanities
+2.49.01,Other Arts and Humanities,2.49,Other Arts and Humanities,2,Arts and Humanities
+2.50.01,"Other Languages, Societies, and Cultures",2.50,"Other Languages, Societies, and Cultures",2,Arts and Humanities
+3.00.00,Business,3.00,Business,3,Business
+3.01.01,Accounting,3.01,Accounting,3,Business
+3.02.01,Advertising and Promotion Management,3.02,Advertising and Promotion Management,3,Business
+3.03.01,Agribusiness,3.03,Agribusiness,3,Business
+3.04.01,Arts Management,3.04,Arts Management,3,Business
+3.05.01,"Business Administration, Management, and Operations",3.05,"Business Administration, Management, and Operations",3,Business
+3.06.01,Business and Corporate Communications,3.06,Business and Corporate Communications,3,Business
+3.07.01,Business Intelligence,3.07,Business Intelligence,3,Business
+3.08.01,"Business Law, Public Responsibility, and Ethics",3.08,"Business Law, Public Responsibility, and Ethics",3,Business
+3.09.01,Corporate Finance,3.09,Corporate Finance,3,Business
+3.10.01,E-Commerce,3.10,E-Commerce,3,Business
+3.11.01,Entrepreneurial and Small Business Operations,3.11,Entrepreneurial and Small Business Operations,3,Business
+3.12.01,Fashion Business,3.12,Fashion Business,3,Business
+3.13.01,Finance and Financial Management,3.13,Finance and Financial Management,3,Business
+3.14.00,Hospitality Administration and Management,3.14,Hospitality Administration and Management,3,Business
+3.14.01,Food and Beverage Management,3.14,Hospitality Administration and Management,3,Business
+3.14.02,Gaming and Casino Operations Management,3.14,Hospitality Administration and Management,3,Business
+3.15.00,Human Resources Management,3.15,Human Resources Management,3,Business
+3.15.01,Benefits and Compensation,3.15,Human Resources Management,3,Business
+3.15.02,Performance Management,3.15,Human Resources Management,3,Business
+3.15.03,Training and Development,3.15,Human Resources Management,3,Business
+3.16.01,Insurance,3.16,Insurance,3,Business
+3.17.01,International Business,3.17,International Business,3,Business
+3.18.00,Labor Relations,3.18,Labor Relations,3,Business
+3.18.01,Collective Bargaining,3.18,Labor Relations,3,Business
+3.18.02,International and Comparative Labor Relations,3.18,Labor Relations,3,Business
+3.18.03,Unions,3.18,Labor Relations,3,Business
+3.19.01,Management Information Systems,3.19,Management Information Systems,3,Business
+3.20.01,Management Sciences and Quantitative Methods,3.20,Management Sciences and Quantitative Methods,3,Business
+3.21.00,Marketing,3.21,Marketing,3,Business
+3.21.01,Art Direction,3.21,Marketing,3,Business
+3.22.01,Nonprofit Administration and Management,3.22,Nonprofit Administration and Management,3,Business
+3.23.01,Operations and Supply Chain Management,3.23,Operations and Supply Chain Management,3,Business
+3.24.01,Organizational Behavior and Theory,3.24,Organizational Behavior and Theory,3,Business
+3.25.01,Portfolio and Security Analysis,3.25,Portfolio and Security Analysis,3,Business
+3.26.01,Real Estate,3.26,Real Estate,3,Business
+3.27.01,Recreation Business,3.27,Recreation Business,3,Business
+3.28.01,Sales and Merchandising,3.28,Sales and Merchandising,3,Business
+3.29.01,Sports Management,3.29,Sports Management,3,Business
+3.30.01,Strategic Management Policy,3.30,Strategic Management Policy,3,Business
+3.31.01,Taxation,3.31,Taxation,3,Business
+3.32.01,Technology and Innovation,3.32,Technology and Innovation,3,Business
+3.33.01,Tourism and Travel,3.33,Tourism and Travel,3,Business
+3.34.01,Other Business,3.34,Other Business,3,Business
+4.00.00,Education,4.00,Education,4,Education
+4.01.01,Adult and Continuing Education,4.01,Adult and Continuing Education,4,Education
+4.02.01,Art Education,4.02,Art Education,4,Education
+4.03.01,"Bilingual, Multilingual, and Multicultural Education",4.03,"Bilingual, Multilingual, and Multicultural Education",4,Education
+4.04.01,Community College Leadership,4.04,Community College Leadership,4,Education
+4.05.01,Curriculum and Instruction,4.05,Curriculum and Instruction,4,Education
+4.06.01,Curriculum and Social Inquiry,4.06,Curriculum and Social Inquiry,4,Education
+4.07.00,Disability and Equity in Education,4.07,Disability and Equity in Education,4,Education
+4.07.01,Accessibility,4.07,Disability and Equity in Education,4,Education
+4.07.02,Gender Equity in Education,4.07,Disability and Equity in Education,4,Education
+4.08.01,Early Childhood Education,4.08,Early Childhood Education,4,Education
+4.09.01,Education Economics,4.09,Education Economics,4,Education
+4.10.00,Educational Administration and Supervision,4.10,Educational Administration and Supervision,4,Education
+4.10.01,Adult and Continuing Education Administration,4.10,Educational Administration and Supervision,4,Education
+4.10.02,Community College Education Administration,4.10,Educational Administration and Supervision,4,Education
+4.10.03,Elementary and Middle and Secondary Education Administration,4.10,Educational Administration and Supervision,4,Education
+4.10.04,Higher Education Administration,4.10,Educational Administration and Supervision,4,Education
+4.10.05,Special Education Administration,4.10,Educational Administration and Supervision,4,Education
+4.10.06,Urban Education,4.10,Educational Administration and Supervision,4,Education
+4.10.07,Other Educational Administration and Supervision,4.10,Educational Administration and Supervision,4,Education
+4.11.01,"Educational Assessment, Evaluation, and Research",4.11,"Educational Assessment, Evaluation, and Research",4,Education
+4.12.01,Educational Leadership,4.12,Educational Leadership,4,Education
+4.13.01,Educational Methods,4.13,Educational Methods,4,Education
+4.14.01,Educational Psychology,4.14,Educational Psychology,4,Education
+4.15.01,Elementary Education,4.15,Elementary Education,4,Education
+4.16.01,Gifted Education,4.16,Gifted Education,4,Education
+4.17.01,Health and Physical Education,4.17,Health and Physical Education,4,Education
+4.18.00,Higher Education,4.18,Higher Education,4,Education
+4.18.01,Scholarship of Teaching and Learning,4.18,Higher Education,4,Education
+4.18.02,University Extension,4.18,Higher Education,4,Education
+4.19.01,Home Economics,4.19,Home Economics,4,Education
+4.20.01,Humane Education,4.20,Humane Education,4,Education
+4.21.01,Indigenous Education,4.21,Indigenous Education,4,Education
+4.22.01,Instructional Media Design,4.22,Instructional Media Design,4,Education
+4.23.01,International and Comparative Education,4.23,International and Comparative Education,4,Education
+4.24.01,Language and Literacy Education,4.24,Language and Literacy Education,4,Education
+4.25.01,Liberal Studies,4.25,Liberal Studies,4,Education
+4.26.01,Online and Distance Education,4.26,Online and Distance Education,4,Education
+4.27.01,Outdoor Education,4.27,Outdoor Education,4,Education
+4.28.01,Science and Mathematics Education,4.28,Science and Mathematics Education,4,Education
+4.29.01,Secondary Education,4.29,Secondary Education,4,Education
+4.30.01,Social and Philosophical Foundations of Education,4.30,Social and Philosophical Foundations of Education,4,Education
+4.31.01,Special Education and Teaching,4.31,Special Education and Teaching,4,Education
+4.32.01,Student Counseling and Personnel Services,4.32,Student Counseling and Personnel Services,4,Education
+4.33.00,Teacher Education and Professional Development,4.33,Teacher Education and Professional Development,4,Education
+4.33.01,Adult and Continuing Education and Teaching,4.33,Teacher Education and Professional Development,4,Education
+4.33.02,Elementary Education and Teaching,4.33,Teacher Education and Professional Development,4,Education
+4.33.03,Higher Education and Teaching,4.33,Teacher Education and Professional Development,4,Education
+4.33.04,"Junior High, Intermediate, Middle School Education and Teaching",4.33,Teacher Education and Professional Development,4,Education
+4.33.05,"Pre-Elementary, Early Childhood, Kindergarten Teacher Education",4.33,Teacher Education and Professional Development,4,Education
+4.33.06,Secondary Education and Teaching,4.33,Teacher Education and Professional Development,4,Education
+4.33.07,Other Teacher Education and Professional Development,4.33,Teacher Education and Professional Development,4,Education
+4.34.01,Other Education,4.34,Other Education,4,Education
+4.35.01,Vocational Education,4.35,Vocational Education,4,Education
+5.00.00,Engineering,5.00,Engineering,5,Engineering
+5.01.00,Aerospace Engineering,5.01,Aerospace Engineering,5,Engineering
+5.01.01,Aerodynamics and Fluid Mechanics,5.01,Aerospace Engineering,5,Engineering
+5.01.02,Aeronautical Vehicles,5.01,Aerospace Engineering,5,Engineering
+5.01.03,Astrodynamics,5.01,Aerospace Engineering,5,Engineering
+5.01.04,Multi-Vehicle Systems and Air Traffic Control,5.01,Aerospace Engineering,5,Engineering
+5.01.05,"Navigation, Guidance, Control and Dynamics",5.01,Aerospace Engineering,5,Engineering
+5.01.06,Propulsion and Power,5.01,Aerospace Engineering,5,Engineering
+5.01.07,Space Vehicles,5.01,Aerospace Engineering,5,Engineering
+5.01.08,Structures and Materials,5.01,Aerospace Engineering,5,Engineering
+5.01.09,Systems Engineering and Multidisciplinary Design Optimization,5.01,Aerospace Engineering,5,Engineering
+5.01.10,Other Aerospace Engineering,5.01,Aerospace Engineering,5,Engineering
+5.02.01,Automotive Engineering,5.02,Automotive Engineering,5,Engineering
+5.03.00,Aviation,5.03,Aviation,5,Engineering
+5.03.01,Aviation and Space Education,5.03,Aviation,5,Engineering
+5.03.02,Aviation Safety and Security,5.03,Aviation,5,Engineering
+5.03.03,Maintenance Technology,5.03,Aviation,5,Engineering
+5.03.04,Management and Operations,5.03,Aviation,5,Engineering
+5.04.00,Biomedical Engineering and Bioengineering,5.04,Biomedical Engineering and Bioengineering,5,Engineering
+5.04.01,Bioelectrical and Neuroengineering,5.04,Biomedical Engineering and Bioengineering,5,Engineering
+5.04.02,Bioimaging and Biomedical Optics,5.04,Biomedical Engineering and Bioengineering,5,Engineering
+5.04.03,Biological Engineering,5.04,Biomedical Engineering and Bioengineering,5,Engineering
+5.04.04,Biomaterials,5.04,Biomedical Engineering and Bioengineering,5,Engineering
+5.04.05,Biomechanics and Biotransport,5.04,Biomedical Engineering and Bioengineering,5,Engineering
+5.04.06,Biomedical Devices and Instrumentation,5.04,Biomedical Engineering and Bioengineering,5,Engineering
+5.04.07,"Molecular, Cellular, and Tissue Engineering",5.04,Biomedical Engineering and Bioengineering,5,Engineering
+5.04.08,Systems and Integrative Engineering,5.04,Biomedical Engineering and Bioengineering,5,Engineering
+5.04.09,Vision Science,5.04,Biomedical Engineering and Bioengineering,5,Engineering
+5.04.10,Other Biomedical Engineering and Bioengineering,5.04,Biomedical Engineering and Bioengineering,5,Engineering
+5.05.01,Bioresource and Agricultural Engineering,5.05,Bioresource and Agricultural Engineering,5,Engineering
+5.06.00,Chemical Engineering,5.06,Chemical Engineering,5,Engineering
+5.06.01,Biochemical and Biomolecular Engineering,5.06,Chemical Engineering,5,Engineering
+5.06.02,Catalysis and Reaction Engineering,5.06,Chemical Engineering,5,Engineering
+5.06.03,Complex Fluids,5.06,Chemical Engineering,5,Engineering
+5.06.04,Membrane Science,5.06,Chemical Engineering,5,Engineering
+5.06.05,Petroleum Engineering,5.06,Chemical Engineering,5,Engineering
+5.06.06,Polymer Science,5.06,Chemical Engineering,5,Engineering
+5.06.07,Process Control and Systems,5.06,Chemical Engineering,5,Engineering
+5.06.08,Thermodynamics,5.06,Chemical Engineering,5,Engineering
+5.06.09,Transport Phenomena,5.06,Chemical Engineering,5,Engineering
+5.06.10,Other Chemical Engineering,5.06,Chemical Engineering,5,Engineering
+5.07.00,Civil and Environmental Engineering,5.07,Civil and Environmental Engineering,5,Engineering
+5.07.01,Civil Engineering,5.07,Civil and Environmental Engineering,5,Engineering
+5.07.02,Construction Engineering and Management,5.07,Civil and Environmental Engineering,5,Engineering
+5.07.03,Environmental Engineering,5.07,Civil and Environmental Engineering,5,Engineering
+5.07.04,Geotechnical Engineering,5.07,Civil and Environmental Engineering,5,Engineering
+5.07.05,Hydraulic Engineering,5.07,Civil and Environmental Engineering,5,Engineering
+5.07.06,Structural Engineering,5.07,Civil and Environmental Engineering,5,Engineering
+5.07.07,Transportation Engineering,5.07,Civil and Environmental Engineering,5,Engineering
+5.07.08,Other Civil and Environmental Engineering,5.07,Civil and Environmental Engineering,5,Engineering
+5.08.01,Computational Engineering,5.08,Computational Engineering,5,Engineering
+5.09.00,Computer Engineering,5.09,Computer Engineering,5,Engineering
+5.09.01,Computer and Systems Architecture,5.09,Computer Engineering,5,Engineering
+5.09.02,Data Storage Systems,5.09,Computer Engineering,5,Engineering
+5.09.03,Digital Circuits,5.09,Computer Engineering,5,Engineering
+5.09.04,Digital Communications and Networking,5.09,Computer Engineering,5,Engineering
+5.09.05,Hardware Systems,5.09,Computer Engineering,5,Engineering
+5.09.06,Robotics,5.09,Computer Engineering,5,Engineering
+5.09.07,Other Computer Engineering,5.09,Computer Engineering,5,Engineering
+5.10.00,Electrical and Computer Engineering,5.10,Electrical and Computer Engineering,5,Engineering
+5.10.01,Biomedical,5.10,Electrical and Computer Engineering,5,Engineering
+5.10.02,Controls and Control Theory,5.10,Electrical and Computer Engineering,5,Engineering
+5.10.03,Electrical and Electronics,5.10,Electrical and Computer Engineering,5,Engineering
+5.10.04,Electromagnetics and Photonics,5.10,Electrical and Computer Engineering,5,Engineering
+5.10.05,Electronic Devices and Semiconductor Manufacturing,5.10,Electrical and Computer Engineering,5,Engineering
+5.10.06,Nanotechnology Fabrication,5.10,Electrical and Computer Engineering,5,Engineering
+5.10.07,Power and Energy,5.10,Electrical and Computer Engineering,5,Engineering
+5.10.08,Signal Processing,5.10,Electrical and Computer Engineering,5,Engineering
+5.10.09,Systems and Communications,5.10,Electrical and Computer Engineering,5,Engineering
+5.10.10,"VLSI and Circuits, Embedded and Hardware Systems",5.10,Electrical and Computer Engineering,5,Engineering
+5.10.11,Other Electrical and Computer Engineering,5.10,Electrical and Computer Engineering,5,Engineering
+5.11.01,Engineering Education,5.11,Engineering Education,5,Engineering
+5.12.00,Engineering Science and Materials,5.12,Engineering Science and Materials,5,Engineering
+5.12.01,Dynamics and Dynamical Systems,5.12,Engineering Science and Materials,5,Engineering
+5.12.02,Engineering Mechanics,5.12,Engineering Science and Materials,5,Engineering
+5.12.03,Mechanics of Materials,5.12,Engineering Science and Materials,5,Engineering
+5.12.04,Other Engineering Science and Materials,5.12,Engineering Science and Materials,5,Engineering
+5.13.00,Materials Science and Engineering,5.13,Materials Science and Engineering,5,Engineering
+5.13.01,Biology and Biomimetic Materials,5.13,Materials Science and Engineering,5,Engineering
+5.13.02,Ceramic Materials,5.13,Materials Science and Engineering,5,Engineering
+5.13.03,Metallurgy,5.13,Materials Science and Engineering,5,Engineering
+5.13.04,Polymer and Organic Materials,5.13,Materials Science and Engineering,5,Engineering
+5.13.05,Semiconductor and Optical Materials,5.13,Materials Science and Engineering,5,Engineering
+5.13.06,Structural Materials,5.13,Materials Science and Engineering,5,Engineering
+5.13.07,Other Materials Science and Engineering,5.13,Materials Science and Engineering,5,Engineering
+5.14.00,Mechanical Engineering,5.14,Mechanical Engineering,5,Engineering
+5.14.01,"Acoustics, Dynamics, and Controls",5.14,Mechanical Engineering,5,Engineering
+5.14.02,Applied Mechanics,5.14,Mechanical Engineering,5,Engineering
+5.14.03,Biomechanical Engineering,5.14,Mechanical Engineering,5,Engineering
+5.14.04,Computer-Aided Engineering and Design,5.14,Mechanical Engineering,5,Engineering
+5.14.05,Electro-Mechanical Systems,5.14,Mechanical Engineering,5,Engineering
+5.14.06,Energy Systems,5.14,Mechanical Engineering,5,Engineering
+5.14.07,"Heat Transfer, Combustion",5.14,Mechanical Engineering,5,Engineering
+5.14.08,Manufacturing,5.14,Mechanical Engineering,5,Engineering
+5.14.09,Ocean Engineering,5.14,Mechanical Engineering,5,Engineering
+5.14.10,Tribology,5.14,Mechanical Engineering,5,Engineering
+5.14.11,Other Mechanical Engineering,5.14,Mechanical Engineering,5,Engineering
+5.15.01,Mining Engineering,5.15,Mining Engineering,5,Engineering
+5.16.01,Nanoscience and Nanotechnology,5.16,Nanoscience and Nanotechnology,5,Engineering
+5.17.01,Nuclear Engineering,5.17,Nuclear Engineering,5,Engineering
+5.18.00,"Operations Research, Systems Engineering and Industrial Engineering",5.18,"Operations Research, Systems Engineering and Industrial Engineering",5,Engineering
+5.18.01,Ergonomics,5.18,"Operations Research, Systems Engineering and Industrial Engineering",5,Engineering
+5.18.02,Industrial Engineering,5.18,"Operations Research, Systems Engineering and Industrial Engineering",5,Engineering
+5.18.03,Industrial Technology,5.18,"Operations Research, Systems Engineering and Industrial Engineering",5,Engineering
+5.18.04,Operational Research,5.18,"Operations Research, Systems Engineering and Industrial Engineering",5,Engineering
+5.18.05,Systems Engineering,5.18,"Operations Research, Systems Engineering and Industrial Engineering",5,Engineering
+5.18.06,"Other Operations Research, Systems Engineering and Industrial Engineering",5.18,"Operations Research, Systems Engineering and Industrial Engineering",5,Engineering
+5.19.01,Risk Analysis,5.19,Risk Analysis,5,Engineering
+5.20.01,Other Engineering,5.20,Other Engineering,5,Engineering
+6.00.00,Law,6.00,Law,6,Law
+6.01.01,Accounting Law,6.01,Accounting Law,6,Law
+6.02.01,Administrative Law,6.02,Administrative Law,6,Law
+6.03.01,Admiralty,6.03,Admiralty,6,Law
+6.04.01,Agency,6.04,Agency,6,Law
+6.05.01,Agriculture Law,6.05,Agriculture Law,6,Law
+6.06.01,Air and Space Law,6.06,Air and Space Law,6,Law
+6.07.01,Animal Law,6.07,Animal Law,6,Law
+6.08.01,Antitrust and Trade Regulation,6.08,Antitrust and Trade Regulation,6,Law
+6.09.01,Banking and Finance Law,6.09,Banking and Finance Law,6,Law
+6.10.01,Bankruptcy Law,6.10,Bankruptcy Law,6,Law
+6.11.01,Business Organizations Law,6.11,Business Organizations Law,6,Law
+6.12.01,Civil Law,6.12,Civil Law,6,Law
+6.13.01,Civil Procedure,6.13,Civil Procedure,6,Law
+6.14.01,Civil Rights and Discrimination,6.14,Civil Rights and Discrimination,6,Law
+6.15.01,Commercial Law,6.15,Commercial Law,6,Law
+6.16.01,Common Law,6.16,Common Law,6,Law
+6.17.01,Communications Law,6.17,Communications Law,6,Law
+6.18.01,Comparative and Foreign Law,6.18,Comparative and Foreign Law,6,Law
+6.19.01,Computer Law,6.19,Computer Law,6,Law
+6.20.01,Conflict of Laws,6.20,Conflict of Laws,6,Law
+6.21.01,Constitutional Law,6.21,Constitutional Law,6,Law
+6.22.01,Construction Law,6.22,Construction Law,6,Law
+6.23.01,Consumer Protection Law,6.23,Consumer Protection Law,6,Law
+6.24.01,Contracts,6.24,Contracts,6,Law
+6.25.01,Courts,6.25,Courts,6,Law
+6.26.01,Criminal Law,6.26,Criminal Law,6,Law
+6.27.01,Criminal Procedure,6.27,Criminal Procedure,6,Law
+6.28.01,Cultural Heritage Law,6.28,Cultural Heritage Law,6,Law
+6.29.01,Disability Law,6.29,Disability Law,6,Law
+6.30.01,Disaster Law,6.30,Disaster Law,6,Law
+6.31.01,Dispute Resolution and Arbitration,6.31,Dispute Resolution and Arbitration,6,Law
+6.32.01,Education Law,6.32,Education Law,6,Law
+6.33.01,Elder Law,6.33,Elder Law,6,Law
+6.34.01,Election Law,6.34,Election Law,6,Law
+6.35.01,Energy and Utilities Law,6.35,Energy and Utilities Law,6,Law
+6.36.01,"Entertainment, Arts, and Sports Law",6.36,"Entertainment, Arts, and Sports Law",6,Law
+6.37.01,Environmental Law,6.37,Environmental Law,6,Law
+6.38.01,Estates and Trusts,6.38,Estates and Trusts,6,Law
+6.39.01,European Law,6.39,European Law,6,Law
+6.40.01,Evidence,6.40,Evidence,6,Law
+6.41.01,Family Law,6.41,Family Law,6,Law
+6.42.01,First Amendment,6.42,First Amendment,6,Law
+6.43.01,Food and Drug Law,6.43,Food and Drug Law,6,Law
+6.44.01,Fourteenth Amendment,6.44,Fourteenth Amendment,6,Law
+6.45.01,Fourth Amendment,6.45,Fourth Amendment,6,Law
+6.46.01,Gaming Law,6.46,Gaming Law,6,Law
+6.47.01,Government Contracts,6.47,Government Contracts,6,Law
+6.48.01,Health Law and Policy,6.48,Health Law and Policy,6,Law
+6.49.01,Housing Law,6.49,Housing Law,6,Law
+6.50.01,Human Rights Law,6.50,Human Rights Law,6,Law
+6.51.01,Immigration Law,6.51,Immigration Law,6,Law
+6.52.01,Indian and Aboriginal Law,6.52,Indian and Aboriginal Law,6,Law
+6.53.01,Insurance Law,6.53,Insurance Law,6,Law
+6.54.01,Intellectual Property Law,6.54,Intellectual Property Law,6,Law
+6.55.01,International Humanitarian Law,6.55,International Humanitarian Law,6,Law
+6.56.01,International Law,6.56,International Law,6,Law
+6.57.01,International Trade Law,6.57,International Trade Law,6,Law
+6.58.01,Internet Law,6.58,Internet Law,6,Law
+6.59.01,Judges,6.59,Judges,6,Law
+6.60.01,Jurisdiction,6.60,Jurisdiction,6,Law
+6.61.01,Jurisprudence,6.61,Jurisprudence,6,Law
+6.62.01,Juvenile Law,6.62,Juvenile Law,6,Law
+6.63.01,Labor and Employment Law,6.63,Labor and Employment Law,6,Law
+6.64.01,Land Use Law,6.64,Land Use Law,6,Law
+6.65.01,Law and Economics,6.65,Law and Economics,6,Law
+6.66.01,Law and Gender,6.66,Law and Gender,6,Law
+6.67.01,Law and Philosophy,6.67,Law and Philosophy,6,Law
+6.68.01,Law and Politics,6.68,Law and Politics,6,Law
+6.69.01,Law and Psychology,6.69,Law and Psychology,6,Law
+6.70.01,Law and Race,6.70,Law and Race,6,Law
+6.71.01,Law and Society,6.71,Law and Society,6,Law
+6.72.01,Law Enforcement and Corrections,6.72,Law Enforcement and Corrections,6,Law
+6.73.01,Law of the Sea,6.73,Law of the Sea,6,Law
+6.74.01,Legal Biography,6.74,Legal Biography,6,Law
+6.75.01,Legal Education,6.75,Legal Education,6,Law
+6.76.01,Legal Ethics and Professional Responsibility,6.76,Legal Ethics and Professional Responsibility,6,Law
+6.77.01,Legal History,6.77,Legal History,6,Law
+6.78.01,Legal Profession,6.78,Legal Profession,6,Law
+6.79.01,Legal Remedies,6.79,Legal Remedies,6,Law
+6.80.01,Legal Writing and Research,6.80,Legal Writing and Research,6,Law
+6.81.01,Legislation,6.81,Legislation,6,Law
+6.82.01,Litigation,6.82,Litigation,6,Law
+6.83.01,Marketing Law,6.83,Marketing Law,6,Law
+6.84.01,Medical Jurisprudence,6.84,Medical Jurisprudence,6,Law
+6.85.01,"Military, War, and Peace",6.85,"Military, War, and Peace",6,Law
+6.86.01,National Security Law,6.86,National Security Law,6,Law
+6.87.01,Natural Law,6.87,Natural Law,6,Law
+6.88.01,Natural Resources Law,6.88,Natural Resources Law,6,Law
+6.89.01,Nonprofit Organizations Law,6.89,Nonprofit Organizations Law,6,Law
+6.90.01,"Oil, Gas, and Mineral Law",6.90,"Oil, Gas, and Mineral Law",6,Law
+6.91.01,Organizations Law,6.91,Organizations Law,6,Law
+6.92.01,President/Executive Department,6.92,President/Executive Department,6,Law
+6.93.01,Privacy Law,6.93,Privacy Law,6,Law
+6.94.01,Property Law and Real Estate,6.94,Property Law and Real Estate,6,Law
+6.95.01,Public Law and Legal Theory,6.95,Public Law and Legal Theory,6,Law
+6.96.01,Religion Law,6.96,Religion Law,6,Law
+6.97.01,Retirement Security Law,6.97,Retirement Security Law,6,Law
+6.98.01,Rule of Law,6.98,Rule of Law,6,Law
+6.99.01,Science and Technology Law,6.99,Science and Technology Law,6,Law
+6.100.01,Second Amendment,6.100,Second Amendment,6,Law
+6.101.01,Secured Transactions,6.101,Secured Transactions,6,Law
+6.102.01,Securities Law,6.102,Securities Law,6,Law
+6.103.01,Sexuality and the Law,6.103,Sexuality and the Law,6,Law
+6.104.01,Social Welfare Law,6.104,Social Welfare Law,6,Law
+6.105.01,State and Local Government Law,6.105,State and Local Government Law,6,Law
+6.106.01,Supreme Court of the United States,6.106,Supreme Court of the United States,6,Law
+6.107.01,Tax Law,6.107,Tax Law,6,Law
+6.108.01,Taxation-Federal,6.108,Taxation-Federal,6,Law
+6.109.01,Taxation-Federal Estate and Gift,6.109,Taxation-Federal Estate and Gift,6,Law
+6.110.01,Taxation-State and Local,6.110,Taxation-State and Local,6,Law
+6.111.01,Taxation-Transnational,6.111,Taxation-Transnational,6,Law
+6.112.01,Torts,6.112,Torts,6,Law
+6.113.01,Transnational Law,6.113,Transnational Law,6,Law
+6.114.01,Transportation Law,6.114,Transportation Law,6,Law
+6.115.01,Water Law,6.115,Water Law,6,Law
+6.116.01,Workers' Compensation Law,6.116,Workers' Compensation Law,6,Law
+6.117.01,Other Law,6.117,Other Law,6,Law
+7.00.00,Life Sciences,7.00,Life Sciences,7,Life Sciences
+7.01.00,Agriculture,7.01,Agriculture,7,Life Sciences
+7.01.01,Agricultural Economics,7.01,Agriculture,7,Life Sciences
+7.01.02,Agricultural Education,7.01,Agriculture,7,Life Sciences
+7.01.03,Apiculture,7.01,Agriculture,7,Life Sciences
+7.01.04,Biosecurity,7.01,Agriculture,7,Life Sciences
+7.01.05,Viticulture and Oenology,7.01,Agriculture,7,Life Sciences
+7.02.00,Animal Sciences,7.02,Animal Sciences,7,Life Sciences
+7.02.01,Aquaculture and Fisheries,7.02,Animal Sciences,7,Life Sciences
+7.02.02,Dairy Science,7.02,Animal Sciences,7,Life Sciences
+7.02.03,Meat Science,7.02,Animal Sciences,7,Life Sciences
+7.02.04,Ornithology,7.02,Animal Sciences,7,Life Sciences
+7.02.05,Poultry or Avian Science,7.02,Animal Sciences,7,Life Sciences
+7.02.06,Sheep and Goat Science,7.02,Animal Sciences,7,Life Sciences
+7.02.07,Zoology,7.02,Animal Sciences,7,Life Sciences
+7.02.08,Other Animal Sciences,7.02,Animal Sciences,7,Life Sciences
+7.03.00,"Biochemistry, Biophysics, and Structural Biology",7.03,"Biochemistry, Biophysics, and Structural Biology",7,Life Sciences
+7.03.01,Biochemistry,7.03,"Biochemistry, Biophysics, and Structural Biology",7,Life Sciences
+7.03.02,Biophysics,7.03,"Biochemistry, Biophysics, and Structural Biology",7,Life Sciences
+7.03.03,Molecular Biology,7.03,"Biochemistry, Biophysics, and Structural Biology",7,Life Sciences
+7.03.04,Structural Biology,7.03,"Biochemistry, Biophysics, and Structural Biology",7,Life Sciences
+7.03.05,"Other Biochemistry, Biophysics, and Structural Biology",7.03,"Biochemistry, Biophysics, and Structural Biology",7,Life Sciences
+7.04.01,Biodiversity,7.04,Biodiversity,7,Life Sciences
+7.05.01,Bioinformatics,7.05,Bioinformatics,7,Life Sciences
+7.06.00,Biology,7.06,Biology,7,Life Sciences
+7.06.01,Integrative Biology,7.06,Biology,7,Life Sciences
+7.07.01,Biotechnology,7.07,Biotechnology,7,Life Sciences
+7.08.00,Cell and Developmental Biology,7.08,Cell and Developmental Biology,7,Life Sciences
+7.08.01,Cancer Biology,7.08,Cell and Developmental Biology,7,Life Sciences
+7.08.02,Cell Anatomy,7.08,Cell and Developmental Biology,7,Life Sciences
+7.08.03,Cell Biology,7.08,Cell and Developmental Biology,7,Life Sciences
+7.08.04,Developmental Biology,7.08,Cell and Developmental Biology,7,Life Sciences
+7.08.05,Other Cell and Developmental Biology,7.08,Cell and Developmental Biology,7,Life Sciences
+7.09.00,Ecology and Evolutionary Biology,7.09,Ecology and Evolutionary Biology,7,Life Sciences
+7.09.01,Behavior and Ethology,7.09,Ecology and Evolutionary Biology,7,Life Sciences
+7.09.02,Desert Ecology,7.09,Ecology and Evolutionary Biology,7,Life Sciences
+7.09.03,Evolution,7.09,Ecology and Evolutionary Biology,7,Life Sciences
+7.09.04,Population Biology,7.09,Ecology and Evolutionary Biology,7,Life Sciences
+7.09.05,Terrestrial and Aquatic Ecology,7.09,Ecology and Evolutionary Biology,7,Life Sciences
+7.09.06,Other Ecology and Evolutionary Biology,7.09,Ecology and Evolutionary Biology,7,Life Sciences
+7.10.01,Entomology,7.10,Entomology,7,Life Sciences
+7.11.00,Food Science,7.11,Food Science,7,Life Sciences
+7.11.01,Food Biotechnology,7.11,Food Science,7,Life Sciences
+7.11.02,Food Chemistry,7.11,Food Science,7,Life Sciences
+7.11.03,Food Microbiology,7.11,Food Science,7,Life Sciences
+7.11.04,Food Processing,7.11,Food Science,7,Life Sciences
+7.11.05,Other Food Science,7.11,Food Science,7,Life Sciences
+7.12.00,Forest Sciences,7.12,Forest Sciences,7,Life Sciences
+7.12.01,Forest Biology,7.12,Forest Sciences,7,Life Sciences
+7.12.02,Forest Management,7.12,Forest Sciences,7,Life Sciences
+7.12.03,"Wood Science and Pulp, Paper Technology",7.12,Forest Sciences,7,Life Sciences
+7.12.04,Other Forestry and Forest Sciences,7.12,Forest Sciences,7,Life Sciences
+7.13.00,Genetics and Genomics,7.13,Genetics and Genomics,7,Life Sciences
+7.13.01,Computational Biology,7.13,Genetics and Genomics,7,Life Sciences
+7.13.02,Genetics,7.13,Genetics and Genomics,7,Life Sciences
+7.13.03,Genomics,7.13,Genetics and Genomics,7,Life Sciences
+7.13.04,Molecular Genetics,7.13,Genetics and Genomics,7,Life Sciences
+7.13.05,Other Genetics and Genomics,7.13,Genetics and Genomics,7,Life Sciences
+7.14.00,Immunology and Infectious Disease,7.14,Immunology and Infectious Disease,7,Life Sciences
+7.14.01,Immunity,7.14,Immunology and Infectious Disease,7,Life Sciences
+7.14.02,Immunology of Infectious Disease,7.14,Immunology and Infectious Disease,7,Life Sciences
+7.14.03,Immunopathology,7.14,Immunology and Infectious Disease,7,Life Sciences
+7.14.04,Immunoprophylaxis and Therapy,7.14,Immunology and Infectious Disease,7,Life Sciences
+7.14.05,Parasitology,7.14,Immunology and Infectious Disease,7,Life Sciences
+7.14.06,Other Immunology and Infectious Disease,7.14,Immunology and Infectious Disease,7,Life Sciences
+7.15.00,Kinesiology,7.15,Kinesiology,7,Life Sciences
+7.15.01,Biomechanics,7.15,Kinesiology,7,Life Sciences
+7.15.02,Exercise Science,7.15,Kinesiology,7,Life Sciences
+7.15.03,Expeditionary Education,7.15,Kinesiology,7,Life Sciences
+7.15.04,Motor Control,7.15,Kinesiology,7,Life Sciences
+7.15.05,Psychology of Movement,7.15,Kinesiology,7,Life Sciences
+7.15.06,Other Kinesiology,7.15,Kinesiology,7,Life Sciences
+7.16.01,Laboratory and Basic Science Research,7.16,Laboratory and Basic Science Research,7,Life Sciences
+7.17.01,Marine Biology,7.17,Marine Biology,7,Life Sciences
+7.18.00,Microbiology,7.18,Microbiology,7,Life Sciences
+7.18.01,Bacteriology,7.18,Microbiology,7,Life Sciences
+7.18.02,Environmental Microbiology and Microbial Ecology,7.18,Microbiology,7,Life Sciences
+7.18.03,Microbial Physiology,7.18,Microbiology,7,Life Sciences
+7.18.04,Organismal Biological Physiology,7.18,Microbiology,7,Life Sciences
+7.18.05,Pathogenic Microbiology,7.18,Microbiology,7,Life Sciences
+7.18.06,Virology,7.18,Microbiology,7,Life Sciences
+7.18.07,Other Microbiology,7.18,Microbiology,7,Life Sciences
+7.19.00,Neuroscience and Neurobiology,7.19,Neuroscience and Neurobiology,7,Life Sciences
+7.19.01,Behavioral Neurobiology,7.19,Neuroscience and Neurobiology,7,Life Sciences
+7.19.02,Cognitive Neuroscience,7.19,Neuroscience and Neurobiology,7,Life Sciences
+7.19.03,Computational Neuroscience,7.19,Neuroscience and Neurobiology,7,Life Sciences
+7.19.04,Developmental Neuroscience,7.19,Neuroscience and Neurobiology,7,Life Sciences
+7.19.05,Molecular and Cellular Neuroscience,7.19,Neuroscience and Neurobiology,7,Life Sciences
+7.19.06,Systems Neuroscience,7.19,Neuroscience and Neurobiology,7,Life Sciences
+7.19.07,Other Neuroscience and Neurobiology,7.19,Neuroscience and Neurobiology,7,Life Sciences
+7.20.00,Nutrition,7.20,Nutrition,7,Life Sciences
+7.20.01,Comparative Nutrition,7.20,Nutrition,7,Life Sciences
+7.20.02,Human and Clinical Nutrition,7.20,Nutrition,7,Life Sciences
+7.20.03,International and Community Nutrition,7.20,Nutrition,7,Life Sciences
+7.20.04,"Molecular, Genetic, and Biochemical Nutrition",7.20,Nutrition,7,Life Sciences
+7.20.05,Nutritional Epidemiology,7.20,Nutrition,7,Life Sciences
+7.20.06,Other Nutrition,7.20,Nutrition,7,Life Sciences
+7.21.00,"Pharmacology, Toxicology and Environmental Health",7.21,"Pharmacology, Toxicology and Environmental Health",7,Life Sciences
+7.21.01,Environmental Health,7.21,"Pharmacology, Toxicology and Environmental Health",7,Life Sciences
+7.21.02,Medicinal Chemistry and Pharmaceutics,7.21,"Pharmacology, Toxicology and Environmental Health",7,Life Sciences
+7.21.03,Pharmacology,7.21,"Pharmacology, Toxicology and Environmental Health",7,Life Sciences
+7.21.04,Toxicology,7.21,"Pharmacology, Toxicology and Environmental Health",7,Life Sciences
+7.21.05,"Other Pharmacology, Toxicology and Environmental Health",7.21,"Pharmacology, Toxicology and Environmental Health",7,Life Sciences
+7.22.00,Physiology,7.22,Physiology,7,Life Sciences
+7.22.01,Cellular and Molecular Physiology,7.22,Physiology,7,Life Sciences
+7.22.02,Comparative and Evolutionary Physiology,7.22,Physiology,7,Life Sciences
+7.22.03,Endocrinology,7.22,Physiology,7,Life Sciences
+7.22.04,Exercise Physiology,7.22,Physiology,7,Life Sciences
+7.22.05,Systems and Integrative Physiology,7.22,Physiology,7,Life Sciences
+7.22.06,Other Physiology,7.22,Physiology,7,Life Sciences
+7.23.00,Plant Sciences,7.23,Plant Sciences,7,Life Sciences
+7.23.01,Agricultural Science,7.23,Plant Sciences,7,Life Sciences
+7.23.02,Agronomy and Crop Sciences,7.23,Plant Sciences,7,Life Sciences
+7.23.03,Botany,7.23,Plant Sciences,7,Life Sciences
+7.23.04,Bryology,7.23,Plant Sciences,7,Life Sciences
+7.23.05,Fruit Science,7.23,Plant Sciences,7,Life Sciences
+7.23.06,Horticulture,7.23,Plant Sciences,7,Life Sciences
+7.23.07,Plant Biology,7.23,Plant Sciences,7,Life Sciences
+7.23.08,Plant Breeding and Genetics,7.23,Plant Sciences,7,Life Sciences
+7.23.09,Plant Pathology,7.23,Plant Sciences,7,Life Sciences
+7.23.10,Weed Science,7.23,Plant Sciences,7,Life Sciences
+7.23.11,Other Plant Sciences,7.23,Plant Sciences,7,Life Sciences
+7.24.00,Research Methods in Life Sciences,7.24,Research Methods in Life Sciences,7,Life Sciences
+7.24.01,Animal Experimentation and Research,7.24,Research Methods in Life Sciences,7,Life Sciences
+7.25.01,Systems Biology,7.25,Systems Biology,7,Life Sciences
+7.26.01,Other Life Sciences,7.26,Other Life Sciences,7,Life Sciences
+8.00.00,Medicine and Health Sciences,8.00,Medicine and Health Sciences,8,Medicine and Health Sciences
+8.01.01,Alternative and Complementary Medicine,8.01,Alternative and Complementary Medicine,8,Medicine and Health Sciences
+8.02.00,"Analytical, Diagnostic and Therapeutic Techniques and Equipment",8.02,"Analytical, Diagnostic and Therapeutic Techniques and Equipment",8,Medicine and Health Sciences
+8.02.01,Anesthesia and Analgesia,8.02,"Analytical, Diagnostic and Therapeutic Techniques and Equipment",8,Medicine and Health Sciences
+8.02.02,Diagnosis,8.02,"Analytical, Diagnostic and Therapeutic Techniques and Equipment",8,Medicine and Health Sciences
+8.02.03,Equipment and Supplies,8.02,"Analytical, Diagnostic and Therapeutic Techniques and Equipment",8,Medicine and Health Sciences
+8.02.04,Investigative Techniques,8.02,"Analytical, Diagnostic and Therapeutic Techniques and Equipment",8,Medicine and Health Sciences
+8.02.05,"Surgical Procedures, Operative",8.02,"Analytical, Diagnostic and Therapeutic Techniques and Equipment",8,Medicine and Health Sciences
+8.02.06,Therapeutics,8.02,"Analytical, Diagnostic and Therapeutic Techniques and Equipment",8,Medicine and Health Sciences
+8.02.07,"Other Analytical, Diagnostic and Therapeutic Techniques and Equipment",8.02,"Analytical, Diagnostic and Therapeutic Techniques and Equipment",8,Medicine and Health Sciences
+8.03.00,Anatomy,8.03,Anatomy,8,Medicine and Health Sciences
+8.03.01,Animal Structures,8.03,Anatomy,8,Medicine and Health Sciences
+8.03.02,Body Regions,8.03,Anatomy,8,Medicine and Health Sciences
+8.03.03,Cardiovascular System,8.03,Anatomy,8,Medicine and Health Sciences
+8.03.04,Cells,8.03,Anatomy,8,Medicine and Health Sciences
+8.03.05,Digestive System,8.03,Anatomy,8,Medicine and Health Sciences
+8.03.06,Embryonic Structures,8.03,Anatomy,8,Medicine and Health Sciences
+8.03.07,Endocrine System,8.03,Anatomy,8,Medicine and Health Sciences
+8.03.08,Fluids and Secretions,8.03,Anatomy,8,Medicine and Health Sciences
+8.03.09,Hemic and Immune Systems,8.03,Anatomy,8,Medicine and Health Sciences
+8.03.10,Integumentary System,8.03,Anatomy,8,Medicine and Health Sciences
+8.03.11,Musculoskeletal System,8.03,Anatomy,8,Medicine and Health Sciences
+8.03.12,Nervous System,8.03,Anatomy,8,Medicine and Health Sciences
+8.03.13,Respiratory System,8.03,Anatomy,8,Medicine and Health Sciences
+8.03.14,Sense Organs,8.03,Anatomy,8,Medicine and Health Sciences
+8.03.15,Stomatognathic System,8.03,Anatomy,8,Medicine and Health Sciences
+8.03.16,Tissues,8.03,Anatomy,8,Medicine and Health Sciences
+8.03.17,Urogenital System,8.03,Anatomy,8,Medicine and Health Sciences
+8.04.01,Bioethics and Medical Ethics,8.04,Bioethics and Medical Ethics,8,Medicine and Health Sciences
+8.05.00,Chemicals and Drugs,8.05,Chemicals and Drugs,8,Medicine and Health Sciences
+8.05.01,"Amino Acids, Peptides, and Proteins",8.05,Chemicals and Drugs,8,Medicine and Health Sciences
+8.05.02,Biological Factors,8.05,Chemicals and Drugs,8,Medicine and Health Sciences
+8.05.03,Biomedical and Dental Materials,8.05,Chemicals and Drugs,8,Medicine and Health Sciences
+8.05.04,Carbohydrates,8.05,Chemicals and Drugs,8,Medicine and Health Sciences
+8.05.05,Chemical Actions and Uses,8.05,Chemicals and Drugs,8,Medicine and Health Sciences
+8.05.06,Complex Mixtures,8.05,Chemicals and Drugs,8,Medicine and Health Sciences
+8.05.07,Enzymes and Coenzymes,8.05,Chemicals and Drugs,8,Medicine and Health Sciences
+8.05.08,Heterocyclic Compounds,8.05,Chemicals and Drugs,8,Medicine and Health Sciences
+8.05.09,"Hormones, Hormone Substitutes, and Hormone Antagonists",8.05,Chemicals and Drugs,8,Medicine and Health Sciences
+8.05.10,Inorganic Chemicals,8.05,Chemicals and Drugs,8,Medicine and Health Sciences
+8.05.11,Lipids,8.05,Chemicals and Drugs,8,Medicine and Health Sciences
+8.05.12,Macromolecular Substances,8.05,Chemicals and Drugs,8,Medicine and Health Sciences
+8.05.13,"Nucleic Acids, Nucleotides, and Nucleosides",8.05,Chemicals and Drugs,8,Medicine and Health Sciences
+8.05.14,Organic Chemicals,8.05,Chemicals and Drugs,8,Medicine and Health Sciences
+8.05.15,Pharmaceutical Preparations,8.05,Chemicals and Drugs,8,Medicine and Health Sciences
+8.05.16,Polycyclic Compounds,8.05,Chemicals and Drugs,8,Medicine and Health Sciences
+8.05.17,Other Chemicals and Drugs,8.05,Chemicals and Drugs,8,Medicine and Health Sciences
+8.06.00,Communication Sciences and Disorders,8.06,Communication Sciences and Disorders,8,Medicine and Health Sciences
+8.06.01,Speech and Hearing Science,8.06,Communication Sciences and Disorders,8,Medicine and Health Sciences
+8.06.02,Speech Pathology and Audiology,8.06,Communication Sciences and Disorders,8,Medicine and Health Sciences
+8.07.00,Dentistry,8.07,Dentistry,8,Medicine and Health Sciences
+8.07.01,Dental Hygiene,8.07,Dentistry,8,Medicine and Health Sciences
+8.07.02,Dental Materials,8.07,Dentistry,8,Medicine and Health Sciences
+8.07.03,Dental Public Health and Education,8.07,Dentistry,8,Medicine and Health Sciences
+8.07.04,Endodontics and Endodontology,8.07,Dentistry,8,Medicine and Health Sciences
+8.07.05,Oral and Maxillofacial Surgery,8.07,Dentistry,8,Medicine and Health Sciences
+8.07.06,Oral Biology and Oral Pathology,8.07,Dentistry,8,Medicine and Health Sciences
+8.07.07,Orthodontics and Orthodontology,8.07,Dentistry,8,Medicine and Health Sciences
+8.07.08,Pediatric Dentistry and Pedodontics,8.07,Dentistry,8,Medicine and Health Sciences
+8.07.09,Periodontics and Periodontology,8.07,Dentistry,8,Medicine and Health Sciences
+8.07.10,Prosthodontics and Prosthodontology,8.07,Dentistry,8,Medicine and Health Sciences
+8.07.11,Other Dentistry,8.07,Dentistry,8,Medicine and Health Sciences
+8.08.01,Dietetics and Clinical Nutrition,8.08,Dietetics and Clinical Nutrition,8,Medicine and Health Sciences
+8.09.00,Diseases,8.09,Diseases,8,Medicine and Health Sciences
+8.09.01,Animal Diseases,8.09,Diseases,8,Medicine and Health Sciences
+8.09.02,Bacterial Infections and Mycoses,8.09,Diseases,8,Medicine and Health Sciences
+8.09.03,Cardiovascular Diseases,8.09,Diseases,8,Medicine and Health Sciences
+8.09.04,"Congenital, Hereditary, and Neonatal Diseases and Abnormalities",8.09,Diseases,8,Medicine and Health Sciences
+8.09.05,Digestive System Diseases,8.09,Diseases,8,Medicine and Health Sciences
+8.09.06,Disease Modeling,8.09,Diseases,8,Medicine and Health Sciences
+8.09.07,Disorders of Environmental Origin,8.09,Diseases,8,Medicine and Health Sciences
+8.09.08,Endocrine System Diseases,8.09,Diseases,8,Medicine and Health Sciences
+8.09.09,Eye Diseases,8.09,Diseases,8,Medicine and Health Sciences
+8.09.10,Female Urogenital Diseases and Pregnancy Complications,8.09,Diseases,8,Medicine and Health Sciences
+8.09.11,Hemic and Lymphatic Diseases,8.09,Diseases,8,Medicine and Health Sciences
+8.09.12,Immune System Diseases,8.09,Diseases,8,Medicine and Health Sciences
+8.09.13,Male Urogenital Diseases,8.09,Diseases,8,Medicine and Health Sciences
+8.09.14,Musculoskeletal Diseases,8.09,Diseases,8,Medicine and Health Sciences
+8.09.15,Neoplasms,8.09,Diseases,8,Medicine and Health Sciences
+8.09.16,Nervous System Diseases,8.09,Diseases,8,Medicine and Health Sciences
+8.09.17,Nutritional and Metabolic Diseases,8.09,Diseases,8,Medicine and Health Sciences
+8.09.18,Otorhinolaryngologic Diseases,8.09,Diseases,8,Medicine and Health Sciences
+8.09.19,Parasitic Diseases,8.09,Diseases,8,Medicine and Health Sciences
+8.09.20,"Pathological Conditions, Signs and Symptoms",8.09,Diseases,8,Medicine and Health Sciences
+8.09.21,Respiratory Tract Diseases,8.09,Diseases,8,Medicine and Health Sciences
+8.09.22,Skin and Connective Tissue Diseases,8.09,Diseases,8,Medicine and Health Sciences
+8.09.23,Stomatognathic Diseases,8.09,Diseases,8,Medicine and Health Sciences
+8.09.24,Virus Diseases,8.09,Diseases,8,Medicine and Health Sciences
+8.10.00,Health Information Technology,8.10,Health Information Technology,8,Medicine and Health Sciences
+8.10.01,Telemedicine,8.10,Health Information Technology,8,Medicine and Health Sciences
+8.11.01,Health and Medical Administration,8.11,Health and Medical Administration,8,Medicine and Health Sciences
+8.12.00,Medical Education,8.12,Medical Education,8,Medicine and Health Sciences
+8.12.01,Interprofessional Education,8.12,Medical Education,8,Medicine and Health Sciences
+8.13.01,Medical Humanities,8.13,Medical Humanities,8,Medicine and Health Sciences
+8.14.00,Medical Sciences,8.14,Medical Sciences,8,Medicine and Health Sciences
+8.14.01,"Biochemical Phenomena, Metabolism, and Nutrition",8.14,Medical Sciences,8,Medicine and Health Sciences
+8.14.02,"Biological Phenomena, Cell Phenomena, and Immunity",8.14,Medical Sciences,8,Medicine and Health Sciences
+8.14.03,Chemical and Pharmacologic Phenomena,8.14,Medical Sciences,8,Medicine and Health Sciences
+8.14.04,Circulatory and Respiratory Physiology,8.14,Medical Sciences,8,Medicine and Health Sciences
+8.14.05,"Digestive, Oral, and Skin Physiology",8.14,Medical Sciences,8,Medicine and Health Sciences
+8.14.06,Genetic Phenomena,8.14,Medical Sciences,8,Medicine and Health Sciences
+8.14.07,Genetic Processes,8.14,Medical Sciences,8,Medicine and Health Sciences
+8.14.08,Genetic Structures,8.14,Medical Sciences,8,Medicine and Health Sciences
+8.14.09,Medical Anatomy,8.14,Medical Sciences,8,Medicine and Health Sciences
+8.14.10,Medical Biochemistry,8.14,Medical Sciences,8,Medicine and Health Sciences
+8.14.11,Medical Biomathematics and Biometrics,8.14,Medical Sciences,8,Medicine and Health Sciences
+8.14.12,Medical Biophysics,8.14,Medical Sciences,8,Medicine and Health Sciences
+8.14.13,Medical Biotechnology,8.14,Medical Sciences,8,Medicine and Health Sciences
+8.14.14,Medical Cell Biology,8.14,Medical Sciences,8,Medicine and Health Sciences
+8.14.15,Medical Genetics,8.14,Medical Sciences,8,Medicine and Health Sciences
+8.14.16,Medical Immunology,8.14,Medical Sciences,8,Medicine and Health Sciences
+8.14.17,Medical Microbiology,8.14,Medical Sciences,8,Medicine and Health Sciences
+8.14.18,Medical Molecular Biology,8.14,Medical Sciences,8,Medicine and Health Sciences
+8.14.19,Medical Neurobiology,8.14,Medical Sciences,8,Medicine and Health Sciences
+8.14.20,Medical Nutrition,8.14,Medical Sciences,8,Medicine and Health Sciences
+8.14.21,Medical Pathology,8.14,Medical Sciences,8,Medicine and Health Sciences
+8.14.22,Medical Pharmacology,8.14,Medical Sciences,8,Medicine and Health Sciences
+8.14.23,Medical Physiology,8.14,Medical Sciences,8,Medicine and Health Sciences
+8.14.24,Medical Toxicology,8.14,Medical Sciences,8,Medicine and Health Sciences
+8.14.25,"Musculoskeletal, Neural, and Ocular Physiology",8.14,Medical Sciences,8,Medicine and Health Sciences
+8.14.26,Neurosciences,8.14,Medical Sciences,8,Medicine and Health Sciences
+8.14.27,Physiological Processes,8.14,Medical Sciences,8,Medicine and Health Sciences
+8.14.28,Reproductive and Urinary Physiology,8.14,Medical Sciences,8,Medicine and Health Sciences
+8.14.29,Other Medical Sciences,8.14,Medical Sciences,8,Medicine and Health Sciences
+8.15.00,Medical Specialties,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.01,Allergy and Immunology,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.02,Anesthesiology,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.03,Cardiology,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.04,Critical Care,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.05,Dermatology,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.06,Emergency Medicine,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.07,"Endocrinology, Diabetes, and Metabolism",8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.08,Family Medicine,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.09,Gastroenterology,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.10,Geriatrics,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.11,Hematology,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.12,Hepatology,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.13,Infectious Disease,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.14,Integrative Medicine,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.15,Internal Medicine,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.16,Nephrology,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.17,Neurology,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.18,Obstetrics and Gynecology,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.19,Oncology,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.20,Ophthalmology,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.21,Orthopedics,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.22,Osteopathic Medicine and Osteopathy,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.23,Otolaryngology,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.24,Palliative Care,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.25,Pathology,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.26,Pediatrics,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.27,Plastic Surgery,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.28,Podiatry,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.29,Preventive Medicine,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.30,Primary Care,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.31,Psychiatry,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.32,Pulmonology,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.33,Radiology,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.34,Rheumatology,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.35,Sleep Medicine,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.36,Sports Medicine,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.37,Surgery,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.38,Trauma,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.39,Tropical Medicine,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.40,Urology,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.15.41,Other Medical Specialties,8.15,Medical Specialties,8,Medicine and Health Sciences
+8.16.00,Mental and Social Health,8.16,Mental and Social Health,8,Medicine and Health Sciences
+8.16.01,Animal-Assisted Therapy,8.16,Mental and Social Health,8,Medicine and Health Sciences
+8.16.02,Art Therapy,8.16,Mental and Social Health,8,Medicine and Health Sciences
+8.16.03,Clinical and Medical Social Work,8.16,Mental and Social Health,8,Medicine and Health Sciences
+8.16.04,Cognitive Behavioral Therapy,8.16,Mental and Social Health,8,Medicine and Health Sciences
+8.16.05,Community Health,8.16,Mental and Social Health,8,Medicine and Health Sciences
+8.16.06,Marriage and Family Therapy and Counseling,8.16,Mental and Social Health,8,Medicine and Health Sciences
+8.16.07,Psychiatric and Mental Health,8.16,Mental and Social Health,8,Medicine and Health Sciences
+8.16.08,Psychoanalysis and Psychotherapy,8.16,Mental and Social Health,8,Medicine and Health Sciences
+8.16.09,Substance Abuse and Addiction,8.16,Mental and Social Health,8,Medicine and Health Sciences
+8.16.10,Other Mental and Social Health,8.16,Mental and Social Health,8,Medicine and Health Sciences
+8.17.00,Nanotechnology,8.17,Nanotechnology,8,Medicine and Health Sciences
+8.17.01,Nanomedicine,8.17,Nanotechnology,8,Medicine and Health Sciences
+8.18.00,Nursing,8.18,Nursing,8,Medicine and Health Sciences
+8.18.01,Critical Care Nursing,8.18,Nursing,8,Medicine and Health Sciences
+8.18.02,Family Practice Nursing,8.18,Nursing,8,Medicine and Health Sciences
+8.18.03,Geriatric Nursing,8.18,Nursing,8,Medicine and Health Sciences
+8.18.04,"Maternal, Child Health and Neonatal Nursing",8.18,Nursing,8,Medicine and Health Sciences
+8.18.05,Nursing Administration,8.18,Nursing,8,Medicine and Health Sciences
+8.18.06,Nursing Midwifery,8.18,Nursing,8,Medicine and Health Sciences
+8.18.07,Occupational and Environmental Health Nursing,8.18,Nursing,8,Medicine and Health Sciences
+8.18.08,Pediatric Nursing,8.18,Nursing,8,Medicine and Health Sciences
+8.18.09,"Perioperative, Operating Room and Surgical Nursing",8.18,Nursing,8,Medicine and Health Sciences
+8.18.10,Psychiatric and Mental Health Nursing,8.18,Nursing,8,Medicine and Health Sciences
+8.18.11,Public Health and Community Nursing,8.18,Nursing,8,Medicine and Health Sciences
+8.18.12,Other Nursing,8.18,Nursing,8,Medicine and Health Sciences
+8.19.01,Optometry,8.19,Optometry,8,Medicine and Health Sciences
+8.20.00,Organisms,8.20,Organisms,8,Medicine and Health Sciences
+8.20.01,Algae,8.20,Organisms,8,Medicine and Health Sciences
+8.20.02,Animals,8.20,Organisms,8,Medicine and Health Sciences
+8.20.03,Archaea,8.20,Organisms,8,Medicine and Health Sciences
+8.20.04,Bacteria,8.20,Organisms,8,Medicine and Health Sciences
+8.20.05,Fungi,8.20,Organisms,8,Medicine and Health Sciences
+8.20.06,Mesomycetozoea,8.20,Organisms,8,Medicine and Health Sciences
+8.20.07,Plants,8.20,Organisms,8,Medicine and Health Sciences
+8.20.08,Viruses,8.20,Organisms,8,Medicine and Health Sciences
+8.21.00,Pharmacy and Pharmaceutical Sciences,8.21,Pharmacy and Pharmaceutical Sciences,8,Medicine and Health Sciences
+8.21.01,Medicinal and Pharmaceutical Chemistry,8.21,Pharmacy and Pharmaceutical Sciences,8,Medicine and Health Sciences
+8.21.02,Natural Products Chemistry and Pharmacognosy,8.21,Pharmacy and Pharmaceutical Sciences,8,Medicine and Health Sciences
+8.21.03,Pharmaceutics and Drug Design,8.21,Pharmacy and Pharmaceutical Sciences,8,Medicine and Health Sciences
+8.21.04,Pharmacoeconomics and Pharmaceutical Economics,8.21,Pharmacy and Pharmaceutical Sciences,8,Medicine and Health Sciences
+8.21.05,"Pharmacy Administration, Policy and Regulation",8.21,Pharmacy and Pharmaceutical Sciences,8,Medicine and Health Sciences
+8.21.06,Other Pharmacy and Pharmaceutical Sciences,8.21,Pharmacy and Pharmaceutical Sciences,8,Medicine and Health Sciences
+8.22.00,Psychiatry and Psychology,8.22,Psychiatry and Psychology,8,Medicine and Health Sciences
+8.22.01,Behavior and Behavior Mechanisms,8.22,Psychiatry and Psychology,8,Medicine and Health Sciences
+8.22.02,Behavioral Disciplines and Activities,8.22,Psychiatry and Psychology,8,Medicine and Health Sciences
+8.22.03,Dance Movement Therapy,8.22,Psychiatry and Psychology,8,Medicine and Health Sciences
+8.22.04,Mental Disorders,8.22,Psychiatry and Psychology,8,Medicine and Health Sciences
+8.22.05,Psychological Phenomena and Processes,8.22,Psychiatry and Psychology,8,Medicine and Health Sciences
+8.22.06,Other Psychiatry and Psychology,8.22,Psychiatry and Psychology,8,Medicine and Health Sciences
+8.23.00,Public Health,8.23,Public Health,8,Medicine and Health Sciences
+8.23.01,Clinical Epidemiology,8.23,Public Health,8,Medicine and Health Sciences
+8.23.02,Community Health and Preventive Medicine,8.23,Public Health,8,Medicine and Health Sciences
+8.23.03,Environmental Public Health,8.23,Public Health,8,Medicine and Health Sciences
+8.23.04,Epidemiology,8.23,Public Health,8,Medicine and Health Sciences
+8.23.05,Health and Medical Physics,8.23,Public Health,8,Medicine and Health Sciences
+8.23.06,Health Services Administration,8.23,Public Health,8,Medicine and Health Sciences
+8.23.07,Health Services Research,8.23,Public Health,8,Medicine and Health Sciences
+8.23.08,Influenza Humans,8.23,Public Health,8,Medicine and Health Sciences
+8.23.09,Influenza Virus Vaccines,8.23,Public Health,8,Medicine and Health Sciences
+8.23.10,International Public Health,8.23,Public Health,8,Medicine and Health Sciences
+8.23.11,Maternal and Child Health,8.23,Public Health,8,Medicine and Health Sciences
+8.23.12,Occupational Health and Industrial Hygiene,8.23,Public Health,8,Medicine and Health Sciences
+8.23.13,Public Health Education and Promotion,8.23,Public Health,8,Medicine and Health Sciences
+8.23.14,Women's Health,8.23,Public Health,8,Medicine and Health Sciences
+8.23.15,Other Public Health,8.23,Public Health,8,Medicine and Health Sciences
+8.24.00,Rehabilitation and Therapy,8.24,Rehabilitation and Therapy,8,Medicine and Health Sciences
+8.24.01,Kinesiotherapy,8.24,Rehabilitation and Therapy,8,Medicine and Health Sciences
+8.24.02,Movement and Mind-Body Therapies,8.24,Rehabilitation and Therapy,8,Medicine and Health Sciences
+8.24.03,Occupational Therapy,8.24,Rehabilitation and Therapy,8,Medicine and Health Sciences
+8.24.04,Orthotics and Prosthetics,8.24,Rehabilitation and Therapy,8,Medicine and Health Sciences
+8.24.05,Physical Therapy,8.24,Rehabilitation and Therapy,8,Medicine and Health Sciences
+8.24.06,Physiotherapy,8.24,Rehabilitation and Therapy,8,Medicine and Health Sciences
+8.24.07,Recreational Therapy,8.24,Rehabilitation and Therapy,8,Medicine and Health Sciences
+8.24.08,Respiratory Therapy,8.24,Rehabilitation and Therapy,8,Medicine and Health Sciences
+8.24.09,Somatic Bodywork and Related Therapeutic Practices,8.24,Rehabilitation and Therapy,8,Medicine and Health Sciences
+8.24.10,Vocational Rehabilitation Counseling,8.24,Rehabilitation and Therapy,8,Medicine and Health Sciences
+8.24.11,Other Rehabilitation and Therapy,8.24,Rehabilitation and Therapy,8,Medicine and Health Sciences
+8.25.01,Sports Sciences,8.25,Sports Sciences,8,Medicine and Health Sciences
+8.26.01,Translational Medical Research,8.26,Translational Medical Research,8,Medicine and Health Sciences
+8.27.00,Veterinary Medicine,8.27,Veterinary Medicine,8,Medicine and Health Sciences
+8.27.01,Comparative and Laboratory Animal Medicine,8.27,Veterinary Medicine,8,Medicine and Health Sciences
+8.27.02,Large or Food Animal and Equine Medicine,8.27,Veterinary Medicine,8,Medicine and Health Sciences
+8.27.03,Small or Companion Animal Medicine,8.27,Veterinary Medicine,8,Medicine and Health Sciences
+8.27.04,Veterinary Anatomy,8.27,Veterinary Medicine,8,Medicine and Health Sciences
+8.27.05,Veterinary Infectious Diseases,8.27,Veterinary Medicine,8,Medicine and Health Sciences
+8.27.06,Veterinary Microbiology and Immunobiology,8.27,Veterinary Medicine,8,Medicine and Health Sciences
+8.27.07,Veterinary Pathology and Pathobiology,8.27,Veterinary Medicine,8,Medicine and Health Sciences
+8.27.08,Veterinary Physiology,8.27,Veterinary Medicine,8,Medicine and Health Sciences
+8.27.09,"Veterinary Preventive Medicine, Epidemiology, and Public Health",8.27,Veterinary Medicine,8,Medicine and Health Sciences
+8.27.10,Veterinary Toxicology and Pharmacology,8.27,Veterinary Medicine,8,Medicine and Health Sciences
+8.27.11,Other Veterinary Medicine,8.27,Veterinary Medicine,8,Medicine and Health Sciences
+8.28.01,Other Medicine and Health Sciences,8.28,Other Medicine and Health Sciences,8,Medicine and Health Sciences
+9.00.00,Physical Sciences and Mathematics,9.00,Physical Sciences and Mathematics,9,Physical Sciences and Mathematics
+9.01.00,Applied Mathematics,9.01,Applied Mathematics,9,Physical Sciences and Mathematics
+9.01.01,Control Theory,9.01,Applied Mathematics,9,Physical Sciences and Mathematics
+9.01.02,Dynamic Systems,9.01,Applied Mathematics,9,Physical Sciences and Mathematics
+9.01.03,Non-linear Dynamics,9.01,Applied Mathematics,9,Physical Sciences and Mathematics
+9.01.04,Numerical Analysis and Computation,9.01,Applied Mathematics,9,Physical Sciences and Mathematics
+9.01.05,Ordinary Differential Equations and Applied Dynamics,9.01,Applied Mathematics,9,Physical Sciences and Mathematics
+9.01.06,Partial Differential Equations,9.01,Applied Mathematics,9,Physical Sciences and Mathematics
+9.01.07,Special Functions,9.01,Applied Mathematics,9,Physical Sciences and Mathematics
+9.01.08,Other Applied Mathematics,9.01,Applied Mathematics,9,Physical Sciences and Mathematics
+9.02.00,Astrophysics and Astronomy,9.02,Astrophysics and Astronomy,9,Physical Sciences and Mathematics
+9.02.01,"Cosmology, Relativity, and Gravity",9.02,Astrophysics and Astronomy,9,Physical Sciences and Mathematics
+9.02.02,External Galaxies,9.02,Astrophysics and Astronomy,9,Physical Sciences and Mathematics
+9.02.03,Instrumentation,9.02,Astrophysics and Astronomy,9,Physical Sciences and Mathematics
+9.02.04,Physical Processes,9.02,Astrophysics and Astronomy,9,Physical Sciences and Mathematics
+9.02.05,"Stars, Interstellar Medium and the Galaxy",9.02,Astrophysics and Astronomy,9,Physical Sciences and Mathematics
+9.02.06,The Sun and the Solar System,9.02,Astrophysics and Astronomy,9,Physical Sciences and Mathematics
+9.02.07,Other Astrophysics and Astronomy,9.02,Astrophysics and Astronomy,9,Physical Sciences and Mathematics
+9.03.00,Chemistry,9.03,Chemistry,9,Physical Sciences and Mathematics
+9.03.01,Analytical Chemistry,9.03,Chemistry,9,Physical Sciences and Mathematics
+9.03.02,Environmental Chemistry,9.03,Chemistry,9,Physical Sciences and Mathematics
+9.03.03,Inorganic Chemistry,9.03,Chemistry,9,Physical Sciences and Mathematics
+9.03.04,Materials Chemistry,9.03,Chemistry,9,Physical Sciences and Mathematics
+9.03.05,Medicinal-Pharmaceutical Chemistry,9.03,Chemistry,9,Physical Sciences and Mathematics
+9.03.06,Organic Chemistry,9.03,Chemistry,9,Physical Sciences and Mathematics
+9.03.07,Physical Chemistry,9.03,Chemistry,9,Physical Sciences and Mathematics
+9.03.08,Polymer Chemistry,9.03,Chemistry,9,Physical Sciences and Mathematics
+9.03.09,Radiochemistry,9.03,Chemistry,9,Physical Sciences and Mathematics
+9.03.10,Other Chemistry,9.03,Chemistry,9,Physical Sciences and Mathematics
+9.04.00,Computer Sciences,9.04,Computer Sciences,9,Physical Sciences and Mathematics
+9.04.01,Artificial Intelligence and Robotics,9.04,Computer Sciences,9,Physical Sciences and Mathematics
+9.04.02,Information Security,9.04,Computer Sciences,9,Physical Sciences and Mathematics
+9.04.03,Databases and Information Systems,9.04,Computer Sciences,9,Physical Sciences and Mathematics
+9.04.04,Graphics and Human Computer Interfaces,9.04,Computer Sciences,9,Physical Sciences and Mathematics
+9.04.05,Numerical Analysis and Scientific Computing,9.04,Computer Sciences,9,Physical Sciences and Mathematics
+9.04.06,OS and Networks,9.04,Computer Sciences,9,Physical Sciences and Mathematics
+9.04.07,Programming Languages and Compilers,9.04,Computer Sciences,9,Physical Sciences and Mathematics
+9.04.08,Software Engineering,9.04,Computer Sciences,9,Physical Sciences and Mathematics
+9.04.09,Systems Architecture,9.04,Computer Sciences,9,Physical Sciences and Mathematics
+9.04.10,Theory and Algorithms,9.04,Computer Sciences,9,Physical Sciences and Mathematics
+9.04.11,Other Computer Sciences,9.04,Computer Sciences,9,Physical Sciences and Mathematics
+9.05.00,Earth Sciences,9.05,Earth Sciences,9,Physical Sciences and Mathematics
+9.05.01,Biogeochemistry,9.05,Earth Sciences,9,Physical Sciences and Mathematics
+9.05.02,Cosmochemistry,9.05,Earth Sciences,9,Physical Sciences and Mathematics
+9.05.03,Geochemistry,9.05,Earth Sciences,9,Physical Sciences and Mathematics
+9.05.04,Geology,9.05,Earth Sciences,9,Physical Sciences and Mathematics
+9.05.05,Geomorphology,9.05,Earth Sciences,9,Physical Sciences and Mathematics
+9.05.06,Geophysics and Seismology,9.05,Earth Sciences,9,Physical Sciences and Mathematics
+9.05.07,Glaciology,9.05,Earth Sciences,9,Physical Sciences and Mathematics
+9.05.08,Hydrology,9.05,Earth Sciences,9,Physical Sciences and Mathematics
+9.05.09,Mineral Physics,9.05,Earth Sciences,9,Physical Sciences and Mathematics
+9.05.10,Paleobiology,9.05,Earth Sciences,9,Physical Sciences and Mathematics
+9.05.11,Paleontology,9.05,Earth Sciences,9,Physical Sciences and Mathematics
+9.05.12,Sedimentology,9.05,Earth Sciences,9,Physical Sciences and Mathematics
+9.05.13,Soil Science,9.05,Earth Sciences,9,Physical Sciences and Mathematics
+9.05.14,Speleology,9.05,Earth Sciences,9,Physical Sciences and Mathematics
+9.05.15,Stratigraphy,9.05,Earth Sciences,9,Physical Sciences and Mathematics
+9.05.16,Tectonics and Structure,9.05,Earth Sciences,9,Physical Sciences and Mathematics
+9.05.17,Volcanology,9.05,Earth Sciences,9,Physical Sciences and Mathematics
+9.05.18,Other Earth Sciences,9.05,Earth Sciences,9,Physical Sciences and Mathematics
+9.06.00,Environmental Sciences,9.06,Environmental Sciences,9,Physical Sciences and Mathematics
+9.06.01,Environmental Education,9.06,Environmental Sciences,9,Physical Sciences and Mathematics
+9.06.02,Environmental Health and Protection,9.06,Environmental Sciences,9,Physical Sciences and Mathematics
+9.06.03,Environmental Indicators and Impact Assessment,9.06,Environmental Sciences,9,Physical Sciences and Mathematics
+9.06.04,Environmental Monitoring,9.06,Environmental Sciences,9,Physical Sciences and Mathematics
+9.06.05,Natural Resource Economics,9.06,Environmental Sciences,9,Physical Sciences and Mathematics
+9.06.06,Natural Resources and Conservation,9.06,Environmental Sciences,9,Physical Sciences and Mathematics
+9.06.07,Natural Resources Management and Policy,9.06,Environmental Sciences,9,Physical Sciences and Mathematics
+9.06.08,"Oil, Gas, and Energy",9.06,Environmental Sciences,9,Physical Sciences and Mathematics
+9.06.09,Sustainability,9.06,Environmental Sciences,9,Physical Sciences and Mathematics
+9.06.10,Water Resource Management,9.06,Environmental Sciences,9,Physical Sciences and Mathematics
+9.06.11,Other Environmental Sciences,9.06,Environmental Sciences,9,Physical Sciences and Mathematics
+9.07.00,Mathematics,9.07,Mathematics,9,Physical Sciences and Mathematics
+9.07.01,Algebra,9.07,Mathematics,9,Physical Sciences and Mathematics
+9.07.02,Algebraic Geometry,9.07,Mathematics,9,Physical Sciences and Mathematics
+9.07.03,Analysis,9.07,Mathematics,9,Physical Sciences and Mathematics
+9.07.04,Discrete Mathematics and Combinatorics,9.07,Mathematics,9,Physical Sciences and Mathematics
+9.07.05,Dynamical Systems,9.07,Mathematics,9,Physical Sciences and Mathematics
+9.07.06,Geometry and Topology,9.07,Mathematics,9,Physical Sciences and Mathematics
+9.07.07,Harmonic Analysis and Representation,9.07,Mathematics,9,Physical Sciences and Mathematics
+9.07.08,Logic and Foundations,9.07,Mathematics,9,Physical Sciences and Mathematics
+9.07.09,Number Theory,9.07,Mathematics,9,Physical Sciences and Mathematics
+9.07.10,Set Theory,9.07,Mathematics,9,Physical Sciences and Mathematics
+9.07.11,Other Mathematics,9.07,Mathematics,9,Physical Sciences and Mathematics
+9.08.00,Oceanography and Atmospheric Sciences and Meteorology,9.08,Oceanography and Atmospheric Sciences and Meteorology,9,Physical Sciences and Mathematics
+9.08.01,Atmospheric Sciences,9.08,Oceanography and Atmospheric Sciences and Meteorology,9,Physical Sciences and Mathematics
+9.08.02,Climate,9.08,Oceanography and Atmospheric Sciences and Meteorology,9,Physical Sciences and Mathematics
+9.08.03,Fresh Water Studies,9.08,Oceanography and Atmospheric Sciences and Meteorology,9,Physical Sciences and Mathematics
+9.08.04,Meteorology,9.08,Oceanography and Atmospheric Sciences and Meteorology,9,Physical Sciences and Mathematics
+9.08.05,Oceanography,9.08,Oceanography and Atmospheric Sciences and Meteorology,9,Physical Sciences and Mathematics
+9.08.06,Other Oceanography and Atmospheric Sciences and Meteorology,9.08,Oceanography and Atmospheric Sciences and Meteorology,9,Physical Sciences and Mathematics
+9.09.00,Physics,9.09,Physics,9,Physical Sciences and Mathematics
+9.09.01,"Atomic, Molecular and Optical Physics",9.09,Physics,9,Physical Sciences and Mathematics
+9.09.02,Biological and Chemical Physics,9.09,Physics,9,Physical Sciences and Mathematics
+9.09.03,Condensed Matter Physics,9.09,Physics,9,Physical Sciences and Mathematics
+9.09.04,Elementary Particles and Fields and String Theory,9.09,Physics,9,Physical Sciences and Mathematics
+9.09.05,Engineering Physics,9.09,Physics,9,Physical Sciences and Mathematics
+9.09.06,Fluid Dynamics,9.09,Physics,9,Physical Sciences and Mathematics
+9.09.07,Nuclear,9.09,Physics,9,Physical Sciences and Mathematics
+9.09.08,Optics,9.09,Physics,9,Physical Sciences and Mathematics
+9.09.09,Plasma and Beam Physics,9.09,Physics,9,Physical Sciences and Mathematics
+9.09.10,Quantum Physics,9.09,Physics,9,Physical Sciences and Mathematics
+9.09.11,"Statistical, Nonlinear, and Soft Matter Physics",9.09,Physics,9,Physical Sciences and Mathematics
+9.09.12,Other Physics,9.09,Physics,9,Physical Sciences and Mathematics
+9.10.00,Statistics and Probability,9.10,Statistics and Probability,9,Physical Sciences and Mathematics
+9.10.01,Applied Statistics,9.10,Statistics and Probability,9,Physical Sciences and Mathematics
+9.10.02,Biometry,9.10,Statistics and Probability,9,Physical Sciences and Mathematics
+9.10.03,Biostatistics,9.10,Statistics and Probability,9,Physical Sciences and Mathematics
+9.10.04,Categorical Data Analysis,9.10,Statistics and Probability,9,Physical Sciences and Mathematics
+9.10.05,Clinical Trials,9.10,Statistics and Probability,9,Physical Sciences and Mathematics
+9.10.06,Design of Experiments and Sample Surveys,9.10,Statistics and Probability,9,Physical Sciences and Mathematics
+9.10.07,Institutional and Historical,9.10,Statistics and Probability,9,Physical Sciences and Mathematics
+9.10.08,Longitudinal Data Analysis and Time Series,9.10,Statistics and Probability,9,Physical Sciences and Mathematics
+9.10.09,Microarrays,9.10,Statistics and Probability,9,Physical Sciences and Mathematics
+9.10.10,Multivariate Analysis,9.10,Statistics and Probability,9,Physical Sciences and Mathematics
+9.10.11,Probability,9.10,Statistics and Probability,9,Physical Sciences and Mathematics
+9.10.12,Statistical Methodology,9.10,Statistics and Probability,9,Physical Sciences and Mathematics
+9.10.13,Statistical Models,9.10,Statistics and Probability,9,Physical Sciences and Mathematics
+9.10.14,Statistical Theory,9.10,Statistics and Probability,9,Physical Sciences and Mathematics
+9.10.15,Survival Analysis,9.10,Statistics and Probability,9,Physical Sciences and Mathematics
+9.10.16,Vital and Health Statistics,9.10,Statistics and Probability,9,Physical Sciences and Mathematics
+9.10.17,Other Statistics and Probability,9.10,Statistics and Probability,9,Physical Sciences and Mathematics
+9.11.01,Other Physical Sciences and Mathematics,9.11,Other Physical Sciences and Mathematics,9,Physical Sciences and Mathematics
+10.00.00,Social and Behavioral Sciences,10.00,Social and Behavioral Sciences,10,Social and Behavioral Sciences
+10.01.00,Agricultural and Resource Economics,10.01,Agricultural and Resource Economics,10,Social and Behavioral Sciences
+10.01.01,Food Security,10.01,Agricultural and Resource Economics,10,Social and Behavioral Sciences
+10.02.01,Animal Studies,10.02,Animal Studies,10,Social and Behavioral Sciences
+10.03.00,Anthropology,10.03,Anthropology,10,Social and Behavioral Sciences
+10.03.01,Archaeological Anthropology,10.03,Anthropology,10,Social and Behavioral Sciences
+10.03.02,Biological and Physical Anthropology,10.03,Anthropology,10,Social and Behavioral Sciences
+10.03.03,Folklore,10.03,Anthropology,10,Social and Behavioral Sciences
+10.03.04,Linguistic Anthropology,10.03,Anthropology,10,Social and Behavioral Sciences
+10.03.05,Social and Cultural Anthropology,10.03,Anthropology,10,Social and Behavioral Sciences
+10.03.06,Other Anthropology,10.03,Anthropology,10,Social and Behavioral Sciences
+10.04.00,Communication,10.04,Communication,10,Social and Behavioral Sciences
+10.04.01,Broadcast and Video Studies,10.04,Communication,10,Social and Behavioral Sciences
+10.04.02,Communication Technology and New Media,10.04,Communication,10,Social and Behavioral Sciences
+10.04.03,Critical and Cultural Studies,10.04,Communication,10,Social and Behavioral Sciences
+10.04.04,"Gender, Race, Sexuality, and Ethnicity in Communication",10.04,Communication,10,Social and Behavioral Sciences
+10.04.05,Graphic Communications,10.04,Communication,10,Social and Behavioral Sciences
+10.04.06,Health Communication,10.04,Communication,10,Social and Behavioral Sciences
+10.04.07,International and Intercultural Communication,10.04,Communication,10,Social and Behavioral Sciences
+10.04.08,Interpersonal and Small Group Communication,10.04,Communication,10,Social and Behavioral Sciences
+10.04.09,Journalism Studies,10.04,Communication,10,Social and Behavioral Sciences
+10.04.10,Mass Communication,10.04,Communication,10,Social and Behavioral Sciences
+10.04.11,Organizational Communication,10.04,Communication,10,Social and Behavioral Sciences
+10.04.12,Public Relations and Advertising,10.04,Communication,10,Social and Behavioral Sciences
+10.04.13,Publishing,10.04,Communication,10,Social and Behavioral Sciences
+10.04.14,Social Influence and Political Communication,10.04,Communication,10,Social and Behavioral Sciences
+10.04.15,Social Media,10.04,Communication,10,Social and Behavioral Sciences
+10.04.16,Speech and Rhetorical Studies,10.04,Communication,10,Social and Behavioral Sciences
+10.04.17,Other Communication,10.04,Communication,10,Social and Behavioral Sciences
+10.05.00,Counseling,10.05,Counseling,10,Social and Behavioral Sciences
+10.05.01,Counselor Education,10.05,Counseling,10,Social and Behavioral Sciences
+10.06.00,Economics,10.06,Economics,10,Social and Behavioral Sciences
+10.06.01,Behavioral Economics,10.06,Economics,10,Social and Behavioral Sciences
+10.06.02,Econometrics,10.06,Economics,10,Social and Behavioral Sciences
+10.06.03,Economic History,10.06,Economics,10,Social and Behavioral Sciences
+10.06.04,Economic Theory,10.06,Economics,10,Social and Behavioral Sciences
+10.06.05,Finance,10.06,Economics,10,Social and Behavioral Sciences
+10.06.06,Growth and Development,10.06,Economics,10,Social and Behavioral Sciences
+10.06.07,Health Economics,10.06,Economics,10,Social and Behavioral Sciences
+10.06.08,Income Distribution,10.06,Economics,10,Social and Behavioral Sciences
+10.06.09,Industrial Organization,10.06,Economics,10,Social and Behavioral Sciences
+10.06.10,International Economics,10.06,Economics,10,Social and Behavioral Sciences
+10.06.11,Labor Economics,10.06,Economics,10,Social and Behavioral Sciences
+10.06.12,Macroeconomics,10.06,Economics,10,Social and Behavioral Sciences
+10.06.13,Political Economy,10.06,Economics,10,Social and Behavioral Sciences
+10.06.14,Public Economics,10.06,Economics,10,Social and Behavioral Sciences
+10.06.15,Regional Economics,10.06,Economics,10,Social and Behavioral Sciences
+10.06.16,Other Economics,10.06,Economics,10,Social and Behavioral Sciences
+10.07.01,Environmental Studies,10.07,Environmental Studies,10,Social and Behavioral Sciences
+10.08.01,Food Studies,10.08,Food Studies,10,Social and Behavioral Sciences
+10.09.00,Geography,10.09,Geography,10,Social and Behavioral Sciences
+10.09.01,Geographic Information Sciences,10.09,Geography,10,Social and Behavioral Sciences
+10.09.02,Human Geography,10.09,Geography,10,Social and Behavioral Sciences
+10.09.03,Nature and Society Relations,10.09,Geography,10,Social and Behavioral Sciences
+10.09.04,Physical and Environmental Geography,10.09,Geography,10,Social and Behavioral Sciences
+10.09.05,Remote Sensing,10.09,Geography,10,Social and Behavioral Sciences
+10.09.06,Spatial Science,10.09,Geography,10,Social and Behavioral Sciences
+10.09.07,Other Geography,10.09,Geography,10,Social and Behavioral Sciences
+10.10.00,International and Area Studies,10.10,International and Area Studies,10,Social and Behavioral Sciences
+10.10.01,African Studies,10.10,International and Area Studies,10,Social and Behavioral Sciences
+10.10.02,Asian Studies,10.10,International and Area Studies,10,Social and Behavioral Sciences
+10.10.03,Eastern European Studies,10.10,International and Area Studies,10,Social and Behavioral Sciences
+10.10.04,Latin American Studies,10.10,International and Area Studies,10,Social and Behavioral Sciences
+10.10.05,Near and Middle Eastern Studies,10.10,International and Area Studies,10,Social and Behavioral Sciences
+10.10.06,Soviet and Post-Soviet Studies,10.10,International and Area Studies,10,Social and Behavioral Sciences
+10.10.07,Other International and Area Studies,10.10,International and Area Studies,10,Social and Behavioral Sciences
+10.11.01,Leadership Studies,10.11,Leadership Studies,10,Social and Behavioral Sciences
+10.12.00,Legal Studies,10.12,Legal Studies,10,Social and Behavioral Sciences
+10.12.01,Criminology and Criminal Justice,10.12,Legal Studies,10,Social and Behavioral Sciences
+10.12.02,Forensic Science and Technology,10.12,Legal Studies,10,Social and Behavioral Sciences
+10.12.03,Legal Theory,10.12,Legal Studies,10,Social and Behavioral Sciences
+10.12.04,Other Legal Studies,10.12,Legal Studies,10,Social and Behavioral Sciences
+10.13.01,Leisure Studies,10.13,Leisure Studies,10,Social and Behavioral Sciences
+10.14.00,Library and Information Science,10.14,Library and Information Science,10,Social and Behavioral Sciences
+10.14.01,Archival Science,10.14,Library and Information Science,10,Social and Behavioral Sciences
+10.14.02,Cataloging and Metadata,10.14,Library and Information Science,10,Social and Behavioral Sciences
+10.14.03,Collection Development and Management,10.14,Library and Information Science,10,Social and Behavioral Sciences
+10.14.04,Information Literacy,10.14,Library and Information Science,10,Social and Behavioral Sciences
+10.14.05,Scholarly Communication,10.14,Library and Information Science,10,Social and Behavioral Sciences
+10.14.06,Scholarly Publishing,10.14,Library and Information Science,10,Social and Behavioral Sciences
+10.15.00,Linguistics,10.15,Linguistics,10,Social and Behavioral Sciences
+10.15.01,Anthropological Linguistics and Sociolinguistics,10.15,Linguistics,10,Social and Behavioral Sciences
+10.15.02,Applied Linguistics,10.15,Linguistics,10,Social and Behavioral Sciences
+10.15.03,Comparative and Historical Linguistics,10.15,Linguistics,10,Social and Behavioral Sciences
+10.15.04,Computational Linguistics,10.15,Linguistics,10,Social and Behavioral Sciences
+10.15.05,Discourse and Text Linguistics,10.15,Linguistics,10,Social and Behavioral Sciences
+10.15.06,First and Second Language Acquisition,10.15,Linguistics,10,Social and Behavioral Sciences
+10.15.07,Language Description and Documentation,10.15,Linguistics,10,Social and Behavioral Sciences
+10.15.08,Morphology,10.15,Linguistics,10,Social and Behavioral Sciences
+10.15.09,Phonetics and Phonology,10.15,Linguistics,10,Social and Behavioral Sciences
+10.15.10,Psycholinguistics and Neurolinguistics,10.15,Linguistics,10,Social and Behavioral Sciences
+10.15.11,Semantics and Pragmatics,10.15,Linguistics,10,Social and Behavioral Sciences
+10.15.12,Syntax,10.15,Linguistics,10,Social and Behavioral Sciences
+10.15.13,Typological Linguistics and Linguistic Diversity,10.15,Linguistics,10,Social and Behavioral Sciences
+10.15.14,Other Linguistics,10.15,Linguistics,10,Social and Behavioral Sciences
+10.16.01,Organization Development,10.16,Organization Development,10,Social and Behavioral Sciences
+10.17.00,Political Science,10.17,Political Science,10,Social and Behavioral Sciences
+10.17.01,American Politics,10.17,Political Science,10,Social and Behavioral Sciences
+10.17.02,Comparative Politics,10.17,Political Science,10,Social and Behavioral Sciences
+10.17.03,International Relations,10.17,Political Science,10,Social and Behavioral Sciences
+10.17.04,Models and Methods,10.17,Political Science,10,Social and Behavioral Sciences
+10.17.05,Political Theory,10.17,Political Science,10,Social and Behavioral Sciences
+10.17.06,Other Political Science,10.17,Political Science,10,Social and Behavioral Sciences
+10.18.00,Psychology,10.18,Psychology,10,Social and Behavioral Sciences
+10.18.01,Applied Behavior Analysis,10.18,Psychology,10,Social and Behavioral Sciences
+10.18.02,Biological Psychology,10.18,Psychology,10,Social and Behavioral Sciences
+10.18.03,Child Psychology,10.18,Psychology,10,Social and Behavioral Sciences
+10.18.04,Clinical Psychology,10.18,Psychology,10,Social and Behavioral Sciences
+10.18.05,Cognition and Perception,10.18,Psychology,10,Social and Behavioral Sciences
+10.18.06,Cognitive Psychology,10.18,Psychology,10,Social and Behavioral Sciences
+10.18.07,Community Psychology,10.18,Psychology,10,Social and Behavioral Sciences
+10.18.08,Comparative Psychology,10.18,Psychology,10,Social and Behavioral Sciences
+10.18.09,Counseling Psychology,10.18,Psychology,10,Social and Behavioral Sciences
+10.18.10,Developmental Psychology,10.18,Psychology,10,Social and Behavioral Sciences
+10.18.11,Experimental Analysis of Behavior,10.18,Psychology,10,Social and Behavioral Sciences
+10.18.12,Health Psychology,10.18,Psychology,10,Social and Behavioral Sciences
+10.18.13,Industrial and Organizational Psychology,10.18,Psychology,10,Social and Behavioral Sciences
+10.18.14,Multicultural Psychology,10.18,Psychology,10,Social and Behavioral Sciences
+10.18.15,Pain Management,10.18,Psychology,10,Social and Behavioral Sciences
+10.18.16,Personality and Social Contexts,10.18,Psychology,10,Social and Behavioral Sciences
+10.18.17,Quantitative Psychology,10.18,Psychology,10,Social and Behavioral Sciences
+10.18.18,School Psychology,10.18,Psychology,10,Social and Behavioral Sciences
+10.18.19,Social Psychology,10.18,Psychology,10,Social and Behavioral Sciences
+10.18.20,Theory and Philosophy,10.18,Psychology,10,Social and Behavioral Sciences
+10.18.21,Transpersonal Psychology,10.18,Psychology,10,Social and Behavioral Sciences
+10.18.22,Other Psychology,10.18,Psychology,10,Social and Behavioral Sciences
+10.19.00,"Public Affairs, Public Policy and Public Administration",10.19,"Public Affairs, Public Policy and Public Administration",10,Social and Behavioral Sciences
+10.19.01,Defense and Security Studies,10.19,"Public Affairs, Public Policy and Public Administration",10,Social and Behavioral Sciences
+10.19.02,Economic Policy,10.19,"Public Affairs, Public Policy and Public Administration",10,Social and Behavioral Sciences
+10.19.03,Education Policy,10.19,"Public Affairs, Public Policy and Public Administration",10,Social and Behavioral Sciences
+10.19.04,Emergency and Disaster Management,10.19,"Public Affairs, Public Policy and Public Administration",10,Social and Behavioral Sciences
+10.19.05,Energy Policy,10.19,"Public Affairs, Public Policy and Public Administration",10,Social and Behavioral Sciences
+10.19.06,Environmental Policy,10.19,"Public Affairs, Public Policy and Public Administration",10,Social and Behavioral Sciences
+10.19.07,Health Policy,10.19,"Public Affairs, Public Policy and Public Administration",10,Social and Behavioral Sciences
+10.19.08,Infrastructure,10.19,"Public Affairs, Public Policy and Public Administration",10,Social and Behavioral Sciences
+10.19.09,Military and Veterans Studies,10.19,"Public Affairs, Public Policy and Public Administration",10,Social and Behavioral Sciences
+10.19.10,Peace and Conflict Studies,10.19,"Public Affairs, Public Policy and Public Administration",10,Social and Behavioral Sciences
+10.19.11,"Policy Design, Analysis, and Evaluation",10.19,"Public Affairs, Public Policy and Public Administration",10,Social and Behavioral Sciences
+10.19.12,"Policy History, Theory, and Methods",10.19,"Public Affairs, Public Policy and Public Administration",10,Social and Behavioral Sciences
+10.19.13,Public Administration,10.19,"Public Affairs, Public Policy and Public Administration",10,Social and Behavioral Sciences
+10.19.14,Public Affairs,10.19,"Public Affairs, Public Policy and Public Administration",10,Social and Behavioral Sciences
+10.19.15,Public Policy,10.19,"Public Affairs, Public Policy and Public Administration",10,Social and Behavioral Sciences
+10.19.16,"Recreation, Parks and Tourism Administration",10.19,"Public Affairs, Public Policy and Public Administration",10,Social and Behavioral Sciences
+10.19.17,Science and Technology Policy,10.19,"Public Affairs, Public Policy and Public Administration",10,Social and Behavioral Sciences
+10.19.18,Social Policy,10.19,"Public Affairs, Public Policy and Public Administration",10,Social and Behavioral Sciences
+10.19.19,Social Welfare,10.19,"Public Affairs, Public Policy and Public Administration",10,Social and Behavioral Sciences
+10.19.20,Terrorism Studies,10.19,"Public Affairs, Public Policy and Public Administration",10,Social and Behavioral Sciences
+10.19.21,Transportation,10.19,"Public Affairs, Public Policy and Public Administration",10,Social and Behavioral Sciences
+10.19.22,Urban Studies,10.19,"Public Affairs, Public Policy and Public Administration",10,Social and Behavioral Sciences
+10.19.23,"Other Public Affairs, Public Policy and Public Administration",10.19,"Public Affairs, Public Policy and Public Administration",10,Social and Behavioral Sciences
+10.20.01,Science and Technology Studies,10.20,Science and Technology Studies,10,Social and Behavioral Sciences
+10.21.01,Social Statistics,10.21,Social Statistics,10,Social and Behavioral Sciences
+10.22.01,Social Work,10.22,Social Work,10,Social and Behavioral Sciences
+10.23.00,Sociology,10.23,Sociology,10,Social and Behavioral Sciences
+10.23.01,Civic and Community Engagement,10.23,Sociology,10,Social and Behavioral Sciences
+10.23.02,Community-Based Learning,10.23,Sociology,10,Social and Behavioral Sciences
+10.23.03,Community-Based Research,10.23,Sociology,10,Social and Behavioral Sciences
+10.23.04,Criminology,10.23,Sociology,10,Social and Behavioral Sciences
+10.23.05,"Demography, Population, and Ecology",10.23,Sociology,10,Social and Behavioral Sciences
+10.23.06,Domestic and Intimate Partner Violence,10.23,Sociology,10,Social and Behavioral Sciences
+10.23.07,Educational Sociology,10.23,Sociology,10,Social and Behavioral Sciences
+10.23.08,"Family, Life Course, and Society",10.23,Sociology,10,Social and Behavioral Sciences
+10.23.09,Gender and Sexuality,10.23,Sociology,10,Social and Behavioral Sciences
+10.23.10,Gerontology,10.23,Sociology,10,Social and Behavioral Sciences
+10.23.11,Human Ecology,10.23,Sociology,10,Social and Behavioral Sciences
+10.23.12,Inequality and Stratification,10.23,Sociology,10,Social and Behavioral Sciences
+10.23.13,Medicine and Health,10.23,Sociology,10,Social and Behavioral Sciences
+10.23.14,Place and Environment,10.23,Sociology,10,Social and Behavioral Sciences
+10.23.15,Politics and Social Change,10.23,Sociology,10,Social and Behavioral Sciences
+10.23.16,"Quantitative, Qualitative, Comparative, and Historical Methodologies",10.23,Sociology,10,Social and Behavioral Sciences
+10.23.17,Race and Ethnicity,10.23,Sociology,10,Social and Behavioral Sciences
+10.23.18,Regional Sociology,10.23,Sociology,10,Social and Behavioral Sciences
+10.23.19,Rural Sociology,10.23,Sociology,10,Social and Behavioral Sciences
+10.23.20,Service Learning,10.23,Sociology,10,Social and Behavioral Sciences
+10.23.21,"Social Control, Law, Crime, and Deviance",10.23,Sociology,10,Social and Behavioral Sciences
+10.23.22,Social Psychology and Interaction,10.23,Sociology,10,Social and Behavioral Sciences
+10.23.23,Sociology of Culture,10.23,Sociology,10,Social and Behavioral Sciences
+10.23.24,Sociology of Religion,10.23,Sociology,10,Social and Behavioral Sciences
+10.23.25,"Theory, Knowledge and Science",10.23,Sociology,10,Social and Behavioral Sciences
+10.23.26,Tourism,10.23,Sociology,10,Social and Behavioral Sciences
+10.23.27,"Work, Economy and Organizations",10.23,Sociology,10,Social and Behavioral Sciences
+10.23.28,Other Sociology,10.23,Sociology,10,Social and Behavioral Sciences
+10.24.01,Sports Studies,10.24,Sports Studies,10,Social and Behavioral Sciences
+10.25.01,Urban Studies and Planning,10.25,Urban Studies and Planning,10,Social and Behavioral Sciences
+10.26.01,Other Social and Behavioral Sciences,10.26,Other Social and Behavioral Sciences,10,Social and Behavioral Sciences

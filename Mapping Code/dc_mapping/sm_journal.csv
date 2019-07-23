@@ -1,0 +1,177 @@
+ID,Low Level Name,Mid Level Name,High Level Name,DC Number,DC Group Name
+0,Agronomy & Agriculture,"Agriculture, Fisheries & Forestry",Applied Sciences,7.23.02,Agronomy and Crop Sciences
+0,Dairy & Animal Science,"Agriculture, Fisheries & Forestry",Applied Sciences,7.02.02,Dairy Science
+0,Fisheries,"Agriculture, Fisheries & Forestry",Applied Sciences,7.02.01,Aquaculture and Fisheries
+0,Food Science,"Agriculture, Fisheries & Forestry",Applied Sciences,7.11.00,Food Science
+0,Forestry,"Agriculture, Fisheries & Forestry",Applied Sciences,7.12.02,Forest Management
+0,Horticulture,"Agriculture, Fisheries & Forestry",Applied Sciences,7.23.06,Horticulture
+0,Veterinary Sciences,"Agriculture, Fisheries & Forestry",Applied Sciences,8.27.00,Veterinary Medicine
+0,Architecture,Built Environment & Design,Applied Sciences,1.00.00,Architecture
+0,Building & Construction,Built Environment & Design,Applied Sciences,1.04.01,Construction Engineering
+0,Design Practice & Management,Built Environment & Design,Applied Sciences,2.04.09,Industrial and Product Design
+0,Urban & Regional Planning,Built Environment & Design,Applied Sciences,10.25.01,Urban Studies and Planning
+0,Bioinformatics,Enabling & Strategic Technologies,Applied Sciences,7.05.01,Bioinformatics
+0,Biotechnology,Enabling & Strategic Technologies,Applied Sciences,7.07.01,Biotechnology
+0,Energy,Enabling & Strategic Technologies,Applied Sciences,5.10.07,Power and Energy
+0,Materials,Enabling & Strategic Technologies,Applied Sciences,5.12.00,Engineering Science and Materials
+0,Nanoscience & Nanotechnology,Enabling & Strategic Technologies,Applied Sciences,5.16.01,Nanoscience and Nanotechnology
+0,Optoelectronics & Photonics,Enabling & Strategic Technologies,Applied Sciences,5.10.04,Electromagnetics and Photonics
+0,"Strategic, Defence & Security Studies",Enabling & Strategic Technologies,Applied Sciences,10.19.01,Defense and Security Studies
+0,Aerospace & Aeronautics,Engineering,Applied Sciences,5.01.00,Aerospace Engineering
+0,Automobile Design & Engineering,Engineering,Applied Sciences,5.02.01,Automotive Engineering
+0,Biomedical Engineering,Engineering,Applied Sciences,5.04.00,Biomedical Engineering and Bioengineering
+0,Chemical Engineering,Engineering,Applied Sciences,5.06.00,Chemical Engineering
+0,Civil Engineering,Engineering,Applied Sciences,5.07.01,Civil Engineering
+0,Electrical & Electronic Engineering,Engineering,Applied Sciences,5.10.03,Electrical and Electronics
+0,Environmental Engineering,Engineering,Applied Sciences,5.07.03,Environmental Engineering
+0,Geological & Geomatics Engineering,Engineering,Applied Sciences,5.07.04,Geotechnical Engineering
+0,Industrial Engineering & Automation,Engineering,Applied Sciences,5.18.02,Industrial Engineering
+0,Mechanical Engineering & Transports,Engineering,Applied Sciences,5.14.02,Applied Mechanics
+0,Mining & Metallurgy,Engineering,Applied Sciences,5.13.03,Metallurgy
+0,Operations Research,Engineering,Applied Sciences,5.18.04,Operational Research
+0,Artificial Intelligence & Image Processing,Information & Communication Technologies,Applied Sciences,9.04.01,Artificial Intelligence and Robotics
+0,Computation Theory & Mathematics,Information & Communication Technologies,Applied Sciences,9.04.10,Theory and Algorithms
+0,Computer Hardware & Architecture,Information & Communication Technologies,Applied Sciences,5.09.05,Hardware Systems
+0,Distributed Computing,Information & Communication Technologies,Applied Sciences,9.04.11,Other Computer Sciences
+0,Information Systems,Information & Communication Technologies,Applied Sciences,9.04.03,Databases and Information Systems
+0,Medical Informatics,Information & Communication Technologies,Applied Sciences,8.10.00,Health Information Technology
+0,Networking & Telecommunications,Information & Communication Technologies,Applied Sciences,5.09.04,Digital Communications and Networking
+0,Software Engineering,Information & Communication Technologies,Applied Sciences,9.04.08,Software Engineering
+0,Communication & Media Studies,Communication & Textual Studies,Arts & Humanities,10.04.02,Communication Technology and New Media
+0,Languages & Linguistics,Communication & Textual Studies,Arts & Humanities,10.15.00,Linguistics
+0,Literary Studies,Communication & Textual Studies,Arts & Humanities,2.16.00,English Language and Literature
+0,Anthropology,Historical Studies,Arts & Humanities,10.03.00,Anthropology
+0,Archaeology,Historical Studies,Arts & Humanities,2.24.00,"History of Art, Architecture, and Archaeology"
+0,Classics,Historical Studies,Arts & Humanities,2.10.00,Classics
+0,History,Historical Studies,Arts & Humanities,2.23.00,History
+0,"History of Science, Technology & Medicine",Historical Studies,Arts & Humanities,2.23.11,"History of Science, Technology, and Medicine"
+0,History of Social Sciences,Historical Studies,Arts & Humanities,2.23.22,Social History
+0,Applied Ethics,Philosophy & Theology,Arts & Humanities,2.35.05,Ethics and Political Philosophy
+0,Philosophy,Philosophy & Theology,Arts & Humanities,2.35.00,Philosophy
+0,Religions & Theology,Philosophy & Theology,Arts & Humanities,2.40.00,Religion
+0,"Art Practice, History & Theory",Visual & Performing Arts,Arts & Humanities,2.24.06,Theory and Criticism
+0,Drama & Theater,Visual & Performing Arts,Arts & Humanities,2.48.00,Theatre and Performance Studies
+0,Folklore,Visual & Performing Arts,Arts & Humanities,10.03.03,Folklore
+0,Music,Visual & Performing Arts,Arts & Humanities,2.32.00,Music
+0,Accounting,Economics & Business,Economic & Social Sciences,3.01.01,Accounting
+0,Agricultural Economics & Policy,Economics & Business,Economic & Social Sciences,7.01.01,Agricultural Economics
+0,Business & Management,Economics & Business,Economic & Social Sciences,3.05.01,"Business Administration, Management, and Operations"
+0,Development Studies,Economics & Business,Economic & Social Sciences,10.06.06,Growth and Development
+0,Econometrics,Economics & Business,Economic & Social Sciences,10.06.02,Econometrics
+0,Economic Theory,Economics & Business,Economic & Social Sciences,10.06.04,Economic Theory
+0,Economics,Economics & Business,Economic & Social Sciences,10.06.00,Economics
+0,Finance,Economics & Business,Economic & Social Sciences,10.06.05,Finance
+0,Industrial Relations,Economics & Business,Economic & Social Sciences,3.18.02,International and Comparative Labor Relations
+0,Logistics & Transportation,Economics & Business,Economic & Social Sciences,10.19.21,Transportation
+0,Marketing,Economics & Business,Economic & Social Sciences,3.21.00,Marketing
+0,"Sport, Leisure & Tourism",Economics & Business,Economic & Social Sciences,3.33.01,Tourism and Travel
+0,Criminology,Social Sciences,Economic & Social Sciences,10.23.04,Criminology
+0,Cultural Studies,Social Sciences,Economic & Social Sciences,10.04.03,Critical and Cultural Studies
+0,Demography,Social Sciences,Economic & Social Sciences,10.23.05,"Demography, Population, and Ecology"
+0,Education,Social Sciences,Economic & Social Sciences,4.00.00,Education
+0,Family Studies,Social Sciences,Economic & Social Sciences,10.23.08,"Family, Life Course, and Society"
+0,Gender Studies,Social Sciences,Economic & Social Sciences,2.18.00,"Feminist, Gender, and Sexuality Studies"
+0,Geography,Social Sciences,Economic & Social Sciences,10.09.00,Geography
+0,Information & Library Sciences,Social Sciences,Economic & Social Sciences,10.14.00,Library and Information Science
+0,International Relations,Social Sciences,Economic & Social Sciences,10.17.03,International Relations
+0,Law,Social Sciences,Economic & Social Sciences,6.00.00,Law
+0,Political Science & Public Administration,Social Sciences,Economic & Social Sciences,10.19.13,Public Administration
+0,Science Studies,Social Sciences,Economic & Social Sciences,10.20.01,Science and Technology Studies
+0,Social Sciences Methods,Social Sciences,Economic & Social Sciences,10.23.16,"Quantitative, Qualitative, Comparative, and Historical Methodologies"
+0,Social Work,Social Sciences,Economic & Social Sciences,10.22.01,Social Work
+0,Sociology,Social Sciences,Economic & Social Sciences,10.23.00,Sociology
+0,"General Arts, Humanities & Social Sciences","General Arts, Humanities & Social Sciences",General,2.00.00,Arts and Humanities
+0,General Science & Technology,General Science & Technology,General,10.20.01,Science and Technology Studies
+0,Anatomy & Morphology,Biomedical Research,Health Sciences,8.03.00,Anatomy
+0,Biochemistry & Molecular Biology,Biomedical Research,Health Sciences,7.03.01,Biochemistry
+0,Biophysics,Biomedical Research,Health Sciences,7.03.02,Biophysics
+0,Developmental Biology,Biomedical Research,Health Sciences,7.08.04,Developmental Biology
+0,Genetics & Heredity,Biomedical Research,Health Sciences,7.13.02,Genetics
+0,Microbiology,Biomedical Research,Health Sciences,7.18.00,Microbiology
+0,Microscopy,Biomedical Research,Health Sciences,7.24.00,Research Methods in Life Sciences
+0,Mycology & Parasitology,Biomedical Research,Health Sciences,7.14.05,Parasitology
+0,Nutrition & Dietetics,Biomedical Research,Health Sciences,8.08.01,Dietetics and Clinical Nutrition
+0,Physiology,Biomedical Research,Health Sciences,7.22.00,Physiology
+0,Toxicology,Biomedical Research,Health Sciences,7.21.04,Toxicology
+0,Virology,Biomedical Research,Health Sciences,7.18.06,Virology
+0,Allergy,Clinical Medicine,Health Sciences,8.15.01,Allergy and Immunology
+0,Anesthesiology,Clinical Medicine,Health Sciences,8.15.02,Anesthesiology
+0,Arthritis & Rheumatology,Clinical Medicine,Health Sciences,8.15.34,Rheumatology
+0,Cardiovascular System & Hematology,Clinical Medicine,Health Sciences,8.03.03,Cardiovascular System
+0,Complementary & Alternative Medicine,Clinical Medicine,Health Sciences,8.01.01,Alternative and Complementary Medicine
+0,Dentistry,Clinical Medicine,Health Sciences,8.07.00,Dentistry
+0,Dermatology & Venereal Diseases,Clinical Medicine,Health Sciences,8.15.05,Dermatology
+0,Emergency & Critical Care Medicine,Clinical Medicine,Health Sciences,8.15.06,Emergency Medicine
+0,Endocrinology & Metabolism,Clinical Medicine,Health Sciences,8.15.07,"Endocrinology, Diabetes, and Metabolism"
+0,Environmental & Occupational Health,Clinical Medicine,Health Sciences,8.23.12,Occupational Health and Industrial Hygiene
+0,Gastroenterology & Hepatology,Clinical Medicine,Health Sciences,8.15.09,Gastroenterology
+0,General & Internal Medicine,Clinical Medicine,Health Sciences,8.15.15,Internal Medicine
+0,General Clinical Medicine,Clinical Medicine,Health Sciences,8.00.00,Medicine and Health Sciences
+0,Geriatrics,Clinical Medicine,Health Sciences,8.15.10,Geriatrics
+0,Immunology,Clinical Medicine,Health Sciences,7.14.00,Immunology and Infectious Disease
+0,Legal & Forensic Medicine,Clinical Medicine,Health Sciences,8.28.01,Other Medicine and Health Sciences
+0,Neurology & Neurosurgery,Clinical Medicine,Health Sciences,8.15.17,Neurology
+0,Nuclear Medicine & Medical Imaging,Clinical Medicine,Health Sciences,5.04.02,Bioimaging and Biomedical Optics
+0,Obstetrics & Reproductive Medicine,Clinical Medicine,Health Sciences,8.15.18,Obstetrics and Gynecology
+0,Oncology & Carcinogenesis,Clinical Medicine,Health Sciences,8.15.19,Oncology
+0,Ophthalmology & Optometry,Clinical Medicine,Health Sciences,8.15.20,Ophthalmology
+0,Orthopedics,Clinical Medicine,Health Sciences,8.15.21,Orthopedics
+0,Otorhinolaryngology,Clinical Medicine,Health Sciences,8.15.41,Other Medical Specialties
+0,Pathology,Clinical Medicine,Health Sciences,8.15.25,Pathology
+0,Pediatrics,Clinical Medicine,Health Sciences,8.15.26,Pediatrics
+0,Pharmacology & Pharmacy,Clinical Medicine,Health Sciences,7.21.03,Pharmacology
+0,Psychiatry,Clinical Medicine,Health Sciences,8.15.31,Psychiatry
+0,Respiratory System,Clinical Medicine,Health Sciences,8.03.13,Respiratory System
+0,Sport Sciences,Clinical Medicine,Health Sciences,8.25.01,Sports Sciences
+0,Surgery,Clinical Medicine,Health Sciences,8.15.37,Surgery
+0,Tropical Medicine,Clinical Medicine,Health Sciences,8.15.39,Tropical Medicine
+0,Urology & Nephrology,Clinical Medicine,Health Sciences,8.15.40,Urology
+0,Behavioral Science & Comparative Psychology,Psychology & Cognitive Sciences,Health Sciences,10.18.08,Comparative Psychology
+0,Clinical Psychology,Psychology & Cognitive Sciences,Health Sciences,10.18.04,Clinical Psychology
+0,Developmental & Child Psychology,Psychology & Cognitive Sciences,Health Sciences,10.18.10,Developmental Psychology
+0,Experimental Psychology,Psychology & Cognitive Sciences,Health Sciences,10.18.11,Experimental Analysis of Behavior
+0,General Psychology & Cognitive Sciences,Psychology & Cognitive Sciences,Health Sciences,10.18.00,Psychology
+0,Human Factors,Psychology & Cognitive Sciences,Health Sciences,10.18.13,Industrial and Organizational Psychology
+0,Psychoanalysis,Psychology & Cognitive Sciences,Health Sciences,8.16.08,Psychoanalysis and Psychotherapy
+0,Social Psychology,Psychology & Cognitive Sciences,Health Sciences,10.18.19,Social Psychology
+0,Epidemiology,Public Health & Health Services,Health Sciences,8.23.04,Epidemiology
+0,Gerontology,Public Health & Health Services,Health Sciences,10.23.10,Gerontology
+0,Health Policy & Services,Public Health & Health Services,Health Sciences,10.19.07,Health Policy
+0,Nursing,Public Health & Health Services,Health Sciences,8.18.00,Nursing
+0,Public Health,Public Health & Health Services,Health Sciences,8.23.00,Public Health
+0,Rehabilitation,Public Health & Health Services,Health Sciences,8.24.00,Rehabilitation and Therapy
+0,Speech-Language Pathology & Audiology,Public Health & Health Services,Health Sciences,8.06.02,Speech Pathology and Audiology
+0,Substance Abuse,Public Health & Health Services,Health Sciences,8.16.09,Substance Abuse and Addiction
+0,Ecology,Biology,Natural Sciences,7.09.00,Ecology and Evolutionary Biology
+0,Entomology,Biology,Natural Sciences,7.10.01,Entomology
+0,Evolutionary Biology,Biology,Natural Sciences,7.09.00,Ecology and Evolutionary Biology
+0,Marine Biology & Hydrobiology,Biology,Natural Sciences,7.17.01,Marine Biology
+0,Ornithology,Biology,Natural Sciences,7.02.04,Ornithology
+0,Plant Biology & Botany,Biology,Natural Sciences,7.23.07,Plant Biology
+0,Zoology,Biology,Natural Sciences,7.02.07,Zoology
+0,Analytical Chemistry,Chemistry,Natural Sciences,9.03.01,Analytical Chemistry
+0,General Chemistry,Chemistry,Natural Sciences,9.03.00,Chemistry
+0,Inorganic & Nuclear Chemistry,Chemistry,Natural Sciences,9.03.03,Inorganic Chemistry
+0,Medicinal & Biomolecular Chemistry,Chemistry,Natural Sciences,9.03.05,Medicinal-Pharmaceutical Chemistry
+0,Organic Chemistry,Chemistry,Natural Sciences,9.03.06,Organic Chemistry
+0,Physical Chemistry,Chemistry,Natural Sciences,9.03.07,Physical Chemistry
+0,Polymers,Chemistry,Natural Sciences,9.03.08,Polymer Chemistry
+0,Environmental Sciences,Earth & Environmental Sciences,Natural Sciences,9.06.00,Environmental Sciences
+0,Geochemistry & Geophysics,Earth & Environmental Sciences,Natural Sciences,9.05.03,Geochemistry
+0,Geology,Earth & Environmental Sciences,Natural Sciences,9.05.04,Geology
+0,Meteorology & Atmospheric Sciences,Earth & Environmental Sciences,Natural Sciences,9.08.00,Oceanography and Atmospheric Sciences and Meteorology
+0,Oceanography,Earth & Environmental Sciences,Natural Sciences,9.08.05,Oceanography
+0,Paleontology,Earth & Environmental Sciences,Natural Sciences,9.05.11,Paleontology
+0,Applied Mathematics,Mathematics & Statistics,Natural Sciences,9.01.00,Applied Mathematics
+0,General Mathematics,Mathematics & Statistics,Natural Sciences,9.07.00,Mathematics
+0,Numerical & Computational Mathematics,Mathematics & Statistics,Natural Sciences,9.01.04,Numerical Analysis and Computation
+0,Statistics & Probability,Mathematics & Statistics,Natural Sciences,9.10.00,Statistics and Probability
+0,Acoustics,Physics & Astronomy,Natural Sciences,5.14.01,"Acoustics, Dynamics, and Controls"
+0,Applied Physics,Physics & Astronomy,Natural Sciences,9.09.12,Other Physics
+0,Astronomy & Astrophysics,Physics & Astronomy,Natural Sciences,9.02.00,Astrophysics and Astronomy
+0,Chemical Physics,Physics & Astronomy,Natural Sciences,9.09.02,Biological and Chemical Physics
+0,Fluids & Plasmas,Physics & Astronomy,Natural Sciences,8.03.08,Fluids and Secretions
+0,General Physics,Physics & Astronomy,Natural Sciences,9.09.00,Physics
+0,Mathematical Physics,Physics & Astronomy,Natural Sciences,9.09.12,Other Physics
+0,Nuclear & Particle Physics,Physics & Astronomy,Natural Sciences,9.09.07,Nuclear
+0,Optics,Physics & Astronomy,Natural Sciences,9.09.08,Optics
