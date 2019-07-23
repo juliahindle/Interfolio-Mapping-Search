@@ -6,10 +6,6 @@ class generic_obj:
 		self.local_name = local_name
 		self.DC_id = DC_id
 
-	def print_object(self):
-		print("The orignal ID of this object is " + self.local_id)
-		print("The oringal classification of this object is " + self.local_name)
-		print("The DCid of this object is " + self.DC_id)
 
 class DC:
 	def __init__(self, DC_id, Flvl_name, Slvl_name, Tlvl_name):
@@ -49,10 +45,11 @@ with open ('dc_mapping/REFERENCE.csv', 'r') as file:
 		DClist.append(DC(line[0], line[1], line[3], line[5]))
 
 
-inpt = raw_input("Please enter the CIPid that you would like to query ")
+inpt = raw_input("Please enter the CIP string that you would like to query ")
 
 Gcount = 0
-while(inpt != CIPlist[Gcount].local_id):	
+
+while(inpt != CIPlist[Gcount].local_name):	
 	Gcount +=1
 
 temp_id = CIPlist[Gcount].DC_id
@@ -61,8 +58,21 @@ DCcount = 0
 while(temp_id !=DClist[DCcount].DC_id):
 	DCcount +=1
 
-
 DC.print_DC(DClist[DCcount])
+
+
+# Gcount = 0
+# while(inpt != CIPlist[Gcount].local_id):	
+# 	Gcount +=1
+
+# temp_id = CIPlist[Gcount].DC_id
+
+# DCcount = 0
+# while(temp_id !=DClist[DCcount].DC_id):
+# 	DCcount +=1
+
+
+# DC.print_DC(DClist[DCcount])
 
 
 
