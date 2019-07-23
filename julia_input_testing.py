@@ -6,8 +6,11 @@ OUT_FORMATS = ['dc', 'cip']
 SEARCH_FORMATS = ['id', 'name']
 
 # general function defs
-def clean_string(words):
-	return re.sub(r'\W+', ' ', words.lower())
+def clean_string(str):
+	return re.sub(r'\W+', ' ', str.lower())
+
+def clean_id(num):
+	return num
 
 # get input format
 print('Input format options: WOS, ASJC, SM Journal, ANZSRC, CIP, DC')
@@ -31,12 +34,13 @@ while (clean_string(search_format) not in SEARCH_FORMATS):
 	out_format = raw_input('Search by: ')
 
 # get search key
-key = clean_string(raw_input('Search for: '))
+if search_format == ID:
+	key = clean_id(raw_input('Search for: '))
+else
+	key = clean_string(raw_input('Search for: '))
 
 
 
-# user_input = raw_input()
-# print(clean_string(user_input))
 
 
 
