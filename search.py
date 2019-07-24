@@ -2,7 +2,7 @@ import re
 import csv
 
 # "constant" vars
-IN_FORMATS = ['wos', 'asjc', 'sm journal', 'anzsrc', 'cip', 'dc']
+IN_FORMATS = ['wos', 'asjc', 'smjournal', 'anzsrc', 'cip', 'dc']
 OUT_FORMATS = ['dc', 'cip']
 SEARCH_FORMATS = ['id', 'name']
 
@@ -21,21 +21,24 @@ class Ref:
 		self.Slvl_name = Slvl_name
 		self.Tlvl_name = Tlvl_name
 
-	def print_ref(self):
-		print("Mapped ID" + self.DC_id)
+	def print_ref(self): 
+		print("mapped ID: " + self.DC_id)
 		print("low level name: " + self.Flvl_name)
 		print("mid level name: " + self.Slvl_name)
 		print("high level name: " + self.Tlvl_name)
 
 # general function defs
-def clean_string(words):
-	return re.sub(r'\W+', ' ', words.lower())
+def clean_string(s):
+	return re.sub(r'\W+', ' ', s.lower())
 
-def clean_id(num):
-	return num
+def clean_id(s):
+	clean_num = re.sub(r'^0', '', s)
+	clean_num = re.sub(r'\.0+$', '', clean_num)
+	clean_num = re.sub(r'\.0+$', '', clean_num)
+	return clean_num
 
 # get input format
-print('Input format options: WOS, ASJC, SM Journal, ANZSRC, CIP, DC')
+print('Input format options: WOS, ASJC, SMjournal, ANZSRC, CIP, DC')
 in_format = raw_input('Input: ')
 while (clean_string(in_format) not in IN_FORMATS):
 	print('Invalid input format. Please choose from list')
@@ -64,8 +67,7 @@ with open (in_file_path, 'r') as file:
 	next(in_reader)
 
 	for line in in_reader:
-		in_list.append(GenericObj(line[0], line[1], line[4]))
-		print(line[1])
+		in_list.append(GenericObj(clean_id(line[0]), clean_string(line[1]), line[4]))
 
 
 with open (ref_file_path, 'r') as file:
@@ -90,26 +92,34 @@ if search_format == 'ID':
 else:
 	key = clean_string(raw_input('Search for: ')) 
 
+# do search
 in_count = 0
+
 if search_format == 'ID':
 	while key != in_list[in_count].local_id:	
-		in_count +=1
+		in_count += 1
+		
 		if in_count >= len(in_list): 
 			print('Input not found')
 			exit(1)
 else:
-	while key != in_list[in_count].local_name:	
-		in_count +=1
+	while key != in_list[in_count].local_name:
+		in_count += 1
+		
 		if in_count >= len(in_list):
 			print('Input not found')
 			exit(1)
 
-
-# do search then call print function
 temp_id = in_list[in_count].DC_id
+clean_temp_id = clean_id(temp_id)
 
 ref_count = 0
-while(temp_id !=ref_list[ref_count].DC_id):
-	ref_count +=1
+while clean_temp_id != clean_id(ref_list[ref_count].DC_id):
+	ref_count += 1
+
+	if ref_count >= len(ref_list): 
+			print('Reference not found')
+			exit(1)
+
 
 Ref.print_ref(ref_list[ref_count])
