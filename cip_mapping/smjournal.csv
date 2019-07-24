@@ -1,0 +1,177 @@
+ID,Low Level Name,Mid Level Name,High Level Name,CIP Number,CIP Group Name
+N/A,Agronomy & Agriculture,"Agriculture, Fisheries & Forestry",Applied Sciences,1.99,"Agriculture, Agriculture Operations, and Related Sciences, Other."
+N/A,Dairy & Animal Science,"Agriculture, Fisheries & Forestry",Applied Sciences,1.09,Animal Sciences.
+N/A,Fisheries,"Agriculture, Fisheries & Forestry",Applied Sciences,3.03,Fishing and Fisheries Sciences and Management.
+N/A,Food Science,"Agriculture, Fisheries & Forestry",Applied Sciences,1.10,Food Science and Technology.
+N/A,Forestry,"Agriculture, Fisheries & Forestry",Applied Sciences,3.05,Forestry.
+N/A,Horticulture,"Agriculture, Fisheries & Forestry",Applied Sciences,1.06,Applied Horticulture and Horticultural Business Services.
+N/A,Veterinary Sciences,"Agriculture, Fisheries & Forestry",Applied Sciences,51.25,Veterinary Biomedical and Clinical Sciences.
+N/A,Architecture,Built Environment & Design,Applied Sciences,4.02,Architecture.
+N/A,Building & Construction,Built Environment & Design,Applied Sciences,46.04,"Building/Construction Finishing, Management, and Inspection."
+N/A,Design Practice & Management,Built Environment & Design,Applied Sciences,4.99,"Architecture and Related Services, Other."
+N/A,Urban & Regional Planning,Built Environment & Design,Applied Sciences,4.03,"City/Urban, Community and Regional Planning."
+N/A,Bioinformatics,Enabling & Strategic Technologies,Applied Sciences,26.11,"Biomathematics, Bioinformatics, and Computational Biology."
+N/A,Biotechnology,Enabling & Strategic Technologies,Applied Sciences,26.12,Biotechnology.
+N/A,Energy,Enabling & Strategic Technologies,Applied Sciences,15.05,Environmental Control Technologies/Technicians.
+N/A,Materials,Enabling & Strategic Technologies,Applied Sciences,40.10,Materials Sciences.
+N/A,Nanoscience & Nanotechnology,Enabling & Strategic Technologies,Applied Sciences,15.16,Nanotechnology.
+N/A,Optoelectronics & Photonics,Enabling & Strategic Technologies,Applied Sciences,40.08,Physics.
+N/A,"Strategic, Defence & Security Studies",Enabling & Strategic Technologies,Applied Sciences,28.06,Security Policy and Strategy.
+N/A,Aerospace & Aeronautics,Engineering,Applied Sciences,14.02,"Aerospace, Aeronautical and Astronautical Engineering."
+N/A,Automobile Design & Engineering,Engineering,Applied Sciences,15.08,Mechanical Engineering Related Technologies/Technicians.
+N/A,Biomedical Engineering,Engineering,Applied Sciences,14.05,Biomedical/Medical Engineering.
+N/A,Chemical Engineering,Engineering,Applied Sciences,14.07,Chemical Engineering.
+N/A,Civil Engineering,Engineering,Applied Sciences,14.08,Civil Engineering.
+N/A,Electrical & Electronic Engineering,Engineering,Applied Sciences,14.10,"Electrical, Electronics and Communications Engineering."
+N/A,Environmental Engineering,Engineering,Applied Sciences,14.14,Environmental/Environmental Health Engineering.
+N/A,Geological & Geomatics Engineering,Engineering,Applied Sciences,14.39,Geological/Geophysical Engineering.
+N/A,Industrial Engineering & Automation,Engineering,Applied Sciences,14.35,Industrial Engineering.
+N/A,Mechanical Engineering & Transports,Engineering,Applied Sciences,14.19,Mechanical Engineering.
+N/A,Mining & Metallurgy,Engineering,Applied Sciences,14.21,Mining and Mineral Engineering.
+N/A,Operations Research,Engineering,Applied Sciences,14.37,Operations Research.
+N/A,Artificial Intelligence & Image Processing,Information & Communication Technologies,Applied Sciences,11.01,"Computer and Information Sciences, General."
+N/A,Computation Theory & Mathematics,Information & Communication Technologies,Applied Sciences,27.03,Applied Mathematics.
+N/A,Computer Hardware & Architecture,Information & Communication Technologies,Applied Sciences,14.09,Computer Engineering.
+N/A,Distributed Computing,Information & Communication Technologies,Applied Sciences,11.99,"Computer and Information Sciences and Support Services, Other."
+N/A,Information Systems,Information & Communication Technologies,Applied Sciences,52.12,Management Information Systems and Services.
+N/A,Medical Informatics,Information & Communication Technologies,Applied Sciences,51.27,Medical Illustration and Informatics.
+N/A,Networking & Telecommunications,Information & Communication Technologies,Applied Sciences,11.09,Computer Systems Networking and Telecommunications.
+N/A,Software Engineering,Information & Communication Technologies,Applied Sciences,11.08,Computer Software and Media Applications.
+N/A,Communication & Media Studies,Communication & Textual Studies,Arts & Humanities,9.01,Communication and Media Studies.
+N/A,Languages & Linguistics,Communication & Textual Studies,Arts & Humanities,16.01,"Linguistic, Comparative, and Related Language Studies and Services."
+N/A,Literary Studies,Communication & Textual Studies,Arts & Humanities,23.14,Literature.
+N/A,Anthropology,Historical Studies,Arts & Humanities,45.02,Anthropology.
+N/A,Archaeology,Historical Studies,Arts & Humanities,45.03,Archeology.
+N/A,Classics,Historical Studies,Arts & Humanities,16.12,"Classics and Classical Languages, Literatures, and Linguistics."
+N/A,History,Historical Studies,Arts & Humanities,54.01,History.
+N/A,"History of Science, Technology & Medicine",Historical Studies,Arts & Humanities,54.01,History.
+N/A,History of Social Sciences,Historical Studies,Arts & Humanities,54.01,History.
+N/A,Applied Ethics,Philosophy & Theology,Arts & Humanities,38.01,Philosophy.
+N/A,Philosophy,Philosophy & Theology,Arts & Humanities,38.01,Philosophy.
+N/A,Religions & Theology,Philosophy & Theology,Arts & Humanities,38.02,Religion/Religious Studies.
+N/A,"Art Practice, History & Theory",Visual & Performing Arts,Arts & Humanities,50.99,"Visual and Performing Arts, Other."
+N/A,Drama & Theater,Visual & Performing Arts,Arts & Humanities,50.05,Drama/Theatre Arts and Stagecraft.
+N/A,Folklore,Visual & Performing Arts,Arts & Humanities,23.14,Literature.
+N/A,Music,Visual & Performing Arts,Arts & Humanities,50.09,Music.
+N/A,Accounting,Economics & Business,Economic & Social Sciences,52.03,Accounting and Related Services.
+N/A,Agricultural Economics & Policy,Economics & Business,Economic & Social Sciences,1.01,Agricultural Business and Management.
+N/A,Business & Management,Economics & Business,Economic & Social Sciences,52.02,"Business Administration, Management and Operations."
+N/A,Development Studies,Economics & Business,Economic & Social Sciences,45.99,"Social Sciences, Other."
+N/A,Econometrics,Economics & Business,Economic & Social Sciences,45.06,Economics.
+N/A,Economic Theory,Economics & Business,Economic & Social Sciences,45.06,Economics.
+N/A,Economics,Economics & Business,Economic & Social Sciences,45.06,Economics.
+N/A,Finance,Economics & Business,Economic & Social Sciences,52.08,Finance and Financial Management Services.
+N/A,Industrial Relations,Economics & Business,Economic & Social Sciences,52.10,Human Resources Management and Services.
+N/A,Logistics & Transportation,Economics & Business,Economic & Social Sciences,49.99,"Transportation and Materials Moving, Other."
+N/A,Marketing,Economics & Business,Economic & Social Sciences,52.14,Marketing.
+N/A,"Sport, Leisure & Tourism",Economics & Business,Economic & Social Sciences,52.09,Hospitality Administration/Management.
+N/A,Criminology,Social Sciences,Economic & Social Sciences,45.04,Criminology.
+N/A,Cultural Studies,Social Sciences,Economic & Social Sciences,30.26,Cultural Studies/Critical Theory and Analysis.
+N/A,Demography,Social Sciences,Economic & Social Sciences,45.05,Demography and Population Studies.
+N/A,Education,Social Sciences,Economic & Social Sciences,13.01,"Education, General."
+N/A,Family Studies,Social Sciences,Economic & Social Sciences,19.00,Work and Family Studies.
+N/A,Gender Studies,Social Sciences,Economic & Social Sciences,5.99,"Area, Ethnic, Cultural, and Gender Studies, Other."
+N/A,Geography,Social Sciences,Economic & Social Sciences,45.07,Geography and Cartography.
+N/A,Information & Library Sciences,Social Sciences,Economic & Social Sciences,25.01,Library Science and Administration.
+N/A,International Relations,Social Sciences,Economic & Social Sciences,45.09,International Relations and National Security Studies.
+N/A,Law,Social Sciences,Economic & Social Sciences,22.01,Law.
+N/A,Political Science & Public Administration,Social Sciences,Economic & Social Sciences,45.10,Political Science and Government.
+N/A,Science Studies,Social Sciences,Economic & Social Sciences,45.99,"Social Sciences, Other."
+N/A,Social Sciences Methods,Social Sciences,Economic & Social Sciences,45.99,"Social Sciences, Other."
+N/A,Social Work,Social Sciences,Economic & Social Sciences,44.07,Social Work.
+N/A,Sociology,Social Sciences,Economic & Social Sciences,45.11,Sociology.
+N/A,"General Arts, Humanities & Social Sciences","General Arts, Humanities & Social Sciences",General,24.01,"Liberal Arts and Sciences, General Studies and Humanities."
+N/A,General Science & Technology,General Science & Technology,General,30.15,"Science, Technology and Society."
+N/A,Anatomy & Morphology,Biomedical Research,Health Sciences,26.04,Cell/Cellular Biology and Anatomical Sciences.
+N/A,Biochemistry & Molecular Biology,Biomedical Research,Health Sciences,26.02,"Biochemistry, Biophysics and Molecular Biology."
+N/A,Biophysics,Biomedical Research,Health Sciences,26.02,"Biochemistry, Biophysics and Molecular Biology."
+N/A,Developmental Biology,Biomedical Research,Health Sciences,26.04,Cell/Cellular Biology and Anatomical Sciences.
+N/A,Genetics & Heredity,Biomedical Research,Health Sciences,26.08,Genetics.
+N/A,Microbiology,Biomedical Research,Health Sciences,26.05,Microbiological Sciences and Immunology.
+N/A,Microscopy,Biomedical Research,Health Sciences,26.01,"Biology, General."
+N/A,Mycology & Parasitology,Biomedical Research,Health Sciences,26.05,Microbiological Sciences and Immunology.
+N/A,Nutrition & Dietetics,Biomedical Research,Health Sciences,19.05,"Foods, Nutrition, and Related Services."
+N/A,Physiology,Biomedical Research,Health Sciences,26.09,"Physiology, Pathology and Related Sciences."
+N/A,Toxicology,Biomedical Research,Health Sciences,26.10,Pharmacology and Toxicology.
+N/A,Virology,Biomedical Research,Health Sciences,26.05,Microbiological Sciences and Immunology.
+N/A,Allergy,Clinical Medicine,Health Sciences,51.12,Medicine.
+N/A,Anesthesiology,Clinical Medicine,Health Sciences,51.12,Medicine.
+N/A,Arthritis & Rheumatology,Clinical Medicine,Health Sciences,51.12,Medicine.
+N/A,Cardiovascular System & Hematology,Clinical Medicine,Health Sciences,51.12,Medicine.
+N/A,Complementary & Alternative Medicine,Clinical Medicine,Health Sciences,51.33,Alternative and Complementary Medicine and Medical Systems.
+N/A,Dentistry,Clinical Medicine,Health Sciences,51.04,Dentistry.
+N/A,Dermatology & Venereal Diseases,Clinical Medicine,Health Sciences,51.12,Medicine.
+N/A,Emergency & Critical Care Medicine,Clinical Medicine,Health Sciences,51.12,Medicine.
+N/A,Endocrinology & Metabolism,Clinical Medicine,Health Sciences,51.12,Medicine.
+N/A,Environmental & Occupational Health,Clinical Medicine,Health Sciences,51.22,Public Health.
+N/A,Gastroenterology & Hepatology,Clinical Medicine,Health Sciences,51.12,Medicine.
+N/A,General & Internal Medicine,Clinical Medicine,Health Sciences,51.12,Medicine.
+N/A,General Clinical Medicine,Clinical Medicine,Health Sciences,51.12,Medicine.
+N/A,Geriatrics,Clinical Medicine,Health Sciences,30.11,Gerontology.
+N/A,Immunology,Clinical Medicine,Health Sciences,26.05,Microbiological Sciences and Immunology.
+N/A,Legal & Forensic Medicine,Clinical Medicine,Health Sciences,51.12,Medicine.
+N/A,Neurology & Neurosurgery,Clinical Medicine,Health Sciences,51.12,Medicine.
+N/A,Nuclear Medicine & Medical Imaging,Clinical Medicine,Health Sciences,51.09,"Allied Health Diagnostic, Intervention, and Treatment Professions."
+N/A,Obstetrics & Reproductive Medicine,Clinical Medicine,Health Sciences,51.12,Medicine.
+N/A,Oncology & Carcinogenesis,Clinical Medicine,Health Sciences,51.12,Medicine.
+N/A,Ophthalmology & Optometry,Clinical Medicine,Health Sciences,51.17,Optometry.
+N/A,Orthopedics,Clinical Medicine,Health Sciences,51.12,Medicine.
+N/A,Otorhinolaryngology,Clinical Medicine,Health Sciences,51.12,Medicine.
+N/A,Pathology,Clinical Medicine,Health Sciences,26.09,"Physiology, Pathology and Related Sciences."
+N/A,Pediatrics,Clinical Medicine,Health Sciences,51.12,Medicine.
+N/A,Pharmacology & Pharmacy,Clinical Medicine,Health Sciences,26.10,Pharmacology and Toxicology.
+N/A,Psychiatry,Clinical Medicine,Health Sciences,51.12,Medicine.
+N/A,Respiratory System,Clinical Medicine,Health Sciences,51.12,Medicine.
+N/A,Sport Sciences,Clinical Medicine,Health Sciences,31.05,Health and Physical Education/Fitness.
+N/A,Surgery,Clinical Medicine,Health Sciences,51.12,Medicine.
+N/A,Tropical Medicine,Clinical Medicine,Health Sciences,51.12,Medicine.
+N/A,Urology & Nephrology,Clinical Medicine,Health Sciences,51.12,Medicine.
+N/A,Behavioral Science & Comparative Psychology,Psychology & Cognitive Sciences,Health Sciences,42.05,Comparative Psychology.
+N/A,Clinical Psychology,Psychology & Cognitive Sciences,Health Sciences,42.02,Clinical Psychology.
+N/A,Developmental & Child Psychology,Psychology & Cognitive Sciences,Health Sciences,42.07,Developmental and Child Psychology.
+N/A,Experimental Psychology,Psychology & Cognitive Sciences,Health Sciences,42.08,Experimental Psychology.
+N/A,General Psychology & Cognitive Sciences,Psychology & Cognitive Sciences,Health Sciences,42.01,"Psychology, General."
+N/A,Human Factors,Psychology & Cognitive Sciences,Health Sciences,42.27,Research and Experimental Psychology.
+N/A,Psychoanalysis,Psychology & Cognitive Sciences,Health Sciences,42.28,"Clinical, Counseling and Applied Psychology."
+N/A,Social Psychology,Psychology & Cognitive Sciences,Health Sciences,42.16,Social Psychology.
+N/A,Epidemiology,Public Health & Health Services,Health Sciences,26.13,"Ecology, Evolution, Systematics, and Population Biology."
+N/A,Gerontology,Public Health & Health Services,Health Sciences,30.11,Gerontology.
+N/A,Health Policy & Services,Public Health & Health Services,Health Sciences,44.05,Public Policy Analysis.
+N/A,Nursing,Public Health & Health Services,Health Sciences,51.16,Nursing.
+N/A,Public Health,Public Health & Health Services,Health Sciences,51.22,Public Health.
+N/A,Rehabilitation,Public Health & Health Services,Health Sciences,51.23,Rehabilitation and Therapeutic Professions.
+N/A,Speech-Language Pathology & Audiology,Public Health & Health Services,Health Sciences,51.02,Communication Disorders Sciences and Services.
+N/A,Substance Abuse,Public Health & Health Services,Health Sciences,51.15,Mental and Social Health Services and Allied Professions.
+N/A,Ecology,Biology,Natural Sciences,26.13,"Ecology, Evolution, Systematics, and Population Biology."
+N/A,Entomology,Biology,Natural Sciences,26.07,Zoology/Animal Biology.
+N/A,Evolutionary Biology,Biology,Natural Sciences,26.13,"Ecology, Evolution, Systematics, and Population Biology."
+N/A,Marine Biology & Hydrobiology,Biology,Natural Sciences,26.13,"Ecology, Evolution, Systematics, and Population Biology."
+N/A,Ornithology,Biology,Natural Sciences,26.07,Zoology/Animal Biology.
+N/A,Plant Biology & Botany,Biology,Natural Sciences,26.03,Botany/Plant Biology.
+N/A,Zoology,Biology,Natural Sciences,26.07,Zoology/Animal Biology.
+N/A,Analytical Chemistry,Chemistry,Natural Sciences,40.05,Chemistry.
+N/A,General Chemistry,Chemistry,Natural Sciences,40.05,Chemistry.
+N/A,Inorganic & Nuclear Chemistry,Chemistry,Natural Sciences,40.05,Chemistry.
+N/A,Medicinal & Biomolecular Chemistry,Chemistry,Natural Sciences,51.20,"Pharmacy, Pharmaceutical Sciences, and Administration."
+N/A,Organic Chemistry,Chemistry,Natural Sciences,40.05,Chemistry.
+N/A,Physical Chemistry,Chemistry,Natural Sciences,40.05,Chemistry.
+N/A,Polymers,Chemistry,Natural Sciences,14.32,Polymer/Plastics Engineering.
+N/A,Environmental Sciences,Earth & Environmental Sciences,Natural Sciences,3.01,Natural Resources Conservation and Research.
+N/A,Geochemistry & Geophysics,Earth & Environmental Sciences,Natural Sciences,40.06,Geological and Earth Sciences/Geosciences.
+N/A,Geology,Earth & Environmental Sciences,Natural Sciences,40.06,Geological and Earth Sciences/Geosciences.
+N/A,Meteorology & Atmospheric Sciences,Earth & Environmental Sciences,Natural Sciences,40.04,Atmospheric Sciences and Meteorology.
+N/A,Oceanography,Earth & Environmental Sciences,Natural Sciences,40.06,Geological and Earth Sciences/Geosciences.
+N/A,Paleontology,Earth & Environmental Sciences,Natural Sciences,40.06,Geological and Earth Sciences/Geosciences.
+N/A,Applied Mathematics,Mathematics & Statistics,Natural Sciences,27.03,Applied Mathematics.
+N/A,General Mathematics,Mathematics & Statistics,Natural Sciences,27.01,Mathematics.
+N/A,Numerical & Computational Mathematics,Mathematics & Statistics,Natural Sciences,27.03,Applied Mathematics.
+N/A,Statistics & Probability,Mathematics & Statistics,Natural Sciences,27.05,Statistics.
+N/A,Acoustics,Physics & Astronomy,Natural Sciences,40.08,Physics.
+N/A,Applied Physics,Physics & Astronomy,Natural Sciences,40.08,Physics.
+N/A,Astronomy & Astrophysics,Physics & Astronomy,Natural Sciences,40.02,Astronomy and Astrophysics.
+N/A,Chemical Physics,Physics & Astronomy,Natural Sciences,40.05,Chemistry.
+N/A,Fluids & Plasmas,Physics & Astronomy,Natural Sciences,40.08,Physics.
+N/A,General Physics,Physics & Astronomy,Natural Sciences,40.08,Physics.
+N/A,Mathematical Physics,Physics & Astronomy,Natural Sciences,40.08,Physics.
+N/A,Nuclear & Particle Physics,Physics & Astronomy,Natural Sciences,40.08,Physics.
+N/A,Optics,Physics & Astronomy,Natural Sciences,40.08,Physics.

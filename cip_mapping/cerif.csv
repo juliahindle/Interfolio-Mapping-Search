@@ -1,0 +1,222 @@
+ID,Low Level Name,Mid Level Name,High Level Name,CIP Number,CIP Group Name
+1.01.01,Analysis,Mathematics,Natural sciences and Mathematics,27.01,Mathematics.
+1.01.02,Topology,Mathematics,Natural sciences and Mathematics,27.01,Mathematics.
+1.01.03,Numerical and computer mathematics,Mathematics,Natural sciences and Mathematics,30.08,Mathematics and Computer Science.
+1.01.04,Algebra,Mathematics,Natural sciences and Mathematics,27.01,Mathematics.
+1.01.05,Graph theory,Mathematics,Natural sciences and Mathematics,27.01,Mathematics.
+1.01.06,Probability and statistics,Mathematics,Natural sciences and Mathematics,27.05,Statistics.
+1.02.01,Physics of condensed matter,Physics,Natural sciences and Mathematics,40.08,Physics.
+1.02.02,Theoretical physics,Physics,Natural sciences and Mathematics,40.08,Physics.
+1.02.03,Astronomy,Physics,Natural sciences and Mathematics,40.02,Astronomy and Astrophysics.
+1.02.04,Meteorology and oceanography,Physics,Natural sciences and Mathematics,40.04,Atmospheric Sciences and Meteorology.
+1.02.05,Medium- and high-energy physics,Physics,Natural sciences and Mathematics,40.08,Physics.
+1.02.06,Experimental physics of elementary particles,Physics,Natural sciences and Mathematics,40.08,Physics.
+1.02.07,Biophysics,Physics,Natural sciences and Mathematics,26.02,"Biochemistry, Biophysics and Molecular Biology."
+1.02.08,Medical physics,Physics,Natural sciences and Mathematics,40.08,Physics.
+1.03.01,Zoology and zoophysiology,Biology,Natural sciences and Mathematics,26.07,Zoology/Animal Biology.
+1.03.02,Botany,Biology,Natural sciences and Mathematics,26.03,Botany/Plant Biology.
+1.03.03,Ecosystems,Biology,Natural sciences and Mathematics,26.13,"Ecology, Evolution, Systematics, and Population Biology."
+1.03.04,Plant physiology,Biology,Natural sciences and Mathematics,26.03,Botany/Plant Biology.
+1.04.01,Physical chemistry,Chemistry,Natural sciences and Mathematics,40.05,Chemistry.
+1.04.02,Structural chemistry,Chemistry,Natural sciences and Mathematics,40.05,Chemistry.
+1.04.03,Inorganic chemistry,Chemistry,Natural sciences and Mathematics,40.05,Chemistry.
+1.04.04,Organic chemistry,Chemistry,Natural sciences and Mathematics,40.05,Chemistry.
+1.04.05,Analytical chemistry,Chemistry,Natural sciences and Mathematics,40.05,Chemistry.
+1.04.06,Geochemistry,Chemistry,Natural sciences and Mathematics,40.06,Geological and Earth Sciences/Geosciences.
+1.05,Biochemistry and molecular biology,Biochemistry and molecular biology,Natural sciences and Mathematics,26.02,"Biochemistry, Biophysics and Molecular Biology."
+1.06.01,Mineralogy and petrology,Geology,Natural sciences and Mathematics,40.06,Geological and Earth Sciences/Geosciences.
+1.06.02,Palaeontology and biostratigraphy,Geology,Natural sciences and Mathematics,40.06,Geological and Earth Sciences/Geosciences.
+1.06.03,Sedimentology,Geology,Natural sciences and Mathematics,40.06,Geological and Earth Sciences/Geosciences.
+1.06.04,Geochemistry,Geology,Natural sciences and Mathematics,40.06,Geological and Earth Sciences/Geosciences.
+1.06.05,Geophysics,Geology,Natural sciences and Mathematics,40.06,Geological and Earth Sciences/Geosciences.
+1.06.06,Regional geology,Geology,Natural sciences and Mathematics,40.06,Geological and Earth Sciences/Geosciences.
+1.06.07,"Natural resources (mineral and energy raw materials, water)",Geology,Natural sciences and Mathematics,40.06,Geological and Earth Sciences/Geosciences.
+1.06.08,Environmental geology,Geology,Natural sciences and Mathematics,40.06,Geological and Earth Sciences/Geosciences.
+1.06.09,Geotechnology,Geology,Natural sciences and Mathematics,40.06,Geological and Earth Sciences/Geosciences.
+1.06.09,Information systems,Geology,Natural sciences and Mathematics,40.06,Geological and Earth Sciences/Geosciences.
+1.07.01,Algorithms,Computer intensive methods and applications,Natural sciences and Mathematics,11.02,Computer Programming.
+1.07.02,Optimisations,Computer intensive methods and applications,Natural sciences and Mathematics,11.02,Computer Programming.
+1.07.03,Simulations,Computer intensive methods and applications,Natural sciences and Mathematics,11.01,"Computer and Information Sciences, General."
+1.08,Control and care of the environment,Control and care of the environment,Natural sciences and Mathematics,3.01,Natural Resources Conservation and Research.
+1.09,Pharmacy,Pharmacy,Natural sciences and Mathematics,26.10,Pharmacology and Toxicology.
+2.01.01,Building materials,Civil engineering,Engineering sciences and technologies,14.33,Construction Engineering.
+2.01.02,Geotechnics,Civil engineering,Engineering sciences and technologies,14.08,Civil Engineering.
+2.01.03,Constructions in civil engineering,Civil engineering,Engineering sciences and technologies,14.08,Civil Engineering.
+2.01.04,Earthquake engineering,Civil engineering,Engineering sciences and technologies,14.39,Geological/Geophysical Engineering.
+2.01.05,Building physics,Civil engineering,Engineering sciences and technologies,14.08,Civil Engineering.
+2.01.06,Computer integrated construction of objects,Civil engineering,Engineering sciences and technologies,15.13,Drafting/Design Engineering Technologies/Technicians.
+2.02.01,Transport phenomena,Chemical engineering,Engineering sciences and technologies,14.07,Chemical Engineering.
+2.02.02,Separation processes,Chemical engineering,Engineering sciences and technologies,14.07,Chemical Engineering.
+2.02.03,Process system engineering,Chemical engineering,Engineering sciences and technologies,14.07,Chemical Engineering.
+2.02.04,Catalysis and reaction engineering,Chemical engineering,Engineering sciences and technologies,14.07,Chemical Engineering.
+2.02.05,Polymer engineering,Chemical engineering,Engineering sciences and technologies,14.32,Polymer/Plastics Engineering.
+2.02.06,Biochemical engineering,Chemical engineering,Engineering sciences and technologies,14.43,Biochemical Engineering.
+2.02.07,Inorganic products,Chemical engineering,Engineering sciences and technologies,14.07,Chemical Engineering.
+2.02.08,Organic products,Chemical engineering,Engineering sciences and technologies,14.07,Chemical Engineering.
+2.02.09,Ecological technology,Chemical engineering,Engineering sciences and technologies,14.14,Environmental/Environmental Health Engineering.
+2.03.01,Efficient energy usage,Energy engineering,Engineering sciences and technologies,15.00,"Engineering Technology, General."
+2.03.02,Fuels and energy conversion technology,Energy engineering,Engineering sciences and technologies,14.07,Chemical Engineering.
+2.03.03,Renewable resources and technologies,Energy engineering,Engineering sciences and technologies,14.14,Environmental/Environmental Health Engineering.
+2.03.04,Energy systems,Energy engineering,Engineering sciences and technologies,14.01,"Engineering, General."
+2.03.05,Systematic research,Energy engineering,Engineering sciences and technologies,14.01,"Engineering, General."
+2.04.01,Inorganic nonmetallic materials,Materials science and technology,Engineering sciences and technologies,14.31,Materials Science.
+2.04.02,Metallic materials,Materials science and technology,Engineering sciences and technologies,14.31,Materials Science.
+2.04.03,Polymer materials,Materials science and technology,Engineering sciences and technologies,14.32,Polymer/Plastics Engineering.
+2.05.01,Analytical mechanics,Mechanics,Engineering sciences and technologies,14.11,Engineering Mechanics.
+2.05.02,Experimental mechanics,Mechanics,Engineering sciences and technologies,14.19,Mechanical Engineering.
+2.05.03,Numerical modelling,Mechanics,Engineering sciences and technologies,14.11,Engineering Mechanics.
+2.05.04,Construction mechanics,Mechanics,Engineering sciences and technologies,14.33,Construction Engineering.
+2.05.05,Fluid mechanics,Mechanics,Engineering sciences and technologies,14.02,"Aerospace, Aeronautical and Astronautical Engineering."
+2.06.01,Control systems technology,Systems and cybernetics,Engineering sciences and technologies,14.27,Systems Engineering.
+2.06.02,System theory and control systems,Systems and cybernetics,Engineering sciences and technologies,14.27,Systems Engineering.
+2.06.03,Methods and tools for design and implementation of control systems,Systems and cybernetics,Engineering sciences and technologies,14.27,Systems Engineering.
+2.06.04,Elements of control systems,Systems and cybernetics,Engineering sciences and technologies,14.27,Systems Engineering.
+2.06.05,Application areas,Systems and cybernetics,Engineering sciences and technologies,11.01,"Computer and Information Sciences, General."
+2.06.06,Related areas,Systems and cybernetics,Engineering sciences and technologies,11.01,"Computer and Information Sciences, General."
+2.06.07,Biomedical technics,Systems and cybernetics,Engineering sciences and technologies,14.05,Biomedical/Medical Engineering.
+2.06.08,Medical electronics,Systems and cybernetics,Engineering sciences and technologies,14.05,Biomedical/Medical Engineering.
+2.06.09,Medical physics,Systems and cybernetics,Engineering sciences and technologies,26.02,"Biochemistry, Biophysics and Molecular Biology."
+2.06.10,Medical informatics,Systems and cybernetics,Engineering sciences and technologies,51.27,Medical Illustration and Informatics.
+2.07.01,"Computer structures, systems and networks - software",Computer science and informatics,Engineering sciences and technologies,11.09,Computer Systems Networking and Telecommunications.
+2.07.02,"Computer structures, systems and networks - hardware",Computer science and informatics,Engineering sciences and technologies,11.09,Computer Systems Networking and Telecommunications.
+2.07.03,Programming technologies - software,Computer science and informatics,Engineering sciences and technologies,11.02,Computer Programming.
+2.07.04,Programming technologies - hardware,Computer science and informatics,Engineering sciences and technologies,14.09,Computer Engineering.
+2.07.05,Information systems - software,Computer science and informatics,Engineering sciences and technologies,52.12,Management Information Systems and Services.
+2.07.06,Information systems - hardware,Computer science and informatics,Engineering sciences and technologies,14.09,Computer Engineering.
+2.07.07,Intelligent systems - software,Computer science and informatics,Engineering sciences and technologies,11.08,Computer Software and Media Applications.
+2.07.08,Intelligent systems - hardware,Computer science and informatics,Engineering sciences and technologies,14.09,Computer Engineering.
+2.08,Telecommunications,Telecommunications,Engineering sciences and technologies,52.21,Telecommunications Management.
+2.09.01,Materials for electronic components,Electronic components and technologies,Engineering sciences and technologies,14.10,"Electrical, Electronics and Communications Engineering."
+2.09.02,Electronic components,Electronic components and technologies,Engineering sciences and technologies,14.10,"Electrical, Electronics and Communications Engineering."
+2.09.03,Microelectronics,Electronic components and technologies,Engineering sciences and technologies,14.10,"Electrical, Electronics and Communications Engineering."
+2.09.04,Optoelectronics,Electronic components and technologies,Engineering sciences and technologies,14.10,"Electrical, Electronics and Communications Engineering."
+2.09.05,Vacuum technologies,Electronic components and technologies,Engineering sciences and technologies,14.10,"Electrical, Electronics and Communications Engineering."
+2.09.06,Characterisation of electronic components and materials,Electronic components and technologies,Engineering sciences and technologies,14.10,"Electrical, Electronics and Communications Engineering."
+2.10.01,Manufacturing cybernetics,Manufacturing technologies and systems,Engineering sciences and technologies,15.06,Industrial Production Technologies/Technicians.
+2.10.02,Manufacturing technology,Manufacturing technologies and systems,Engineering sciences and technologies,15.06,Industrial Production Technologies/Technicians.
+2.10.03,Automation,Manufacturing technologies and systems,Engineering sciences and technologies,14.42,"Mechatronics, Robotics, and Automation Engineering."
+2.10.04,Robotics,Manufacturing technologies and systems,Engineering sciences and technologies,14.42,"Mechatronics, Robotics, and Automation Engineering."
+2.10.05,Industrial engineering,Manufacturing technologies and systems,Engineering sciences and technologies,14.35,Industrial Engineering.
+2.10.06,Welding,Manufacturing technologies and systems,Engineering sciences and technologies,48.05,Precision Metal Working.
+2.11.01,Basic and system know-how,Mechanical design,Engineering sciences and technologies,15.13,Drafting/Design Engineering Technologies/Technicians.
+2.11.02,Special constructions know-how,Mechanical design,Engineering sciences and technologies,15.08,Mechanical Engineering Related Technologies/Technicians.
+2.11.03,Special development know-how,Mechanical design,Engineering sciences and technologies,15.08,Mechanical Engineering Related Technologies/Technicians.
+2.11.04,"Machine parts, engines and devices",Mechanical design,Engineering sciences and technologies,15.08,Mechanical Engineering Related Technologies/Technicians.
+2.12.01,Electromagnetic transformers,Electric devices,Engineering sciences and technologies,14.10,"Electrical, Electronics and Communications Engineering."
+2.12.02,Transformers of power electronics,Electric devices,Engineering sciences and technologies,14.10,"Electrical, Electronics and Communications Engineering."
+2.12.03,Integrated propulsion systems,Electric devices,Engineering sciences and technologies,14.10,"Electrical, Electronics and Communications Engineering."
+2.12.04,Switching devices,Electric devices,Engineering sciences and technologies,14.10,"Electrical, Electronics and Communications Engineering."
+2.13.01,Multi-phase systems,Process engineering,Engineering sciences and technologies,14.12,Engineering Physics.
+2.13.02,Transmissibility in solids and fluids,Process engineering,Engineering sciences and technologies,14.12,Engineering Physics.
+2.13.03,Transmission systems,Process engineering,Engineering sciences and technologies,46.03,Electrical and Power Transmission Installers.
+2.13.04,Industrial hazard,Process engineering,Engineering sciences and technologies,15.07,Quality Control and Safety Technologies/Technicians.
+2.13.05,Cryogenics,Process engineering,Engineering sciences and technologies,14.12,Engineering Physics.
+2.13.06,Combustion,Process engineering,Engineering sciences and technologies,14.12,Engineering Physics.
+2.13.07,Water power,Process engineering,Engineering sciences and technologies,14.39,Geological/Geophysical Engineering.
+2.14.01,Textile and technical fibres,Textile and leather,Engineering sciences and technologies,19.09,Apparel and Textiles.
+2.14.02,Textile chemistry,Textile and leather,Engineering sciences and technologies,19.09,Apparel and Textiles.
+2.14.03,Textile-mechanical processes,Textile and leather,Engineering sciences and technologies,19.09,Apparel and Textiles.
+2.14.04,Confectionery and textile design,Textile and leather,Engineering sciences and technologies,19.09,Apparel and Textiles.
+2.14.05,Leather manufacturing and leather work,Textile and leather,Engineering sciences and technologies,48.03,Leatherworking and Upholstery.
+2.15.01,Sensors and data acquisition,Metrology,Engineering sciences and technologies,11.03,Data Processing.
+2.15.02,Signals and transmission,Metrology,Engineering sciences and technologies,11.03,Data Processing.
+2.15.03,Processing and evaluation,Metrology,Engineering sciences and technologies,11.03,Data Processing.
+2.15.04,Metrologies in areas,Metrology,Engineering sciences and technologies,11.03,Data Processing.
+2.16.01,Mining,Mining and geotechnology,Engineering sciences and technologies,14.21,Mining and Mineral Engineering.
+2.16.02,Dispersive systems,Mining and geotechnology,Engineering sciences and technologies,14.21,Mining and Mineral Engineering.
+2.16.03,Geotechnology,Mining and geotechnology,Engineering sciences and technologies,14.39,Geological/Geophysical Engineering.
+2.16.04,Geotechnics,Mining and geotechnology,Engineering sciences and technologies,14.39,Geological/Geophysical Engineering.
+2.17,Geodesy,Geodesy,Engineering sciences and technologies,45.07,Geography and Cartography.
+2.19.01,Traffic technics and technology,Traffic systems,Engineering sciences and technologies,49.02,Ground Transportation.
+2.19.02,Entrepreneurial logistics,Traffic systems,Engineering sciences and technologies,52.07,Entrepreneurial and Small Business Operations.
+2.19.03,Traffic systems,Traffic systems,Engineering sciences and technologies,49.02,Ground Transportation.
+2.20,Hydrology,Hydrology,Engineering sciences and technologies,40.06,Geological and Earth Sciences/Geosciences.
+2.21,Technology driven physics,Technology driven physics,Engineering sciences and technologies,40.08,Physics.
+2.22.01,Graphic technology,Communications technology,Engineering sciences and technologies,10.03,Graphic Communications.
+2.22.02,Interactive technology,Communications technology,Engineering sciences and technologies,10.03,Graphic Communications.
+3.01,Microbiology and immunology,Microbiology and immunology,Medical sciences,26.05,Microbiological Sciences and Immunology.
+3.02,Stomatology,Stomatology,Medical sciences,51.05,Advanced/Graduate Dentistry and Oral Sciences.
+3.03,Neurobiology,Neurobiology,Medical sciences,26.15,Neurobiology and Neurosciences.
+3.04,Oncology,Oncology,Medical sciences,51.12,Medicine.
+3.05,Human reproduction,Human reproduction,Medical sciences,26.09,"Physiology, Pathology and Related Sciences."
+3.06,Cardiovascular system,Cardiovascular system,Medical sciences,51.12,Medicine.
+3.07,Metabolic and hormonal disorders,Metabolic and hormonal disorders,Medical sciences,51.12,Medicine.
+3.08,Public health (occupational safety),Public health (occupational safety),Medical sciences,51.22,Public Health.
+3.09,Psychiatry,Psychiatry,Medical sciences,51.12,Medicine.
+4.01.01,Forest - forestry,"Forestry, wood and paper technology",Biotechnical sciences,3.05,Forestry.
+4.01.02,Wood technology,"Forestry, wood and paper technology",Biotechnical sciences,3.05,Forestry.
+4.01.03,Paper technology,"Forestry, wood and paper technology",Biotechnical sciences,3.05,Forestry.
+4.02.01,Genetics and selection,Animal production,Biotechnical sciences,26.07,Zoology/Animal Biology.
+4.02.02,Animal nutrition,Animal production,Biotechnical sciences,1.09,Animal Sciences.
+4.02.03,Ethology and technology in stock-breeding,Animal production,Biotechnical sciences,1.09,Animal Sciences.
+4.02.04,Processing of animal raw materials,Animal production,Biotechnical sciences,1.03,Agricultural Production Operations.
+4.03.01,Agricultural plants,Plant production,Biotechnical sciences,1.11,Plant Sciences.
+4.03.02,Soil and micro-climate,Plant production,Biotechnical sciences,1.12,Soil Sciences.
+4.03.03,"Water, rural space, environment",Plant production,Biotechnical sciences,3.01,Natural Resources Conservation and Research.
+4.03.04,Sustainable agriculture,Plant production,Biotechnical sciences,1.03,Agricultural Production Operations.
+4.03.05,Phytomedicine,Plant production,Biotechnical sciences,26.03,Botany/Plant Biology.
+4.03.06,Agricultural technics,Plant production,Biotechnical sciences,1.01,Agricultural Business and Management.
+4.03.07,Technology of vegetal origin food,Plant production,Biotechnical sciences,1.01,Agricultural Business and Management.
+4.03.08,Economics of agro-food processing and rural development,Plant production,Biotechnical sciences,1.03,Agricultural Production Operations.
+4.04.01,"Morphology, physiology and animal reproduction",Veterinarian medicine,Biotechnical sciences,1.09,Animal Sciences.
+4.04.02,Animal pathology and epizootiology,Veterinarian medicine,Biotechnical sciences,51.24,Veterinary Medicine.
+4.04.03,Therapy and health prevention of animals,Veterinarian medicine,Biotechnical sciences,51.24,Veterinary Medicine.
+4.04.04,Health care of animals from aspect of herd preservation,Veterinarian medicine,Biotechnical sciences,51.24,Veterinary Medicine.
+4.04.05,Sanitary protection of animal origin food,Veterinarian medicine,Biotechnical sciences,51.24,Veterinary Medicine.
+4.05,Landscape design,Landscape design,Biotechnical sciences,4.06,Landscape Architecture.
+4.06.01,Recombinant DNA technology,Biotechnology,Biotechnical sciences,26.12,Biotechnology.
+4.06.02,Bio-engineering,Biotechnology,Biotechnical sciences,14.05,Biomedical/Medical Engineering.
+4.06.03,Animal biotechnology,Biotechnology,Biotechnical sciences,1.09,Animal Sciences.
+4.06.04,Microbe biotechnology,Biotechnology,Biotechnical sciences,26.12,Biotechnology.
+4.06.05,Plant biotechnology,Biotechnology,Biotechnical sciences,26.12,Biotechnology.
+4.06.06,Finishing processes in biotechnology,Biotechnology,Biotechnical sciences,26.12,Biotechnology.
+5.01.01,Pedagogy,Educational studies,Social sciences,13.99,"Education, Other."
+5.01.02,Adult education,Educational studies,Social sciences,13.12,"Teacher Education and Professional Development, Specific Levels and Methods."
+5.01.03,Special didactics,Educational studies,Social sciences,13.13,"Teacher Education and Professional Development, Specific Subject Areas."
+5.01.04,Orthopedagogy,Educational studies,Social sciences,13.10,Special Education and Teaching.
+5.01.05,"Kinesiology - pedagogical aspect (sport, training, motorial learning)",Educational studies,Social sciences,31.05,Health and Physical Education/Fitness.
+5.01.06,"Kinesiology - medical aspect (orthopedy, physiatry etc.)",Educational studies,Social sciences,31.05,Health and Physical Education/Fitness.
+5.01.07,"Kinesiology - biomechanical, biometrical aspect",Educational studies,Social sciences,31.05,Health and Physical Education/Fitness.
+5.02.01,Economics,Economics,Social sciences,45.06,Economics.
+5.02.02,Business sciences,Economics,Social sciences,52.01,"Business/Commerce, General."
+5.03,Sociology,Sociology,Social sciences,45.11,Sociology.
+5.04.01,Public administration,Administrative and organisational sciences,Social sciences,44.04,Public Administration.
+5.04.02,Public services,Administrative and organisational sciences,Social sciences,44.99,"Public Administration and Social Service Professions, Other."
+5.04.03,Management,Administrative and organisational sciences,Social sciences,52.02,"Business Administration, Management and Operations."
+5.04.04,Logistics,Administrative and organisational sciences,Social sciences,52.02,"Business Administration, Management and Operations."
+5.05,Law,Law,Social sciences,22.01,Law.
+5.06.01,Politology,Political science,Social sciences,45.10,Political Science and Government.
+5.06.02,International relations,Political science,Social sciences,45.09,International Relations and National Security Studies.
+5.06.03,Communication science,Political science,Social sciences,45.10,Political Science and Government.
+5.06.04,Defence science,Political science,Social sciences,28.06,Security Policy and Strategy.
+5.07,Criminology and social work,Criminology and social work,Social sciences,45.04,Criminology.
+5.08,Urbanism,Urbanism,Social sciences,45.12,Urban Studies/Affairs.
+5.09,Psychology,Psychology,Social sciences,42.01,"Psychology, General."
+5.10.01,"Kinesiology - pedagogical aspect (sport, training, motorial learning)",Sport,Social sciences,31.05,Health and Physical Education/Fitness.
+5.10.02,"Kinesiology - medical aspect (orthopedy, physiatry etc.)",Sport,Social sciences,31.05,Health and Physical Education/Fitness.
+5.10.03,"Kinesiology - biomechanical, biometrical aspect",Sport,Social sciences,31.05,Health and Physical Education/Fitness.
+5.11.01,Ethnic studies - social science aspect,Ethnic studies,Social sciences,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies."
+5.11.02,Ethnic studies - humanistic aspect,Ethnic studies,Social sciences,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies."
+5.12.01,Architecture,Architecture and Design,Social sciences,4.02,Architecture.
+5.12.02,"Design (Industrial, Visual)",Architecture and Design,Social sciences,50.04,Design and Applied Arts.
+5.13,Information science and librarianship,Information science and librarianship,Social sciences,25.01,Library Science and Administration.
+6.01,Historiography,Historiography,Humanities,54.01,History.
+6.02,Archaeology,Archaeology,Humanities,30.22,Classical and Ancient Studies.
+6.03.01,Physical anthropology,Anthropology,Humanities,45.02,Anthropology.
+6.03.02,Social and cultural anthropology,Anthropology,Humanities,45.02,Anthropology.
+6.04,Ethnology,Ethnology,Humanities,45.02,Anthropology.
+6.05.01,Languages - research,Linguistics,Humanities,16.01,"Linguistic, Comparative, and Related Language Studies and Services."
+6.05.02,Theoretical and applied linguistics,Linguistics,Humanities,16.01,"Linguistic, Comparative, and Related Language Studies and Services."
+6.06,Culturology,Culturology,Humanities,45.01,"Social Sciences, General."
+6.07,Literary sciences,Literary sciences,Humanities,16.01,"Linguistic, Comparative, and Related Language Studies and Services."
+6.08,Musicology,Musicology,Humanities,50.09,Music.
+6.09,Art history,Art history,Humanities,50.07,Fine and Studio Arts.
+6.10,Philosophy,Philosophy,Humanities,38.01,Philosophy.
+6.11,Theology,Theology,Humanities,39.06,Theological and Ministerial Studies.
+6.12.01,Physical geography,Geography,Humanities,40.01,Physical Sciences.
+6.12.02,Social geography,Geography,Humanities,45.01,"Social Sciences, General."
+6.12.03,Historical geography,Geography,Humanities,54.01,History.
+6.12.04,Regional geography,Geography,Humanities,4.03,"City/Urban, Community and Regional Planning."
+6.12.05,Applied geography,Geography,Humanities,45.07,Geography and Cartography.
+7.01,NCKS Research programme,NCKS Research programme,Interdisciplinary studies,30.00,"Multi-/Interdisciplinary Studies, General."
+7.02,Interdisciplinary research,Interdisciplinary research,Interdisciplinary studies,30.00,"Multi-/Interdisciplinary Studies, General."

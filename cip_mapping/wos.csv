@@ -1,0 +1,263 @@
+ID,Low Level Name,Mid Level Name,High Level Name,CIP Number,CIP Group Name
+N/A,Acoustics,N/A,Science Citation Index,40.08,Physics.
+N/A,Agricultural Economics & Policy,N/A,Science Citation Index,1.01,Agricultural Business and Management.
+N/A,Agricultural Engineering,N/A,Science Citation Index,14.03,Agricultural Engineering.
+N/A,"Agriculture, Dairy & Animal Science",N/A,Science Citation Index,1.05,Agricultural and Domestic Animal Services.
+N/A,"Agriculture, Multidisciplinary",N/A,Science Citation Index,1.00,"Agriculture, General."
+N/A,Agronomy,N/A,Science Citation Index,1.11,Plant Sciences.
+N/A,Allergy,N/A,Science Citation Index,51.12,Medicine.
+N/A,Anatomy & Morphology,N/A,Science Citation Index,26.04,Cell/Cellular Biology and Anatomical Sciences.
+N/A,Andrology,N/A,Science Citation Index,51.12,Medicine.
+N/A,Anesthesiology,N/A,Science Citation Index,51.12,Medicine.
+N/A,Astronomy & Astrophysics,N/A,Science Citation Index,40.02,Astronomy and Astrophysics.
+N/A,Audiology & Speech-Language Pathology,N/A,Science Citation Index,51.02,Communication Disorders Sciences and Services.
+N/A,Automation & Control Systems,N/A,Science Citation Index,14.42,"Mechatronics, Robotics, and Automation Engineering."
+N/A,Behavioral Sciences,N/A,Science Citation Index,30.17,Behavioral Sciences.
+N/A,Biochemical Research Methods,N/A,Science Citation Index,14.43,Biochemical Engineering.
+N/A,Molecular Biology & Molecular Biology,N/A,Science Citation Index,26.02,"Biochemistry, Biophysics and Molecular Biology."
+N/A,Biodiversity Conservation,N/A,Science Citation Index,3.01,Natural Resources Conservation and Research.
+N/A,Biology,N/A,Science Citation Index,26.01,"Biology, General."
+N/A,Biophysics,N/A,Science Citation Index,26.02,"Biochemistry, Biophysics and Molecular Biology."
+N/A,Biotechnology & Applied Microbiology,N/A,Science Citation Index,26.12,Biotechnology.
+N/A,Cardiac & Cardiovascular Systems,N/A,Science Citation Index,51.12,Medicine.
+N/A,Cell Biology,N/A,Science Citation Index,26.04,Cell/Cellular Biology and Anatomical Sciences.
+N/A,Cell & Tissue Engineering,N/A,Science Citation Index,14.05,Biomedical/Medical Engineering.
+N/A,"Chemistry, Analytical",N/A,Science Citation Index,40.05,Chemistry.
+N/A,"Chemistry, Applied",N/A,Science Citation Index,40.05,Chemistry.
+N/A,"Chemistry, Inorganic & Nuclear",N/A,Science Citation Index,40.05,Chemistry.
+N/A,"Chemistry, Medicinal",N/A,Science Citation Index,51.20,"Pharmacy, Pharmaceutical Sciences, and Administration."
+N/A,"Chemistry, Multidisciplinary",N/A,Science Citation Index,40.05,Chemistry.
+N/A,"Chemistry, Organic",N/A,Science Citation Index,40.05,Chemistry.
+N/A,"Chemistry, Physical",N/A,Science Citation Index,40.05,Chemistry.
+N/A,Clinical Neurology,N/A,Science Citation Index,51.12,Medicine.
+N/A,"Computer Science, Artificial Intelligence",N/A,Science Citation Index,11.07,Computer Science.
+N/A,"Computer Science, Cybernetics",N/A,Science Citation Index,11.07,Computer Science.
+N/A,"Computer Science, Hardware & Architecture",N/A,Science Citation Index,14.09,Computer Engineering.
+N/A,"Computer Science, Information Systems",N/A,Science Citation Index,11.07,Computer Science.
+N/A,"Computer Science, Interdisciplinary Applications",N/A,Science Citation Index,11.07,Computer Science.
+N/A,"Computer Science, Software Engineering",N/A,Science Citation Index,11.08,Computer Software and Media Applications.
+N/A,"Computer Science, Theory & Methods",N/A,Science Citation Index,11.07,Computer Science.
+N/A,Construction & Building Technology,N/A,Science Citation Index,14.33,Construction Engineering.
+N/A,Critical Care Medicine,N/A,Science Citation Index,51.12,Medicine.
+N/A,Crystallography,N/A,Science Citation Index,40.08,Physics.
+N/A,"Dentistry, Oral Surgery & Medicine",N/A,Science Citation Index,51.04,Dentistry.
+N/A,Dermatology,N/A,Science Citation Index,51.12,Medicine.
+N/A,Developmental Biology,N/A,Science Citation Index,26.04,Cell/Cellular Biology and Anatomical Sciences.
+N/A,Ecology,N/A,Science Citation Index,26.13,"Ecology, Evolution, Systematics, and Population Biology."
+N/A,"Education, Scientific Disciplines",N/A,Science Citation Index,13.01,"Education, General."
+N/A,Electrochemistry,N/A,Science Citation Index,40.05,Chemistry.
+N/A,Emergency Medicine,N/A,Science Citation Index,51.12,Medicine.
+N/A,Endocrinology & Metabolism,N/A,Science Citation Index,51.12,Medicine.
+N/A,Energy & Fuels,N/A,Science Citation Index,15.05,Environmental Control Technologies/Technicians.
+N/A,"Engineering, Aerospace",N/A,Science Citation Index,14.02,"Aerospace, Aeronautical and Astronautical Engineering."
+N/A,"Engineering, Biomedical",N/A,Science Citation Index,14.05,Biomedical/Medical Engineering.
+N/A,"Engineering, Chemical",N/A,Science Citation Index,14.07,Chemical Engineering.
+N/A,"Engineering, Civil",N/A,Science Citation Index,14.08,Civil Engineering.
+N/A,"Engineering, Electrical & Electronic",N/A,Science Citation Index,14.10,"Electrical, Electronics and Communications Engineering."
+N/A,"Engineering, Environmental",N/A,Science Citation Index,14.14,Environmental/Environmental Health Engineering.
+N/A,"Engineering, Geological",N/A,Science Citation Index,14.39,Geological/Geophysical Engineering.
+N/A,"Engineering, Industrial",N/A,Science Citation Index,14.35,Industrial Engineering.
+N/A,"Engineering, Manufacturing",N/A,Science Citation Index,14.36,Manufacturing Engineering.
+N/A,"Engineering, Marine",N/A,Science Citation Index,14.22,Naval Architecture and Marine Engineering.
+N/A,"Engineering, Mechanical",N/A,Science Citation Index,14.19,Mechanical Engineering.
+N/A,"Engineering, Multidisciplinary",N/A,Science Citation Index,14.99,"Engineering, Other."
+N/A,"Engineering, Ocean",N/A,Science Citation Index,14.24,Ocean Engineering.
+N/A,"Engineering, Petroleum",N/A,Science Citation Index,14.21,Mining and Mineral Engineering.
+N/A,Entomology,N/A,Science Citation Index,26.07,Zoology/Animal Biology.
+N/A,Environmental Sciences,N/A,Science Citation Index,3.01,Natural Resources Conservation and Research.
+N/A,Evolutionary Biology,N/A,Science Citation Index,26.13,"Ecology, Evolution, Systematics, and Population Biology."
+N/A,Fisheries,N/A,Science Citation Index,3.03,Fishing and Fisheries Sciences and Management.
+N/A,Food Science & Technology,N/A,Science Citation Index,1.10,Food Science and Technology.
+N/A,Forestry,N/A,Science Citation Index,3.05,Forestry.
+N/A,Gastroenterology & Hepatology,N/A,Science Citation Index,51.12,Medicine.
+N/A,Genetics & Heredity,N/A,Science Citation Index,26.08,Genetics.
+N/A,Geochemistry & Geophysics,N/A,Science Citation Index,40.06,Geological and Earth Sciences/Geosciences.
+N/A,"Geography, Physical",N/A,Science Citation Index,45.07,Geography and Cartography.
+N/A,Geology,N/A,Science Citation Index,40.06,Geological and Earth Sciences/Geosciences.
+N/A,"Geosciences, Multidisciplinary",N/A,Science Citation Index,40.06,Geological and Earth Sciences/Geosciences.
+N/A,Geriatrics & Gerontology,N/A,Science Citation Index,30.11,Gerontology.
+N/A,Green & Sustainable Science & Technology,N/A,Science Citation Index,3.01,Natural Resources Conservation and Research.
+N/A,Health Care Sciences & Services,N/A,Science Citation Index,51.07,Health and Medical Administrative Services.
+N/A,Hematology,N/A,Science Citation Index,51.12,Medicine.
+N/A,History & Philosophy of Science,N/A,Science Citation Index,54.01,History.
+N/A,Horticulture,N/A,Science Citation Index,1.06,Applied Horticulture and Horticultural Business Services.
+N/A,Imaging Science & Photographic Technology,N/A,Science Citation Index,10.02,Audiovisual Communications Technologies/Technicians.
+N/A,Immunology,N/A,Science Citation Index,26.05,Microbiological Sciences and Immunology.
+N/A,Infectious Diseases,N/A,Science Citation Index,51.22,Public Health.
+N/A,Instruments & Instrumentation,N/A,Science Citation Index,15.04,Electromechanical Instrumentation and Maintenance Technologies/Technicians.
+N/A,Integrative & Complementary Medicine,N/A,Science Citation Index,51.33,Alternative and Complementary Medicine and Medical Systems.
+N/A,Limnology,N/A,Science Citation Index,26.13,"Ecology, Evolution, Systematics, and Population Biology."
+N/A,Logic,N/A,Science Citation Index,38.01,Philosophy.
+N/A,Marine & Freshwater Biology,N/A,Science Citation Index,26.13,"Ecology, Evolution, Systematics, and Population Biology."
+N/A,"Materials Science, Biomaterials",N/A,Science Citation Index,40.10,Materials Sciences.
+N/A,"Materials Science, Ceramics",N/A,Science Citation Index,40.10,Materials Sciences.
+N/A,"Materials Science, Characterization & Testing",N/A,Science Citation Index,40.10,Materials Sciences.
+N/A,"Materials Science, Coatings & Films",N/A,Science Citation Index,40.10,Materials Sciences.
+N/A,"Materials Science, Composites",N/A,Science Citation Index,40.10,Materials Sciences.
+N/A,"Materials Science, Multidisciplinary",N/A,Science Citation Index,40.10,Materials Sciences.
+N/A,"Materials Science, Paper & Wood",N/A,Science Citation Index,40.10,Materials Sciences.
+N/A,"Materials Science, Textiles",N/A,Science Citation Index,40.10,Materials Sciences.
+N/A,Mathematical & Computational Biology,N/A,Science Citation Index,26.11,"Biomathematics, Bioinformatics, and Computational Biology."
+N/A,Mathematics,N/A,Science Citation Index,27.01,Mathematics.
+N/A,"Mathematics, Applied",N/A,Science Citation Index,27.03,Applied Mathematics.
+N/A,"Mathematics, Interdisciplinary Applications",N/A,Science Citation Index,27.01,Mathematics.
+N/A,Mechanics,N/A,Science Citation Index,14.11,Engineering Mechanics.
+N/A,Medical Ethics,N/A,Science Citation Index,51.32,Bioethics/Medical Ethics.
+N/A,Medical Informatics,N/A,Science Citation Index,51.27,Medical Illustration and Informatics.
+N/A,Medical Laboratory Technology,N/A,Science Citation Index,51.10,Clinical/Medical Laboratory Science/Research and Allied Professions.
+N/A,"Medicine, General & Internal",N/A,Science Citation Index,51.12,Medicine.
+N/A,"Medicine, Legal",N/A,Science Citation Index,22.02,Legal Research and Advanced Professional Studies.
+N/A,"Medicine, Research & Experimental",N/A,Science Citation Index,51.99,"Health Professions and Related Clinical Sciences, Other."
+N/A,Metallurgy & Metallurgical Engineering,N/A,Science Citation Index,14.20,Metallurgical Engineering.
+N/A,Meteorology & Atmospheric Sciences,N/A,Science Citation Index,40.04,Atmospheric Sciences and Meteorology.
+N/A,Microbiology,N/A,Science Citation Index,26.05,Microbiological Sciences and Immunology.
+N/A,Microscopy,N/A,Science Citation Index,26.01,"Biology, General."
+N/A,Mineralogy,N/A,Science Citation Index,14.39,Geological/Geophysical Engineering.
+N/A,Mining & Mineral Processing,N/A,Science Citation Index,14.21,Mining and Mineral Engineering.
+N/A,Multidisciplinary Sciences,N/A,Science Citation Index,30.00,"Multi-/Interdisciplinary Studies, General."
+N/A,Mycology,N/A,Science Citation Index,26.05,Microbiological Sciences and Immunology.
+N/A,Nanoscience & Nanotechnology,N/A,Science Citation Index,15.16,Nanotechnology.
+N/A,Neuroimaging,N/A,Science Citation Index,51.09,"Allied Health Diagnostic, Intervention, and Treatment Professions."
+N/A,Neurosciences,N/A,Science Citation Index,26.15,Neurobiology and Neurosciences.
+N/A,Nuclear Science & Technology,N/A,Science Citation Index,14.23,Nuclear Engineering.
+N/A,Nursing,N/A,Science Citation Index,51.16,Nursing.
+N/A,Nutrition & Dietetics,N/A,Science Citation Index,19.05,"Foods, Nutrition, and Related Services."
+N/A,Obstetrics & Gynecology,N/A,Science Citation Index,51.12,Medicine.
+N/A,Oceanography,N/A,Science Citation Index,40.06,Geological and Earth Sciences/Geosciences.
+N/A,Oncology,N/A,Science Citation Index,51.12,Medicine.
+N/A,Operations Research & Management Science,N/A,Science Citation Index,14.37,Operations Research.
+N/A,Ophthalmology,N/A,Science Citation Index,51.17,Optometry.
+N/A,Optics,N/A,Science Citation Index,40.08,Physics.
+N/A,Ornithology,N/A,Science Citation Index,26.07,Zoology/Animal Biology.
+N/A,Orthopedics,N/A,Science Citation Index,51.19,Osteopathic Medicine/Osteopathy.
+N/A,Otorhinolaryngology,N/A,Science Citation Index,51.12,Medicine.
+N/A,Paleontology,N/A,Science Citation Index,40.06,Geological and Earth Sciences/Geosciences.
+N/A,Parasitology,N/A,Science Citation Index,26.05,Microbiological Sciences and Immunology.
+N/A,Pathology,N/A,Science Citation Index,26.09,"Physiology, Pathology and Related Sciences."
+N/A,Pediatrics,N/A,Science Citation Index,51.12,Medicine.
+N/A,Peripheral Vascular Disease,N/A,Science Citation Index,51.12,Medicine.
+N/A,Pharmacology & Pharmacy,N/A,Science Citation Index,26.10,Pharmacology and Toxicology.
+N/A,"Physics, Applied",N/A,Science Citation Index,14.12,Engineering Physics.
+N/A,"Physics, Atomic, Molecular & Chemical",N/A,Science Citation Index,40.08,Physics.
+N/A,"Physics, Condensed Matter",N/A,Science Citation Index,40.08,Physics.
+N/A,"Physics, Fluids & Plasmas",N/A,Science Citation Index,40.08,Physics.
+N/A,"Physics, Mathematical",N/A,Science Citation Index,40.08,Physics.
+N/A,"Physics, Multidisciplinary",N/A,Science Citation Index,40.08,Physics.
+N/A,"Physics, Nuclear",N/A,Science Citation Index,40.08,Physics.
+N/A,"Physics, Particles & Fields",N/A,Science Citation Index,40.08,Physics.
+N/A,Physiology,N/A,Science Citation Index,26.09,"Physiology, Pathology and Related Sciences."
+N/A,Plant Sciences,N/A,Science Citation Index,1.11,Plant Sciences.
+N/A,Polymer Science,N/A,Science Citation Index,40.10,Materials Sciences.
+N/A,Primary Health Care,N/A,Science Citation Index,51.07,Health and Medical Administrative Services.
+N/A,Psychiatry,N/A,Science Citation Index,51.12,Medicine.
+N/A,Psychology,N/A,Science Citation Index,42.01,"Psychology, General."
+N/A,"Public, Environmental & Occupational Health",N/A,Science Citation Index,51.22,Public Health.
+N/A,"Radiology, Nuclear Medicine & Medical Imaging",N/A,Science Citation Index,51.09,"Allied Health Diagnostic, Intervention, and Treatment Professions."
+N/A,Rehabilitation,N/A,Science Citation Index,51.23,Rehabilitation and Therapeutic Professions.
+N/A,Remote Sensing,N/A,Science Citation Index,45.07,Geography and Cartography.
+N/A,Reproductive Biology,N/A,Science Citation Index,26.13,"Ecology, Evolution, Systematics, and Population Biology."
+N/A,Respiratory System,N/A,Science Citation Index,51.12,Medicine.
+N/A,Rheumatology,N/A,Science Citation Index,51.12,Medicine.
+N/A,Robotics,N/A,Science Citation Index,14.42,"Mechatronics, Robotics, and Automation Engineering."
+N/A,Soil Science,N/A,Science Citation Index,1.12,Soil Sciences.
+N/A,Spectroscopy,N/A,Science Citation Index,40.05,Chemistry.
+N/A,Sport Sciences,N/A,Science Citation Index,31.05,Health and Physical Education/Fitness.
+N/A,Statistics & Probability,N/A,Science Citation Index,27.05,Statistics.
+N/A,Substance Abuse,N/A,Science Citation Index,51.15,Mental and Social Health Services and Allied Professions.
+N/A,Surgery,N/A,Science Citation Index,51.12,Medicine.
+N/A,Telecommunications,N/A,Science Citation Index,11.09,Computer Systems Networking and Telecommunications.
+N/A,Thermodynamics,N/A,Science Citation Index,40.08,Physics.
+N/A,Toxicology,N/A,Science Citation Index,26.10,Pharmacology and Toxicology.
+N/A,Transplantation,N/A,Science Citation Index,51.12,Medicine.
+N/A,Transportation Science & Technology,N/A,Science Citation Index,49.99,"Transportation and Materials Moving, Other."
+N/A,Tropical Medicine,N/A,Science Citation Index,51.12,Medicine.
+N/A,Urology & Nephrology,N/A,Science Citation Index,51.12,Medicine.
+N/A,Veterinary Sciences,N/A,Science Citation Index,51.25,Veterinary Biomedical and Clinical Sciences.
+N/A,Virology,N/A,Science Citation Index,26.05,Microbiological Sciences and Immunology.
+N/A,Water Resources,N/A,Science Citation Index,26.13,"Ecology, Evolution, Systematics, and Population Biology."
+N/A,Zoology,N/A,Science Citation Index,26.07,Zoology/Animal Biology.
+N/A,Anthropology,N/A,Social Science Citation Index,45.02,Anthropology.
+N/A,Area Studies,N/A,Social Science Citation Index,5.01,Area Studies.
+N/A,Business,N/A,Social Science Citation Index,52.01,"Business/Commerce, General."
+N/A,"Business, Finance",N/A,Social Science Citation Index,52.08,Finance and Financial Management Services.
+N/A,Cultural Studies,N/A,Social Science Citation Index,30.26,Cultural Studies/Critical Theory and Analysis.
+N/A,Communication,N/A,Social Science Citation Index,9.01,Communication and Media Studies.
+N/A,Criminology & Penology,N/A,Social Science Citation Index,45.04,Criminology.
+N/A,Demography,N/A,Social Science Citation Index,45.05,Demography and Population Studies.
+N/A,Economics,N/A,Social Science Citation Index,45.06,Economics.
+N/A,Education & Educational Research,N/A,Social Science Citation Index,13.01,"Education, General."
+N/A,"Education, Special",N/A,Social Science Citation Index,13.10,Special Education and Teaching.
+N/A,Environmental Studies,N/A,Social Science Citation Index,3.01,Natural Resources Conservation and Research.
+N/A,Ergonomics,N/A,Social Science Citation Index,14.35,Industrial Engineering.
+N/A,Ethics,N/A,Social Science Citation Index,38.01,Philosophy.
+N/A,Ethnic Studies,N/A,Social Science Citation Index,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies."
+N/A,Family Studies,N/A,Social Science Citation Index,19.07,"Human Development, Family Studies, and Related Services."
+N/A,Geography,N/A,Social Science Citation Index,45.07,Geography and Cartography.
+N/A,Gerontology,N/A,Social Science Citation Index,30.11,Gerontology.
+N/A,Green & Sustainable Science & Technology,N/A,Social Science Citation Index,30.33,Sustainability Studies.
+N/A,Health Policy & Services,N/A,Social Science Citation Index,44.05,Public Policy Analysis.
+N/A,History,N/A,Social Science Citation Index,54.01,History.
+N/A,History & Philosophy Of Science,N/A,Social Science Citation Index,54.01,History.
+N/A,History of Social Sciences,N/A,Social Science Citation Index,54.01,History.
+N/A,"Hospitality, Leisure, Sport & Tourism",N/A,Social Science Citation Index,52.09,Hospitality Administration/Management.
+N/A,Industrial Relations & Labor,N/A,Social Science Citation Index,52.10,Human Resources Management and Services.
+N/A,Information Science & Library Science,N/A,Social Science Citation Index,25.01,Library Science and Administration.
+N/A,International Relations,N/A,Social Science Citation Index,45.09,International Relations and National Security Studies.
+N/A,Law,N/A,Social Science Citation Index,22.01,Law.
+N/A,Linguistics,N/A,Social Science Citation Index,16.01,"Linguistic, Comparative, and Related Language Studies and Services."
+N/A,Management,N/A,Social Science Citation Index,52.99,"Business, Management, Marketing, and Related Support Services, Other."
+N/A,Nursing,N/A,Social Science Citation Index,51.16,Nursing.
+N/A,Planning & Development,N/A,Social Science Citation Index,4.03,"City/Urban, Community and Regional Planning."
+N/A,Political Science,N/A,Social Science Citation Index,45.10,Political Science and Government.
+N/A,Psychiatry,N/A,Social Science Citation Index,51.12,Medicine.
+N/A,"Psychology, Applied",N/A,Social Science Citation Index,42.28,"Clinical, Counseling and Applied Psychology."
+N/A,"Psychology, Biological",N/A,Social Science Citation Index,42.11,Physiological Psychology/Psychobiology.
+N/A,"Psychology, Clinical",N/A,Social Science Citation Index,42.28,"Clinical, Counseling and Applied Psychology."
+N/A,"Psychology, Developmental",N/A,Social Science Citation Index,42.07,Developmental and Child Psychology.
+N/A,"Psychology, Educational",N/A,Social Science Citation Index,42.18,Educational Psychology.
+N/A,"Psychology, Experimental",N/A,Social Science Citation Index,42.27,Research and Experimental Psychology.
+N/A,"Psychology, Mathematical",N/A,Social Science Citation Index,42.01,"Psychology, General."
+N/A,"Psychology, Multidisciplinary",N/A,Social Science Citation Index,42.01,"Psychology, General."
+N/A,"Psychology, Psychoanalysis",N/A,Social Science Citation Index,42.28,"Clinical, Counseling and Applied Psychology."
+N/A,"Psychology, Social",N/A,Social Science Citation Index,42.01,"Psychology, General."
+N/A,Public Administration,N/A,Social Science Citation Index,44.04,Public Administration.
+N/A,"Public, Environmental & Occupational Health",N/A,Social Science Citation Index,51.22,Public Health.
+N/A,Rehabilitation,N/A,Social Science Citation Index,51.23,Rehabilitation and Therapeutic Professions.
+N/A,Social Issues,N/A,Social Science Citation Index,45.01,"Social Sciences, General."
+N/A,"Social Sciences, Biomedical",N/A,Social Science Citation Index,45.01,"Social Sciences, General."
+N/A,"Social Sciences, Interdisciplinary",N/A,Social Science Citation Index,45.01,"Social Sciences, General."
+N/A,"Social Sciences, Mathematical Methods",N/A,Social Science Citation Index,45.01,"Social Sciences, General."
+N/A,Social Work,N/A,Social Science Citation Index,44.07,Social Work.
+N/A,Sociology,N/A,Social Science Citation Index,45.11,Sociology.
+N/A,Substance Abuse,N/A,Social Science Citation Index,51.15,Mental and Social Health Services and Allied Professions.
+N/A,Transportation,N/A,Social Science Citation Index,49.99,"Transportation and Materials Moving, Other."
+N/A,Urban Studies,N/A,Social Science Citation Index,45.12,Urban Studies/Affairs.
+N/A,Women's Studies,N/A,Social Science Citation Index,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies."
+N/A,Archaeology,N/A,Arts and Humanities Citation Index,45.03,Archeology.
+N/A,Architecture,N/A,Arts and Humanities Citation Index,4.02,Architecture.
+N/A,Art,N/A,Arts and Humanities Citation Index,50.07,Fine and Studio Arts.
+N/A,Asian Studies,N/A,Arts and Humanities Citation Index,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies."
+N/A,Classics,N/A,Arts and Humanities Citation Index,16.12,"Classics and Classical Languages, Literatures, and Linguistics."
+N/A,Cultural studies,N/A,Arts and Humanities Citation Index,30.26,Cultural Studies/Critical Theory and Analysis.
+N/A,Dance,N/A,Arts and Humanities Citation Index,50.03,Dance.
+N/A,"Film, Radio, Television",N/A,Arts and Humanities Citation Index,9.07,"Radio, Television, and Digital Communication."
+N/A,Folklore,N/A,Arts and Humanities Citation Index,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies."
+N/A,History,N/A,Arts and Humanities Citation Index,54.01,History.
+N/A,History & Philosophy Of Science,N/A,Arts and Humanities Citation Index,54.01,History.
+N/A,"Humanities, Multidisciplinary",N/A,Arts and Humanities Citation Index,24.01,"Liberal Arts and Sciences, General Studies and Humanities."
+N/A,Language & Linguistics,N/A,Arts and Humanities Citation Index,16.01,"Linguistic, Comparative, and Related Language Studies and Services."
+N/A,Literary Reviews,N/A,Arts and Humanities Citation Index,23.14,Literature.
+N/A,Literary Theory & Criticism,N/A,Arts and Humanities Citation Index,23.14,Literature.
+N/A,Literature,N/A,Arts and Humanities Citation Index,23.14,Literature.
+N/A,"Literature, African, Australian, Canadian",N/A,Arts and Humanities Citation Index,16.01,"Linguistic, Comparative, and Related Language Studies and Services."
+N/A,"Literature, American",N/A,Arts and Humanities Citation Index,16.10,"American Indian/Native American Languages, Literatures, and Linguistics."
+N/A,"Literature, British Isles",N/A,Arts and Humanities Citation Index,23.08,English Literature (British and Commonwealth).
+N/A,"Literature, German, Dutch, Scandinavian",N/A,Arts and Humanities Citation Index,16.99,"Foreign Languages, Literatures, and Linguistics, Other."
+N/A,"Literature, Romance",N/A,Arts and Humanities Citation Index,16.09,"Romance Languages, Literatures, and Linguistics."
+N/A,"Literature, Slavic",N/A,Arts and Humanities Citation Index,16.04,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics."
+N/A,Medieval & Renaissance Studies,N/A,Arts and Humanities Citation Index,30.13,Medieval and Renaissance Studies.
+N/A,Music,N/A,Arts and Humanities Citation Index,50.09,Music.
+N/A,Philosophy,N/A,Arts and Humanities Citation Index,38.01,Philosophy.
+N/A,Poetry,N/A,Arts and Humanities Citation Index,23.14,Literature.
+N/A,Religion,N/A,Arts and Humanities Citation Index,38.02,Religion/Religious Studies.
+N/A,Theater,N/A,Arts and Humanities Citation Index,50.05,Drama/Theatre Arts and Stagecraft.
