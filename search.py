@@ -2,43 +2,43 @@ import re
 import csv
 
 # "constant" vars
-IN_FORMATS = ['wos', 'asjc', 'smjournal', 'anzsrc', 'cip', 'dc']
+IN_FORMATS = ['wos', 'asjc', 'smjournal', 'anzsrc', 'cerif', 'cip', 'dc']
 OUT_FORMATS = ['dc', 'cip']
 SEARCH_FORMATS = ['id', 'name']
 
 # classes
 class GenericObj:
-	def __init__(self, local_id, local_name, DC_id):
+	def __init__(self, local_id, local_name, ref_id):
 		self.local_id = local_id
 		self.local_name = local_name
-		self.DC_id = DC_id
+		self.ref_id = ref_id
 
 
 class Ref:
-	def __init__(self, DC_id, Flvl_name, Slvl_name, Tlvl_name):
-		self.DC_id = DC_id
+	def __init__(self, ref_id, Flvl_name, Slvl_name, Tlvl_name):
+		self.ref_id = ref_id
 		self.Flvl_name= Flvl_name
 		self.Slvl_name = Slvl_name
 		self.Tlvl_name = Tlvl_name
 
 	def print_ref(self): 
-		print("mapped ID: " + self.DC_id)
-		print("low level name: " + self.Flvl_name)
-		print("mid level name: " + self.Slvl_name)
-		print("high level name: " + self.Tlvl_name)
+		print("\nMAPPED ID: " + self.ref_id)
+		print("LOW LEVEL NAME: " + self.Flvl_name)
+		print("MID LEVEL NAME: " + self.Slvl_name)
+		print("HIGH LEVEL NAME: " + self.Tlvl_name)
 
 # general function defs
 def clean_string(s):
 	return re.sub(r'\W+', ' ', s.lower())
 
 def clean_id(s):
-	clean_num = re.sub(r'^0', '', s)
-	clean_num = re.sub(r'\.0+$', '', clean_num)
-	clean_num = re.sub(r'\.0+$', '', clean_num)
-	return clean_num
+	cleaned = re.sub(r'^0', '', s)
+	cleaned = re.sub(r'\.0+$', '', cleaned)
+	cleaned = re.sub(r'\.0+$', '', cleaned)
+	return cleaned
 
 # get input format
-print('Input format options: WOS, ASJC, SMjournal, ANZSRC, CIP, DC')
+print('Input format options: WOS, ASJC, SMjournal, ANZSRC, CERIF, CIP, DC')
 in_format = raw_input('Input: ')
 while (clean_string(in_format) not in IN_FORMATS):
 	print('Invalid input format. Please choose from list')
@@ -81,45 +81,47 @@ with open (ref_file_path, 'r') as file:
 
 # get search format
 print('Search options: ID, Name')
-search_format = raw_input('Search by: ')
+search_format = clean_string(raw_input('Search by: '))
 while (clean_string(search_format) not in SEARCH_FORMATS):
 	print('Invalid search format. Please choose from list')
-	out_format = raw_input('Search by: ')
+	search_format = raw_input('Search by: ')
 
 # get search key
-if search_format == 'ID':
+if search_format == 'id':
 	key = clean_id(raw_input('Search for: '))
 else:
 	key = clean_string(raw_input('Search for: ')) 
 
-# do search
+# search for input
 in_count = 0
-
-if search_format == 'ID':
+if search_format == 'id':
 	while key != in_list[in_count].local_id:	
 		in_count += 1
 		
 		if in_count >= len(in_list): 
-			print('Input not found')
+			print('ID not found')
 			exit(1)
 else:
 	while key != in_list[in_count].local_name:
 		in_count += 1
 		
 		if in_count >= len(in_list):
-			print('Input not found')
+			print('Name not found')
 			exit(1)
 
-temp_id = in_list[in_count].DC_id
+temp_id = in_list[in_count].ref_id
 clean_temp_id = clean_id(temp_id)
 
 ref_count = 0
-while clean_temp_id != clean_id(ref_list[ref_count].DC_id):
+while clean_temp_id != clean_id(ref_list[ref_count].ref_id):
 	ref_count += 1
 
 	if ref_count >= len(ref_list): 
 			print('Reference not found')
 			exit(1)
 
-
+# output
 Ref.print_ref(ref_list[ref_count])
+
+
+## need to stop user from bad inputs (i.e. cip -> cip, ID when format doesn't have IDs)
