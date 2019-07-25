@@ -88,7 +88,7 @@ print('Search options: ID, Name')
 search_format = clean_string(raw_input('Search by: '))
 while (clean_string(search_format) not in SEARCH_FORMATS):
 	print('Invalid search format. Please choose from list')
-	search_format = raw_input('Search by: ')
+	search_format = clean_string(raw_input('Search by: '))
 
 # get search key
 if search_format == 'id':
