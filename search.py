@@ -128,6 +128,39 @@ while clean_temp_id != clean_id(ref_list[ref_count].ref_id):
 Ref.print_ref(ref_list[ref_count])
 
 
-## need to stop user from bad inputs (i.e. cip -> cip, ID when format doesn't have IDs)
-## deal with cleaning apostrophes
-## allow user to continue doing searches?
+
+
+
+
+'''
+need to stop user from bad inputs (i.e. cip -> cip, ID when format doesn't have IDs)
+deal with cleaning apostrophes
+allow user to continue doing searches?
+
+
+
+
+DICT OPTION:
+
+////////////For input search//////////////
+"inputted ID": "mapped ID"				ex: "1007": "3.04.01"
+"inputted name": "mapped ID"			ex: "Architecture": "3.04.01"
+
+///////For mapped reference search////////
+"mapped ID": ["low level name", "mid level name", "high level name"]	
+			ex: "2.04.15": ["Sculpture", "Art and Design", "Arts and Humanities"]
+
+Pro: easy search (ex: dict.get("3.04.01"))
+
+Concerns: fuzzy match, even just with clean_string function, seems difficult with dict.get()
+		  do we even need to store data in data structure vs. comparing in moment and holding onto data we need
+
+'''
+
+
+
+
+
+
+
+
