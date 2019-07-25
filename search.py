@@ -22,19 +22,24 @@ class Ref:
 		self.Tlvl_name = Tlvl_name
 
 	def print_ref(self): 
-		print("\nMAPPED ID: " + self.ref_id)
-		print("LOW LEVEL NAME: " + self.Flvl_name)
-		print("MID LEVEL NAME: " + self.Slvl_name)
-		print("HIGH LEVEL NAME: " + self.Tlvl_name)
+		print('\n\n{')
+		print('\t"mapped_id": "' + self.ref_id + '",')
+		print('\t"low_level_name": "' + self.Flvl_name + '",')
+		print('\t"mid_level_name": "' + self.Slvl_name + '",')
+		print('\t"high_level_name": "' + self.Tlvl_name + '"')
+		print('}')
 
 # general function defs
 def clean_string(s):
-	return re.sub(r'\W+', ' ', s.lower())
+	cleaned = re.sub(r'\W+', ' ', s.lower())	# remove special characters
+	cleaned = re.sub(r'^\s+', '', cleaned)		# remove leading spaces
+	cleaned = re.sub(r'\s+$', '', cleaned)		# remove trailing spaces
+	return cleaned
 
 def clean_id(s):
-	cleaned = re.sub(r'^0', '', s)
-	cleaned = re.sub(r'\.0+$', '', cleaned)
-	cleaned = re.sub(r'\.0+$', '', cleaned)
+	cleaned = re.sub(r'^0', '', s)				#remove leading 0
+	cleaned = re.sub(r'\.0+$', '', cleaned)		#remove trailing .00
+	cleaned = re.sub(r'\.0+$', '', cleaned)		#remove trailing .00
 	return cleaned
 
 # get input format
@@ -63,7 +68,6 @@ ref_list = []
 with open (in_file_path, 'r') as file:
 	in_reader = csv.reader(file)
 
-	next(in_reader)
 	next(in_reader)
 
 	for line in in_reader:
@@ -125,3 +129,4 @@ Ref.print_ref(ref_list[ref_count])
 
 
 ## need to stop user from bad inputs (i.e. cip -> cip, ID when format doesn't have IDs)
+## deal with cleaning apostrophes
