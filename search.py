@@ -130,3 +130,4 @@ Ref.print_ref(ref_list[ref_count])
 
 ## need to stop user from bad inputs (i.e. cip -> cip, ID when format doesn't have IDs)
 ## deal with cleaning apostrophes
+## allow user to continue doing searches?
