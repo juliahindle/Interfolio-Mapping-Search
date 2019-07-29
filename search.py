@@ -1,5 +1,6 @@
 import re
 import csv
+from fuzzywuzzy import fuzz
 
 # "constant" vars
 IN_FORMATS = ['wos', 'asjc', 'smjournal', 'anzsrc', 'cerif', 'cip', 'dc']
@@ -106,15 +107,25 @@ if search_format == 'id':
 			print('ID not found')
 			exit(1)
 else:
+	max_ratio = 0
 	while key != in_list[in_count].local_name:
+		''''''
+		current_ratio = fuzz.ratio(key, in_list[in_count].local_name)
+		
+		if current_ratio > max_ratio:
+			max_ratio = current_ratio
+			temp = in_list[in_count].local_name
+		''''''
 		in_count += 1
 		
 		if in_count >= len(in_list):
-			print('Name not found')
+			print('Name not found. Did you mean ' + '\033[94m' + temp + '\033[0m' + '?')
 			exit(1)
 
 temp_id = in_list[in_count].ref_id
 clean_temp_id = clean_id(temp_id)
+
+
 
 ref_count = 0
 while clean_temp_id != clean_id(ref_list[ref_count].ref_id):
